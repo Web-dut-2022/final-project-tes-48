@@ -1,0 +1,128 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Book
+{% endblock %}
+
+
+{% block header %}
+     <script>
+document.addEventListener('DOMContentLoaded', function() {
+
+                  // Change font color to red
+                  document.querySelector('#red').onclick = function() {
+                      document.querySelector('#changeColor5').style.color = 'red';
+                      document.querySelector('#changeColor3').style.color = 'red';
+                      document.querySelector('#changeColor4').style.color = 'red';
+                      document.querySelector('#changeColor0').style.color = 'red';
+                      document.querySelector('#changeColor1').style.color = 'red';
+                      document.querySelector('#bookR').style.color = 'red';
+                      document.querySelector('#logout_color').style.color = 'red';
+                      document.querySelector('#login_color').style.color = 'red';
+                      document.querySelector('#register_color').style.color = 'red';
+                      document.querySelector('#search_color').style.color = 'red';
+                      document.querySelector('#more_color').style.color = 'red';
+                  };
+
+
+                  // Change font color to blue
+                  document.querySelector('#blue').onclick = function() {
+                      document.querySelector('#changeColor5').style.color = 'blue';
+                      document.querySelector('#changeColor0').style.color = 'blue';
+                      document.querySelector('#changeColor4').style.color = 'blue';
+                      document.querySelector('#changeColor3').style.color = 'blue';
+                      document.querySelector('#changeColor1').style.color = 'blue';
+                      document.querySelector('#bookR').style.color = 'blue';
+                      document.querySelector('#logout_color').style.color = 'blue';;
+                      document.querySelector('#login_color').style.color = 'blue';
+                      document.querySelector('#register_color').style.color = 'blue';
+                      document.querySelector('#search_color').style.color = 'blue';
+                      document.querySelector('#more_color').style.color = 'blue';
+                  };
+
+                  // Change font color to green
+                  document.querySelector('#green').onclick = function() {
+                      document.querySelector('#changeColor5').style.color = 'green';
+                      document.querySelector('#changeColor3').style.color = 'green';
+                      document.querySelector('#changeColor4').style.color = 'green';
+                      document.querySelector('#changeColor0').style.color = 'green';
+                      document.querySelector('#changeColor1').style.color = 'green';
+                      document.querySelector('#bookR').style.color = 'green';
+                      document.querySelector('#logout_color').style.color = 'green';
+                      document.querySelector('#login_color').style.color = 'green';
+                      document.querySelector('#register_color').style.color = 'green';
+                      document.querySelector('#search_color').style.color = 'green';
+                      document.querySelector('#more_color').style.color = 'green';
+                  };
+              });
+
+</script>
+{% endblock %}
+
+
+{% block body %}
+    <h1 id="changeColor3">{{ book.title }}  </h1>
+  <br>
+  <h4 id="changeColor4" style="text-align: center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  isbn: {{book.isbn}}, author: {{book.author}} ,￥: {{book.money}}
+  <br>
+  <br>
+  </h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-outline-warning" style="text-align: center"><a href="{{ url_for('buy', isbn=book.isbn) }}" >I want to buy!!!</a></button>
+    <br>
+    <br>
+    <div class="search-form">
+        <form action="{{  url_for('book',isbn=isbn) }}" method="post">
+            <h2 id="changeColor5" style="text-align: center">Review</h2>
+            <div class="form-group">
+                <select name="rank" style="text-align: center">
+                    <option value="bad">bad</option>
+                    <option value="just-so-so">just-so-so</option>
+                    <option value="good">good</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="text" class="form-control" required="required" name="review">
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-secondary">done</button>
+            </div>
+        </form>
+    </div>
+    <br>
+    {% for review in reviews %}
+        <li id="changeColor0" style="text-align: center">
+        {{ review.username }}
+        <br>
+        {% if review.star == 1 %}
+
+        {% endif %}
+        {% if review.star == 2 %}
+
+        {% endif %}
+        {% if review.star == 3 %}
+
+        {% endif%}
+        {% if review.star == 4 %}
+
+        {% endif%}
+        {% if review.star == 5 %}
+
+        {% endif%}
+        <br>
+        <div style="word-break:break-all">
+        {{review.review}}
+        </div>
+        <br>
+
+        <br>
+
+        </li>
+    {% endfor %}
+
+{% endblock %}

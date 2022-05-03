@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    show
+{% endblock %}
+
+{% block header %}
+    <script>
+document.addEventListener('DOMContentLoaded', function() {
+
+                  // Change font color to red
+                  document.querySelector('#red').onclick = function() {
+                      document.querySelector('#changeColor11').style.color = 'red';
+                      document.querySelector('#changeColor1').style.color = 'red';
+                      document.querySelector('#bookR').style.color = 'red';
+                      document.querySelector('#logout_color').style.color = 'red';
+                      document.querySelector('#login_color').style.color = 'red';
+                      document.querySelector('#register_color').style.color = 'red';
+                      document.querySelector('#search_color').style.color = 'red';
+
+                      document.querySelector('#more_color').style.color = 'red';
+
+                  };
+
+
+                  // Change font color to blue
+                  document.querySelector('#blue').onclick = function() {
+                      document.querySelector('#changeColor11').style.color = 'blue';
+                      document.querySelector('#changeColor1').style.color = 'blue';
+                      document.querySelector('#bookR').style.color = 'blue';
+                      document.querySelector('#logout_color').style.color = 'blue';;
+                      document.querySelector('#login_color').style.color = 'blue';
+                      document.querySelector('#register_color').style.color = 'blue';
+                      document.querySelector('#search_color').style.color = 'blue';
+
+                      document.querySelector('#more_color').style.color = 'blue';
+                  };
+
+                  // Change font color to green
+                  document.querySelector('#green').onclick = function() {
+                      document.querySelector('#changeColor11').style.color = 'green';
+
+                      document.querySelector('#changeColor1').style.color = 'green';
+                      document.querySelector('#bookR').style.color = 'green';
+                      document.querySelector('#logout_color').style.color = 'green';
+                      document.querySelector('#login_color').style.color = 'green';
+                      document.querySelector('#register_color').style.color = 'green';
+                      document.querySelector('#search_color').style.color = 'green';
+
+                      document.querySelector('#more_color').style.color = 'green';
+                  };
+              });
+
+</script>
+
+{% endblock %}
+
+{% block body %}
+<h1 id="changecColor6">your information<hi>
+    <div>name:{{information.username}} location:{{information.location}}</div>>
+    {% for isbn in book %}
+    {% if isbn == book.isbn%}
+    （{{book.title}} {{book.author}} {{book.money}}）
+    {% endif %}
+    {% endfor %}
+
+{% endblock %}

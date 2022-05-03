@@ -1,0 +1,4000 @@
+1,C and pointer,KennethA· Reek,5
+2,Programmer Interview Guide (5th edition),[the] GayleLaakmannMcDowell,5
+3,Programmer code interview guide: IT enterprise algorithm and data structure problem optimal solution,Left cloud,5
+4,Design and build websites with HTML & CSS,[the] JonDuckett,5
+5,The professionalism of programmers,[the] RobertC · Martin,5
+6,Raspberry PI starts playing with Linux,Go i'm gone.,5
+7,Yuhiro Matsumoto: Design and implementation of programming languages,Hirohiro Matsumoto,5
+8,The Definitive guide to JavaScript (6th edition),DavidFlanagan,5
+9,The tao of programming,GeoffreyJames,5
+10,Introduction to Computer Science (12th edition),[the] J.G lennBrookshear,5
+11,Designing Data-Intensive Applications,MartinKleppmann,5
+12,Code of the pulp,Nishio Takazu,5
+13,In-depth understanding of Apache Dubbo and combat,Notions of pole,5
+14,C Programming,Tan Haoqiang,5
+15,R Data Science,[New Zealand] Hadley Wickham,5
+16,"Object-oriented Sunflower: Ideas, Techniques and Practices",Edited by Li Yunhua,5
+17,Through the computer fog,sasihorfswe,5
+18,Test-driven development,KentBeck,5
+19,SQL anti-patterns,[the] BillKarwin,5
+20,The code of,Michael Connell,5
+21,"""Stupid way"" to learn Python",[Ireland] Shaw,5
+22,Windows hacker programming techniques in detail,GanDiWen,5
+23,C Pitfalls and defects,Mr Koenig,5
+24,Refactoring (Version 2),MartinFowler,5
+25,Detective algorithm,Jeremy Kubica,5
+26,Compilation principle,AlfredV. Aho,5
+27,Analysis of Python Data Structures and Algorithms (version 2),Bradley Miller,5
+28,Python language and its applications,[the] BillLubanovic,5
+29,Graphic cryptography,Jie Chenghao,5
+30,Programming practice,[the] BrianW Kernighan,5
+31,Algorithms,RobertSedgewick,5
+32,More Effective C++,Meyer (ScottMeyers),5
+33,Computer network,JamesF. Kurose,5
+34,An introduction to algorithms,[the] UdiManber,5
+35,C++ Primer,StanleyB. Lippman,5
+36,Linux command line overview,"Salt, (WilliamE Shotts)",5
+37,Diagrams of data structures and algorithms,Jay Wingo,5
+38,The Art of Readable Code,DustinBoswell,5
+39,Go Language learning notes,The rain mark,5
+40,"The Elements of Programming Style, 2nd Edition",BrianW. Kernighan,5
+41,Introduction and Practice of R language,[the] GarrettGrolemund,5
+42,hackers,StevenLevy,5
+43,The Definitive Guide to Python Web crawlers (2nd edition),Ryan Mitchell,5
+44,C Security coding standard,RobertC. Seacord,5
+45,Deep Learning with Python,FrancoisChollet,5
+46,Dream broken code,ScottRosenberg,5
+47,"Python Learning Manual (Original book, 5th edition)",Mark Lutz,5
+48,UNIX Programming art,"[the] EricS, Raymond",5
+49,Python neural network programming,[Britain] TariqRashid,5
+50,Continuous delivery,JezHumble,5
+51,"Java introduction 1, 2, 3",ZangMeng,5
+52,Build the method of,Zou xin,5
+53,New thinking of C++ design,AndreiAlexandrescu (beauty),5
+54,Software Foundations,BenjaminC. Pierce,5
+55,Programmer Interview Guide (6th edition),GayleLaakmannMcDowell,5
+56,Transformation of enterprise IT architecture: Alibaba in Taiwan strategic thought and structure combat,Zhong hua,5
+57,TCP/IP (5th edition),Takeshita Takashi,5
+58,Introduction to algorithms,[the] ThomasH Cormen,5
+59,DOOM rev ShiLu,David Cashman,5
+60,JavaScript & jQuery interactive Web front-end development,"[US] Duckett,J.",5
+61,Assembly Language (2nd edition),Wang Shuang,5
+62,White hat is about browser security,Qian Wenxiang,5
+63,Crazy Java handout,Li Gang,5
+64,Practical Java High Concurrency Programming (version 2),GeYiMing,5
+65,Practical Java high concurrency programming,GeYiMing,5
+66,The Effective Engineer,EdmondLau,5
+67,C Programming (4th Edition),Tan Haoqiang,5
+68,Explore the C++ object model in depth,StanleyB.Lippman,5
+69,C + + API design,[the] MartinReddy,5
+70,How does a computer run,[Day] Yasawa Hisao,5
+71,JavaScript is object oriented,Nicholas Czerkas,5
+72,Programming is pithy,SteveMaguire,5
+73,Programmer self-cultivation,Chen Yihe,5
+74,Lattice between the assembly,Raymond zhang,5
+75,Network Programming in Python (version 3),[the] BrandonRhodes,5
+76,Effective Modern C++ (simplified Chinese,ScottMeyers,5
+77,Aha C language! The Challenge of Logic (revised Edition),Aha lei,5
+78,Windows Core Programming (Version 5),JeffreyRichter,5
+79,Hadoop: Big Data Storage and Analysis (4th edition)(Revised edition)(Updated Edition),Tomwhite,5
+80,The Art of Computer Programming (Volume 1),[the] DonaldKnuth,5
+81,"In Depth with the Java Virtual Machine (Original Book, 2nd edition)",Venners,5
+82,High Performance Python,MichaGorelick,5
+83,Build high-performance Web sites,Guo Xin,5
+84,Proficient in regular expressions,[the] JeffreyE f. Friedl,5
+85,The Go Programming Language,BrianW. Kernighan,5
+86,Computer Networking (5th Edition),AndrewS. Tanenbaum,5
+87,TCP/IP network programming,Han] Yin Shengyu,5
+88,Challenge programming Contest 2 Algorithms and data structures,Hirotaka Watanabe,5
+89,Mathematics and generic programming,[United States] AlexanderA.Stepanov,5
+90,Akka Application Patterns: a practical guide to distributed application design,MichaelNash,5
+91,Scala functional programming,"PaulChiusano,RúnarBjarnason",5
+92,Work outside of code,[the] GregoryT. Brown,5
+93,Unity game design and implementation,Masaki Kato,5
+94,Reactive design pattern,RolandKuhn,5
+95,JavaScript you Didn't Know (Middle Volume),[the] KyleSimpson,5
+96,C++ primer plus,StephenPrata,5
+97,Java multithreaded programming practical guide (core),Wen-hai huang,5
+98,Proficient in Spring 4. X,Chen Xionghua,5
+99,Powerful because of computers,SeymourPapert,5
+100,Aha C! Think one step ahead of you,Aha lei,5
+101,Programmatic Abecas (2nd Edition),[the] JonBentley,5
+102,Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,BradleyN. Miller,5
+103,C Language Introduction classic (5th edition),Horton (I.),5
+104,Explore the C++ object model in depth,[the] StanleyB Lippman,5
+105,The operating system,WilliamStallings,5
+106,Kubernetes in Action,【 the 】 MarkoLuksa,5
+107,In-depth understanding of the Java virtual machine,Zhi-ming zhou,5
+108,All the programming,By StevenFoote,5
+109,Game Engine Architecture,JasonGregory(JasonGregory) Gregory),5
+110,Pro Git (Second Edition),scottchacon,5
+111,PHP and MySQL Web Development (Original Book 4th Edition),LukeWelling,5
+112,Introduction and practice of feature engineering,SinanOzdemir,5
+113,C++ language design and evolution,Stroustrup,5
+114,Flask Web Development: Python based Web application development,[the] MiguelGrinberg,5
+115,Java SE 8 for busy people,"【 典 型 范 例 2 】 A man is a man. Haltzman, S.)",5
+116,Purely Functional Data Structures,ChrisOkasaki,5
+117,Clean code,Martin,5
+118,Algorithm design and analysis basis,Ananylevitin,5
+119,Effective C++,[the] ScottMeyers,5
+120,One thing,TomDeMarco,5
+121,R for Data Science,HadleyWickham,5
+122,Design and Implementation of Linux Kernel (3rd Edition),Robert Love,5
+123,High performance website building guide,SteveSouders,5
+124,Encryption and Decryption (version 4),Duan Gang,5
+125,Deep Understanding of Android,Deng Fan flat,5
+126,Code,CharlesPetzold,5
+127,Get your hands dirty with Scratch2.0 programming,MajedMarji,5
+128,Collective intelligence programming,bysegaran,5
+129,Python crawler development and project practice,Fan Chuanhui,5
+130,Programming style,[the] CristinaVideiraLopes,5
+131,Redis development and operation,FuLei,5
+132,Introduction to Computer Science,BehrouzA. Forouzan,5
+133,At the top of the performance,rank,5
+134,Network multiplayer game architecture and programming,Glazer (JoshuaGlazer),5
+135,Future architecture: from servitization to cloud native,Zhang liang,5
+136,The sword refers to Offer,Hai-tao he,5
+137,SQL injection attack and Defense,clark,5
+138,Python natural language processing,(British) Byrd,5
+139,Art of Computer Programming (Volume 3),[the] DonaldKnuth,5
+140,One-stop learning C programming,Song Jinsha,5
+141,Little Maker's first lesson: a programming primer for kids,Heather Lyons,5
+142,C++ Primer (5th edition),【美】StanleyB.Lippman,5
+143,Core principles of reverse engineering,[HAN] Lee Chengyuan,5
+144,Machine learning,PeterHarrington,5
+145,Operating System Concepts,Silberschatz (A.),5
+146,Redis User manual,Huang Jianhong,5
+147,C language introduction classic,Horton (IvorHorton),5
+148,Hacking,JonErickson,5
+149,C++ programming ideas (two bound volumes),BruceEckel (beauty),5
+150,Discrete Mathematics and Its Applications (Original Book 6th Edition),[the] KennethH Rosen,5
+151,"Concepts, Techniques, and Models of Computer Programming",PeterVanRoy,5
+152,Head First HTML5 Programming,EricFreeman,5
+153,The Nature of Code,DanielShiffman,5
+154,Agile software development,Martin,5
+155,The CSS revelation,[bush] LeaVerou,5
+156,Automate the Boring Stuff with Python,AlbertSweigart,5
+157,Java development practice classic,Edited by Li Xinghua,5
+158,Database system implementation,HectorGarcia-Molina,5
+159,Redis of actual combat,JosiahL. Carlson,5
+160,On Java 8,BruceEckel,5
+161,High-performance JavaScript,Nicholas Czerkas,5
+162,Fundamentals of Artificial Intelligence (Senior Secondary),Xiaoou tang,5
+163,Introduction to Computer Science (11th edition),J.GlennBrookshear,5
+164,A Tour of C++,[the] BjarneStroustrup,5
+165,Recommendation System practice,A bright,5
+166,The art of design patterns,Liu Wei,5
+167,Operating Systems,remziarpaci-dusseau,5
+168,Amazing JavaScript engineers: Advanced from the front end to the full end,The Zhu Delong,5
+169,Modern Operating Systems (Original Book 4th Edition),[jose] AndrewS. Tanenbaum,5
+170,SQL Basics,MICK,5
+171,Effective Java,JoshuaBloch,5
+172,Write your own Java virtual machine,Zhang Xiuhong,5
+173,Soft skills,JohnSonmez,5
+174,First line of code,Guo Lin,5
+175,Python Cookbook,AlexMartelli,5
+176,Linux command line and shell scripting,Richard Blum - Wikipedia,5
+177,An in-depth look at Tomcat,cultivation,5
+178,HTML5 Canvas core technology,DavidGeary,5
+179,Operating system true restore,Zheng Gang,5
+180,Proficient in regular expressions,[the] JeffreyE f. Friedl,5
+181,C programming language,BrianW. Kernighan,5
+182,C++ language design and evolution,[the] BjarneStroustrup,5
+183,Android advanced decryption,Liu Wangshu,5
+184,Statistical learning method,expericnce,5
+185,Self-cultivation of Web full stack engineers,More than a fruit,5
+186,Psychic chip,danielhillis,5
+187,Fall in love with Processing,GaseyReas&BenFry,5
+188,Implement domain-driven design,vaughnvernon,5
+189,Objective - C programming,[the] AaronHillegass,5
+190,The Pragmatic Programmer,AndrewHunt,5
+191,The art of software debugging,NormanMatloff,5
+192,Crazy Programmer,No shadow,5
+193,Java high concurrency programming in detail,Wang Wenjun,5
+194,Computer system elements,NoamNisan,5
+195,Java Language Programming (Foundation Book 10th edition),Y.Danielliang,5
+196,Vim Practical Tips (2nd edition),[English] DrewNeil,5
+197,Programming in the Linux environment: From application to kernel,peak,5
+198,Principles and Applications of Big Data Technology (2nd Edition),Zi-yu Lin,5
+199,Software debugging,Raymond zhang,5
+200,Taobao technology this decade,The son of,5
+201,The code revelation,ZuoFei,5
+202,The nature of computing,[English] TomStuart,5
+203,Spring Boot Programming Ideas (Core),Mr Ma,5
+204,Programming Quantum Computers,mercedesgio-segovia,5
+205,"An In-depth Understanding of Computer Systems (English Version, 3rd edition)",RandalE. Bryant,5
+206,Debug Hacks Chinese version,The installation hong long,5
+207,The Definitive Guide to Android Programming (3rd edition),BillPhillips,5
+208,The art of Concurrent programming in Java,Party to take off,5
+209,The Definitive JavaScript Guide,Flanagan,5
+210,Seven weeks seven Web development framework,Jack Moffitt - The New,5
+211,Introduction to Fun Programming Python,Mike Saunders,5
+212,Node. Js in actual combat,[the] MikeCantelon,5
+213,Online Game development,BridgettePatrovsky,5
+214,Docker -- Containers and the Container Cloud (version 2),"SEL Laboratory, Zhejiang University",5
+215,Big Data Platform Infrastructure Guide,Liu Xuhui,5
+216,Introduction to JavaScript,crowd,5
+217,CPU homemade introduction,Shui Tou first birthday,5
+218,C++ concurrent programming practice,AnthonyWilliams,5
+219,The dark time,Liu peng not,5
+220,Object-oriented programming in Python 3,[plus]DustyPhillips,5
+221,refactoring,MartinFowler,5
+222,C # essentialism,"M kelly,",5
+223,The Little MLer,MatthiasFelleisen,5
+224,The soul of a programming,federicobiancuzzi,5
+225,Two weeks of homemade scripting,[Japanese] Chiba zi,5
+226,Introduction to J2ME mobile game programming,[the] MichaelMorrison,5
+227,The homemade programming language is based on C language,Zheng Gang,5
+228,C++ programming language,[the] BjarneStroustrup,5
+229,C++ fun programming for primary school students,Hong-bo pan,5
+230,RabbitMQ Field Guide,Zhong-hua zhu,5
+231,R language programming art,NormanMatloff (beauty),5
+232,Large-scale distributed storage system,Yang Chuanhui,5
+233,Effective Java (Version 3),【 the 】 JoshuaBloch,5
+234,Operating System Concepts,AbrahamSilberschatz,5
+235,Java language programming,(mae) Y.D anielLiang,5
+236,Discrete Mathematics and Its Applications (5th Edition),[the] KennethH Rosen,5
+237,C++Primer Plus,StephenPrata,5
+238,Release It!,MichaelT. Nygard,5
+239,"Programming Abecas (English Edition, 2nd Edition)",[the] JonBentley,5
+240,Inside MySQL Technology (Edition 5),[the] PaulDuBois,5
+241,Effective Java: Second Edition,[the] JoshuaBloch,5
+242,Programming Rust,JimBlandy,5
+243,Everyone understands Design Patterns: Learning Design Patterns from Life: Python Implementation,Luo Weifu,5
+244,Lifelong kindergarten,Mitchell Resnick,5
+245,Software architecture is a must-read for programmers,[English] SimonBrown,5
+246,Life of Programming (Volume 1),[the] PeterSeibel,5
+247,Big storage,Zhang Dong,5
+248,The Practice of Programming,BrianW. Kernighan,5
+249,C and pointer,rick,5
+250,"The Art of Computer Programming, Volumes 1-3 Boxed Set",[the] DonaldKnuth,5
+251,Enterprise Application Architecture patterns,[the] Martin fowler,5
+252,Python Machine learning basics tutorial,[D] Andreas Muller,5
+253,Text Mining with R,JuliaSilge,5
+254,Understanding Unix processes,JesseStorimer,5
+255,Game Development Physics,DavidM. Bourg,5
+256,How to Design Programs,MatthiasFelleisen,5
+257,Python Linux system administration and automated o&M,Lai Mingxing,5
+258,Java Core Technologies volume II (Original Book 10th Edition),[US] CayS.Horstmann,5
+259,Graphic deep learning,Yamashita Takashi,5
+260,The future of code,Hirohiro Matsumoto,5
+261,The Linux kernel is completely dissected,Zhao Jiong,5
+262,Object-oriented analysis and design,GradyBooch - The New Year,5
+263,UNIX Programming art,"[the] EricS, Raymond",5
+264,Proficient in Scrapy web crawlers,Liu Shuo,5
+265,Tomcat and Java Web Development (2nd edition),lindasun,5
+266,Django enterprise development practice,Hu Yang,5
+267,MATLAB numerical calculation,moller,5
+268,Writing A Compiler In Go,ThorstenBall,5
+269,Graphic Cryptography (3rd Edition),Jie Chenghao,5
+270,Enterprise business Architecture Design: Methodology and Practice,FuXiaoYan,5
+271,ggplot2: Elegant Graphics for Data Analysis (Use R!),HadleyWickham,5
+272,Computer network,(Dutch) AndrewS Tanenbaum,5
+273,Programming Pearls,[the] JonBentley,5
+274,Game ai programming case highlights,MatBuckland,5
+275,The Art of Multiprocessor Programming,MauriceHerlihy,5
+276,Python 3 ice-breaking AI from beginner to real,Charles wong,5
+277,Homemade compiler,[Japan] Maichiro Aoki,5
+278,A little knowledge shows Rust,Fan Changchun,5
+279,Python Data Analysis Basics tutorial (version 2),IvanIdris,5
+280,DOOM (Memorial Edition),Kushner (D),5
+281,Introduction to Computer Science,NellDale (beauty),5
+282,Algorithm contest introduction classic,Liu Rujia,5
+283,Self-study is a craft,Lee smile to,5
+284,"The Scheme Programming Language, 4th Edition",R.KentDybvig,5
+285,One month myth,Frederick Brooks,5
+286,Software architecture Design,Yu Chunlong,5
+287,"UNIX Network Programming: 2nd edition. Volume 2, Interprocess Communication (Chinese version)",[the] w. RichardStevens,5
+288,"Is Parallel Programming Hard, And, If So, What Can You Do About It?",PaulE. McKenney,5
+289,Architectural Adventure - Write a Java Web framework from scratch,Huang Yong,5
+290,Node.js development practice,[the] JimR. Wilson,5
+291,The Pragmatic Programmer,DavidThomas,5
+292,Python for Data Analysis,WesMcKinney,5
+293,Java Programming ideas,[the] BruceEckel,5
+294,Head First Java (2nd Edition),KathySierra,5
+295,Computational geometry,NULL,5
+296,Compilation principle,AlfredV. Aho,5
+297,C++ language design and evolution,[the] BjarneStroustrup,5
+298,Machine learning,[the] TomMitchell,5
+299,C++ Concurrency in Action,MrAnthonyWilliams,5
+300,45 Habits of Effective Programmers,[the] VenkatSubramaniam,5
+301,"Spring Cloud Microservices: Getting started, Practicing and Advancing",The Yin Jihuan,5
+302,Boring to learn JavaScript,Morgan (NickMorgan),5
+303,Math for programmers ii,"Flat, and her love",5
+304,Learn Python Full Version with zero basics,craig. Richardson,5
+305,Write maintainable JavaScript,Mr Cass,5
+306,Highly available extensible microservices architecture,Cheng Chao,5
+307,COM essentialism,[the] DonBox,5
+308,A Primer on Memory Consistency and Cache Coherence,MarkHill,5
+309,"The Art of Multiprocessor Programming, Revised Reprint",MauriceHerlihy,5
+310,Introduction to Python,(mae) WilliamF. Punch/RichardEnbody,5
+311,React Native Development Guide (Version 2),Bonnie Eisenman,5
+312,C++ programming,Tan Haoqiang,5
+313,"Game design, prototyping and development",【 the 】 JeremyGibson,5
+314,Learn OpenCV (Chinese version),GaryBradski,5
+315,Python programming and problem solving,Insufficient number of evaluators,5
+316,Programming the original,AlexanderStepanov,5
+317,Python programming is taught without instruction,CoryAlthoff,5
+318,The Method of Construction (2nd Edition),Zou xin,5
+319,"Computer Composition and Design (Original Book, 5th Edition)",DavidA.Patterson,5
+320,The Google Way of testing software,JamesA. Whittaker,5
+321,Overview of number theory,silverman,5
+322,The Training of Programming,[jose] EdsgerW. Dijkstra,5
+323,C++ first,StanleyB. Lippman,5
+324,Python Programming,[the] MarkSummerfield,5
+325,Interview with programming masters,SusanLammers,5
+326,Programming Kubernetes,Michaelhausenblas,5
+327,Design of Service Mesh microservice architecture,Jun-hai liu,5
+328,Fall in love with Python,[Singapore]JamieChan,5
+329,Design Patterns,ErichGamma,5
+330,Lingbo Microstep (Software Development Alert Case Set),王咏刚,5
+331,Principles of Programming languages,RobertW. Sebesta,5
+332,The art of.NET unit testing,He rove,5
+333,Introduction to the ES6 Standard (3rd edition),Nguyen half-stretching,5
+334,The Cathedral and the Fair,"[the] EricS, Raymond",5
+335,Computer Networking (6th Edition),[the] JamesF Kurose,5
+336,Python Learning Manual (4th edition),[the] MarkLutz,5
+337,Discrete Mathematics and Its Applications (Original Book 7th Edition),KennethH. Rosen,5
+338,Linux Shell Scripting Walkthrough (Version 2),ShantanuTushar [India],5
+339,C language from entry to mastery,Wang Di // Han Xu,5
+340,Daub the MySQL,Li Bingyang,5
+341,Hackers and Painters,Paul Graham,5
+342,Modern PHP (Chinese version),JoshLockhart,5
+343,Python programming goes from beginner to master,Ye Weizhong,5
+344,Learn Python with zero fundamentals,Mr Zhang,5
+345,Java Core Technologies (Volume 2) : Advanced Features (Original Book 9th Edition),[the] CayS. Horstmann,5
+346,JAVA 2 Core Technologies Volume I,Horstman,5
+347,From Paxos to Zookeeper,NiChao,5
+348,Python geek project programming,MaheshVenkitachalam,5
+349,Talking code,sperm,5
+350,Make your own iOS App,Zhang Ziyi,5
+351,Algorithm contest introduction classic,Liu Rujia,5
+352,Introduction to Financial Data Analysis: Based on R language,(mae) RueyS. Tsay,5
+353,Cracking the Coding Interview,GayleLaakmannMcDowell,5
+354,Java functional programming,【法】 Pierre-Yvessaumont,5
+355,Algorithms to Live By,BrianChristian,5
+356,Programming techniques to improve C++ performance,DovBulka. Burka) DavidMayhew (David. Mayhew),5
+357,Seven weeks seven languages,[the] BruceA · Tate,5
+358,Python grey hat,[the] JustinSeitz,5
+359,The Rust Programming Language,SteveKlabnikKlabnik - The New,5
+360,Personal Edition (Original Book 3rd Edition),[the] TomDeMarco,5
+361,University course in Unix & Linux,Hahn (HarleyHahn),5
+362,The new algorithm,Xin-yu liu,5
+363,Network game core technology and actual combat,Mr Modest in each other,5
+364,X86 assembly language,sasihorfswe,5
+365,Python for Data Analysis,WesMcKinney,5
+366,C Pitfalls and defects,AndrewKoenig,5
+367,More Effective C++,Scottmeyers,5
+368,97 Things Programmers should Know,KevlinHenney,5
+369,21 days to learn C++(8th edition),Siddhartha Mukherjee,5
+370,Maven of actual combat,Juven xu,5
+371,CSS3 Practical guide,One watt,5
+372,Software Capriccio Volume 1,[the] JoelSpolsky,5
+373,Introduction and Practice of Flutter technology,KangShaoJun,5
+374,Programming languages implement patterns,TerenceParr,5
+375,"Don't worry, Excel VBA is pretty simple",The home of Excel (ExcelHome),5
+376,Zero trust network,EvanGilman,5
+377,Deep learning,Ian Goodfellow,5
+378,Myth of man-month (40th Anniversary Chinese Edition),"By Brooks,F.P.",5
+379,Scala Practical Guide,Venkat Supalamaniam,5
+380,Python Stunts: Become a top hacker with Python,[the] TJO 'Connor,5
+381,Large website system and Java middleware development practice,Xian-jie zeng,5
+382,C Programming,K.N.King,5
+383,Hacker Attack and Defense Technology Handbook (2nd Edition),[English] DafyddStuttard,5
+384,Introduction to Database Systems (5th Edition),Wang shan,5
+385,The code of,SteveMcConnell,5
+386,C# in the shell,JosephAlbahari,5
+387,Python Design Pattern,WesselBadenhorst,5
+388,WPF programming bible,MatthewMacDonald,5
+389,TCP/IP efficient programming,JonC. Snader,5
+390,Programmer's Code Interview Guide: Optimal Solutions to IT Algorithms and Data Structure Problems (2nd edition),Left cloud,5
+391,Accelerated C++,AndrewKoenig,5
+392,Workman's note,39,5
+393,Wireshark network analysis is that simple,Lin Pei full,5
+394,Production programming,CzarneckiKrzysztof,5
+395,Python Financial big data analysis,[D] Yves Chirpisco,5
+396,"Introduction to Algorithms, 3rd Edition",ThomasH. Cormen,5
+397,Programming language,MichaelL. Scott,5
+398,Spring micro service practice,JohnCarnell,5
+399,Java data structures and algorithms,Pull the Buddha,5
+400,Data structures and algorithms: Implemented in Python,Michael T. Goodrich,5
+401,Time-triggered embedded system design patterns,MichaelJ. Pont,5
+402,Hello Ruby: Programming adventures for Kids (paperback),(Finland) Linda Liukas,5
+403,The Implementation of Functional Programming Languages,SimonL. PeytonJones,5
+404,Background development: core technology and application practice,Xu Xiaoxin,5
+405,Learn Python the Hard Way,ZedA. Shaw,5
+406,SRE,BetsyBeyer,5
+407,Java program performance optimization,GeYiMing,5
+408,SQL advanced tutorial,MICK [date],5
+409,TCP/IP Volume 1: Protocols,[the] w. RichardStevens,5
+410,Concrete Mathematics,RonaldL. Graham,5
+411,Algorithms,SanjoyDasgupta,5
+412,Git Authoritative Guide,Jiang Xin,5
+413,Compiler design,KeithCooper - The New Year,5
+414,Django by Example - Second Edition,AntonioMele,5
+415,Learn Python programming,JasonBriggs,5
+416,Classical problem analysis of data structure and algorithm,Narasimha Karumanshi,5
+417,"Eloquent Javascript, 3rd Edition",MarijnHaverbeke,5
+418,Computation,MarvinMinsky,5
+419,The joy of algorithms,Xiao-hua wang,5
+420,"Get started with Python Game Programming, version 4",[the] AlSweigart,5
+421,Kotlin's definitive guide to programming,Josh Skene,5
+422,Programming Challenges,StevenSSkiena,5
+423,"Programming in Lua, Fourth Edition",RobertoIerusalimschy,5
+424,Creative Code,JohnMaeda,5
+425,Understand ES6 in depth,【 the 】 NicholasC Zakas,5
+426,The Definitive Guide to Java Performance,Oakes (ScottOaks),5
+427,Yuhiro Matsumoto's world of programming,Hirohiro Matsumoto,5
+428,Effective JavaScript,[Argentina] Hermann,5
+429,Practical Python web crawler,Yong-xiang huang,5
+430,Streaming Systems,#NAME?,5
+431,Programming language,[Britain] Scott,5
+432,Elephant: Thinking in UML(2nd Edition),Tan Yunjie,5
+433,Malicious code analysis actual combat,MichaelSikorski - Wikipedia,5
+434,The training of an effective programmer,[the] JeffAtwood,5
+435,C Abstract thinking in programming,EricS. Roberts,5
+436,TCP/IP Volume 2: implemented,Stevens,5
+437,Java Core Technologies Volume 1: Basics (Original Book 9th Edition),(mae) CayS. Horstmann,5
+438,Introduction to Python Programming (Version 3),[and] TobyDonaldson,5
+439,Learn Python with zero basics,The little turtle,5
+440,Recommendation system,[Austria]DietmarJannach,5
+441,Structured Design,YourdonPress,5
+442,Simple knowledge leads to simple cryptography,ChristofPaar,5
+443,JavaScript Design pattern,Zhang Rongming,5
+444,Go Web programming,[Singapore]SauSheongChang(cheng siu-hung),5
+445,Implementation pattern,KentBeck,5
+446,An introduction to programming,[the] JohnV Guttag,5
+447,The Art of Unit Testing (2nd edition),[in] RoyOsherove,5
+448,Essential C++,[the] StanleyB Lippman,5
+449,"Essentials of Programming Languages, 3rd Edition",DanielP. Friedman,5
+450,Practical Common Lisp,[the] PeterSeibel,5
+451,ANSI Common Lisp,Paul Graham,5
+452,Crazy Java handout,Li Gang,5
+453,Head First PHP & MySQL,LynnBeighley,5
+454,The C Language (3rd edition),[Japan] Shibata Miyang,5
+455,Confused travel agent,[the] WilliamJ. Cook,5
+456,Regular guidance,Yu Sheng,5
+457,Python can be learned this way,Pay the dong,5
+458,Python black hat,[the] JustinSeitz,5
+459,upstream,Alibaba Group Growth Set Editorial Board,5
+460,"Large-scale system application architecture: deployment, disaster recovery, performance optimization",Li Yanchao et al,5
+461,"Professional JavaScript for Web Developers, 4th Edition",MattFrisbie,5
+462,The art of software framework design,[home] JaroslavTulach,5
+463,Erlang Fun Learning Guide,NULL,5
+464,Algorithmic Art and Informatics Competition,Liu Rujia,5
+465,Proficient in script hacking,Zhi-fen said good,5
+466,TensorFlow for deep learning,Jin-hong li,5
+467,Algorithm based,By ThomasH.Cormen,5
+468,Scrapy Web crawler,zhang,5
+469,The Linux Command Line,WilliamE.ShottsJr。,5
+470,Practical Vim,DrewNeil,5
+471,Programming for Linux Systems (2nd Edition),Robert Love,5
+472,"Algorithms: The Secrets of Efficient Algorithms (Original Book, 2nd Edition)","(mae) HenryS. Warren, Jr.",5
+473,C Interfaces and Implementations,DavidR. Hanson,5
+474,MATLAB efficient programming skills and applications,Wu peng,5
+475,ANTLR 4 Definitive guide,TerenceParr,5
+476,Game Development Physics (2nd Edition),DavidMBourg,5
+477,Programming landscape,Insufficient number of evaluators,5
+478,"Programming Language Pragmatics, Third Edition",MichaelL. Scott,5
+479,Introduction to Computer Science,Neil Dell,5
+480,The C++ Programming Language,[the] BjarneStroustrup,5
+481,Effective STL In Chinese,[the] ScottMeyers,5
+482,Language Implementation Patterns,TerenceParr,5
+483,Software story,Steve Lore,5
+484,"Webpack: Getting started, advancing, and tuning",The jade hao,5
+485,Object Oriented Analysis and Design (Chinese Version),#NAME?,5
+486,Linux Shell Script Guide,(India) Lakshman,5
+487,The game trip,Cloud wind,5
+488,Java EE Internet lightweight framework integration development,Yang open vibration,5
+489,Big data architecture and algorithm implementation: Technical combat of e-commerce system,kleif,5
+490,Verilog HDL Advanced digital design,MichaelD. Ciletti,5
+491,CSS world,Zhang Xinxu,5
+492,Hacker attack and defense technology treasure book: anti - virus,JoxeanKoret [es],5
+493,Practical Node.js,AzatMardan,5
+494,Applied cryptography,BruceSchneier,5
+495,Cracking the Coding Interview,GayleLaakmannMcDowell,5
+496,The Computational Beauty of Nature,GaryWilliamFlake,5
+497,Proficient in Oracle Database 12C SQL & PLSQL programming (version 3),Insufficient number of evaluators,5
+498,C++ programming language,Zheng Li,5
+499,Architectural adventure: Write a distributed service framework from scratch,Li Ye soldier,5
+500,Python automation development hands-on,Yong-xiang huang,5
+501,Professional Assembly Language,Richard Blum - Wikipedia,5
+502,Get Programming with Haskell,WillKurt,5
+503,Elephant invisible: A Brief analysis of Unreal Engine programming,Luo ding,5
+504,Effective C++ Third Edition,Meyer S.,5
+505,Computer network,"[the] AndrewS, Tanenbaum",5
+506,Use C++11 in depth,QiYu,5
+507,Software debugging practice,PaulButcher,5
+508,An algorithm you should know before you write a program,AdityaY. Bhargava,5
+509,The nature of programming,AlexanderStepanov,5
+510,The road to rookie growth,Lil bomb,5
+511,.NET framework design,Wang Qingpei,5
+512,Python took me off,Jin-hong li,5
+513,Proficient in Python design patterns,[jose] SakisKasampalis,5
+514,Introduction to Perl,RandalL. Schwartz,5
+515,The Little Schemer - 4th Edition,DanielP. Friedman,5
+516,Head First Android Development,JonathanSimon,5
+517,Windows user - mode program efficient troubleshooting,Bears power,5
+518,High-performance JavaScript,Nicholas Czerkas,5
+519,Principle and application of genetic algorithm,Zhou Ming,5
+520,Thinking in Java,[the] BruceEckel,5
+521,Crazy Android Handout,Li Gang,5
+522,Spring MVC Learning Guide,[Belgium] Dyke,5
+523,Lightweight Java EE Enterprise Applications in action (Version 5),Li Gang,5
+524,Learn Computer Vision Using OpenCV,SunilaGollapudi,5
+525,Unity 4.x Game Development Example Guide,By RyanHensonCreighton; Zhang Yuyi,5
+526,X86 / X64 system exploration and programming,Deng Zhi,5
+527,Homemade search engine,Hiroyuki Yamada,5
+528,Making Games with Python & Pygame,AlSweigart,5
+529,Automatic data collection based on R language,SimonMunzert,5
+530,Software testing experience and lessons,CemKaner,5
+531,Common LISP,DavidS. Touretzky,5
+532,Java goes from beginner to master,Tomorrow's science and technology,5
+533,Design Pattern analysis,AlanShalloway - The New,5
+534,Agile software development,RobertC. Martin,5
+535,The NSHipster,MatttThompson - Wikipedia,5
+536,Spark fast big data analysis,[the] HoldenKarau,5
+537,Data mining,JiaweiHan (beauty),5
+538,Microsoft SQL Server 2008 Technology Insider,ItzikBen-Gan,5
+539,Functional programming thinking,[the] NealFord,5
+540,Regular expressions must know and must know,benforta,5
+541,Rails 5 agile development,[the] SamRuby,5
+542,Hackers & Painters,Paul Graham,5
+543,Prometheus: Up & Running,BrianBrazil,5
+544,Spring Cloud micro services practice,ZhaiYongChao,5
+545,C++ standard library (2nd edition),[DE] NicolaiM Josuttis,5
+546,Erlang/OTP concurrent programming practice,[the] MartinLogan,5
+547,Big data system construction,NathanMarz,5
+548,Inside Spark Technology,Lily zhang stand,5
+549,Psychology of Program Development (Silver Year Edition),[the] GeraldM Weinberg,5
+550,Database index design and optimization,【 the 】 TapioLahdenmaki,5
+551,"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",AurelienGeron,5
+552,CUDA Parallel Programming: A GUIDE to GPU programming,ShaneCook (beauty),5
+553,Fundamentals of statistical natural language processing,ChrisManning,5
+554,Cloud native Java,JoshLong,5
+555,Play with Arduino,JohnBoxall,5
+556,Proficient in Java concurrent programming (Version 2),[ES] Javier Fernandez Gonzalez,5
+557,"Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services",BrendanBurns.,5
+558,Actual Java virtual machine,GeYiMing,5
+559,C + + standard library,[DE] NicolaiM Josuttis,5
+560,C++ template metaprogramming,DavidAbrahams,5
+561,Android app development book for everyone,[the] DavidWolber,5
+562,Writing An Interpreter In Go,ThorstenBall,5
+563,Data Structures (C language Version),YanWeiMin,5
+564,Inside RocketMQ technology,Ding Wei,5
+565,HTTP/2 Basics tutorial,StephenLudin,5
+566,Programmer metrics,Jonathan Alexander - The New Year,5
+567,Digital logic,Method MAO yao,5
+568,Design model and interview guide,NarasimhaKarumanchi (India),5
+569,Revised edition of the first Docker book,JamesTurnbull,5
+570,Fundamentals of Computer Systems,Yuan spring breeze,5
+571,"The Art of Software Testing, Third Edition",GlenfordJ. Myers,5
+572,Mathematical Thinking training of Programmers (Interesting Interpretation),kelly,5
+573,CLR via C#,JeffreyRichter (beauty),5
+574,Guidelines for high quality programming,joy,5
+575,PHP programming Practice,[Canada]PeterMacIntyre,5
+576,Linear algebra,[America] StevenJ.Leon,5
+577,Effective Debugging,DiomidisSpinellis,5
+578,Computer Networking (7th Edition),Xie Xiren,5
+579,Apache Kafka of actual combat,Hu Xi,5
+580,Verilog Digital System design tutorial,Xia Yu smell,5
+581,ACM International Collegiate Programming Competition,YuYong plait,5
+582,Blockchain Wave: Connecting Technologies and Applications,Jia Yinghao jiang Zewu,5
+583,Large-Scale C++ Software Design,JohnLakos,5
+584,Introduction to Python Programming (version 2),[the] JohnV Guttag,5
+585,The Python standard library,DougHellmann - Wikipedia,5
+586,C++ programming idioms,Dr. Murray,5
+587,Software for Use,LarryL. Constantine,5
+588,Principle and design of database management system,RaghuRamakrishnanJohannesGehrke (beauty),5
+589,Designing Event-Driven Systems,BenStopford,5
+590,The Master Algorithm,Mexican domingos,5
+591,Introduction to Programming in Java,RobertSedgewick,5
+592,Android custom control development and combat,Rev. Ship,5
+593,The algorithm of empire,Christopher Steiner,5
+594,Introducing iOS 8,stevederico,5
+595,Effective Java,JoshuaBloch,5
+596,Mastering Node.js - Second Edition: Build robust and scalable real-time server-side web applications efficiently,SandroPasquali,5
+597,Node.js Development Guide,BYVoid,5
+598,Algorithm design,Kleinberg,5
+599,Crawler: From data to products,He Sicong,5
+600,It's an algorithm book for you,[Japan] Yoshihiro Sugiura,5
+601,Producter takes the product from 0 to 1,Zhou Jiewen,5
+602,The Little Book on CoffeeScript,AlexMacCaw,5
+603,Learn You a Haskell for Great Good!,MiranLipovaca,5
+604,Software is so "refined" into - Java learning exercise,Insufficient number of evaluators,5
+605,Track Linux TCP/IP code running,Jian qin,5
+606,C++ Templates,By David Vandevoorde,5
+607,Python Data Science Handbook,JakeVanderPlas,5
+608,Intel? 64 and IA-32 Architectures Software Developer's Manual,Intel,5
+609,Deep Learning Framework PyTorch: Getting Started and Practicing,Chen Yun,5
+610,UNIX: A History and a Memoir,BrianKernighan,5
+611,The Phoenix Project,GeneKim,5
+612,MySQL Technology Insider,davidjiang,5
+613,The Art of Linux Kernel Design (2nd Edition),New Design Team,5
+614,Practical C programming language,SteveOualline,5
+615,"Java in a Nutshell, 6th Edition",BenjaminJEvans,5
+616,Python Data Analysis and Data-driven Operations (version 2),Insufficient number of evaluators,5
+617,Lean startup,Eric Rice,5
+618,Introduction to information retrieval,ChristopherD. Manning,5
+619,Reconstruction (photocopy),[the] Martin fowler,5
+620,Neuroscience Matlab tutorial,PascalWallisch,5
+621,Test-driven development,KentBeck,5
+622,The TeXbook,[the] DonaldKnuth,5
+623,Introduction to Data Compression (4th edition),[the] KhalidSayood,5
+624,Lua design and implementation,codedump,5
+625,HTML5 Canvas,SteveFulton,5
+626,C++ from beginner to master,Tomorrow's science and technology,5
+627,Learn C language in 21 days,Brad l. Jones (USA) PeterAitken (USA),5
+628,Explore relational databases in depth,C.J.Date,5
+629,The Myth of man-moon,"[the] FrederickP · Brooks, Jr",5
+630,UNIX Network Programming (Volume 1): Networking APIs: Sockets and XTI(2nd edition),[the] w. RichardStevens,5
+631,C++ Cookbook Chinese edition,stephens,5
+632,"Windows Internals, Part 1",PavelYosifovich,5
+633,Python 3 Learning Notes (Volume 1),The rain mark,5
+634,The Definitive Guide to Android Programming (2nd edition),BillPhillips,5
+635,IPhone 3D programming,Insufficient number of evaluators,5
+636,Haxe 2 Beginner's Guide,"Dasnois, Benjamin",5
+637,C++ disassembly and reverse analysis technology revealed,Qian Linsong,5
+638,Android full buried point solution,Wang Zhuozhou,5
+639,Introduction and practice of wechat small program development,Mr. Lei,5
+640,Java programming language,"[the] KenArnold, etc",5
+641,The road to quantitative trading,ABU,5
+642,Understanding the Digital World,BrianW. Kernighan,5
+643,Fundamentals of Python data analysis,[the] ClintonW Brownley,5
+644,More Effective C# (original book 2nd edition),BillWagner,5
+645,C++ programming principles and practice,[the] BjarneStroustrup,5
+646,Agile Approaches to Web development,Thomas (D.),5
+647,Think Python,AllenB. Downey,5
+648,"TCP/IP Sockets in C, Second Edition",MichaelJ. Donahoo,5
+649,Programming Scala,DeanWampler Hotels,5
+650,IOS Programming (Version 6),[the] ChristianKeur,5
+651,Starting Out with Python,"Gaddis,Tony",5
+652,The Productive Programmer,Neil Ford,5
+653,R Cookbook,PaulTeetor,5
+654,Expert One-on-One J2EE Development without EJB,RodJohnson,5
+655,Java 8 in Action,Raoul-GabrielUrma,5
+656,UNIX Networking Programming Volume 1: Socket Networking apis (version 3),W.RichardStevens,5
+657,Introduction To Programming In Java,"Sedgewick,Robert;Wayne,Kevin",5
+658,Spark,BillChambers,5
+659,Paradigms of Artificial Intelligence Programming,PeterNorvig - Wikipedia,5
+660,System Architecture Design,Zheng Tianmin,5
+661,Thinking in C++,[the] BruceEckel,5
+662,Java 7 is a classic introduction,(America) Horton (I.),5
+663,Picture of blockchain,Ming-xing xu,5
+664,Flask in depth,[the] JackStouffer,5
+665,MATLAB programming,chapman,5
+666,Smart era,[US] Wu Jun,5
+667,Java Programming ideas,eckel,5
+668,Sharp jQuery,ChanDongLin,5
+669,Advanced Programming in Python (second edition),[] Micha ? Jaworski,5
+670,Design patterns,gamma,5
+671,Swift Programming Authority Guide (2nd edition),[the] MatthewMathias,5
+672,Inside Spring Technology (2nd edition),Meter Wen Ke,5
+673,An in-depth look at Java Web Technology (revised edition),Xu to wave,5
+674,PHP Advanced Programming,JesusCastagnetto,5
+675,Fundamentals of Probability theory,Ross,5
+676,Spring+MyBatis Enterprise Application (2nd edition),Crazy software,5
+677,"Run, programmer",YevgeniyBrikman,5
+678,"Head First HTML & CSS, XHTML",ElisabethFreeman,5
+679,Programming Languages: Design and Implementation (4th edition),TerrenceW. Pratt,5
+680,Bash Cookbook,CarlAlbing,5
+681,MySQL is the king of the road to promotion,Zhang su,5
+682,Python for Kids,JasonR. Briggs,5
+683,Artificial intelligence (ai),PeterNorvig - Wikipedia,5
+684,Python Development,[sep]BePROUD Inc,5
+685,"Left hand MongoDB, right hand Redis -- from beginning to business",Xie Qiankun,5
+686,Vue. Js,Bo-wen liu,5
+687,R Graphics Cookbook,WinstonChang,5
+688,The Python data analyst's Way,Insufficient number of evaluators,5
+689,Make Your Own Neural Network,TariqRashid,5
+690,"High concurrency of Netty, Redis, and Zookeeper",Mr.,5
+691,Programming Elixir,DaveThomas,5
+692,Microservices architecture design patterns,Chris? ChrisRichardson,5
+693,The art of Linux Shell programming,zhangze,5
+694,Node.js in Action,mia,5
+695,R language in data science,Li ship,5
+696,Introduction to algorithms,SanjoyDasgupta,5
+697,The Rust Programming Language (Covers Rust 2018),stevebar,5
+698,Python microservices development,By TarekZiade and translated by zhang yuan jian,5
+699,Smashing Node.js,GuillermoShub,5
+700,If for freedom,[the] SamWilliams,5
+701,JAVA concurrent programming practices,goetz,5
+702,JavaScript Patterns,StoyanStefanov,5
+703,The code reverts to the super useful Node.js code snippet,Written by zhou min,5
+704,JavaScript test driven development,[the] VenkatSubramaniam,5
+705,The tao of programming,Jeffery James,5
+706,C++ for busy people,【 典 型 范 例 1 】 He is a man of great importance. Overland),5
+707,The Definitive Guide to IDA Pro (2nd edition),eagle,5
+708,Python Basics tutorial (2nd edition ? Revised),The hutt orchid,5
+709,"TCP/IP Volume 3: TCP transaction protocol, HTTP, NNTP, and UNIX domain protocol",Gu yu hu,5
+710,Java Generics and Collections,MauriceNaftalin,5
+711,Hackers and painters,Paul Graham,5
+712,Computer Composition: a structured approach,Temple tender baum,5
+713,The subtleties of programming languages,Chinese fir PuXian,5
+714,JSP & Servlet learning Notes,[Taiwan] Lin Xinliang,5
+715,JavaScript advanced programming,Nicholas Czerkas,5
+716,C language,Herbert Hilt,5
+717,"Millions, Billions, Zillions",BrianKernighan,5
+718,Java Multithreaded Programming Field Guide (Design Patterns),Wen-hai huang,5
+719,MySQL Technology Insider,davidjiang,5
+720,Spark Machine learning,NickPentreath,5
+721,Python programming development guide,Pay the dong,5
+722,Crazy Java Handouts (4th edition),Li Gang,5
+723,How to Break Software,"Whittaker, JamesA.",5
+724,Fundamentals of quantum programming,MingshengYing,5
+725,C# advanced programming,ChristianNagel,5
+726,A Tour of C++,BjarneStroustrup,5
+727,"C Language Curriculum Design and Game Development Practice Course (Recommended by Computer Teaching Steering Committee of Higher Education, Ministry of Education)",TongJing,5
+728,Visual Basic.NET programming,"Qiang Shasha, Luo Yishu et al",5
+729,Small Teams building Large Websites: Architectural practices for Small and Medium-sized R&D Teams,Zhang Huiqing etc.,5
+730,"Efficient Python development: Django, Tornado, Flask, Twisted (2nd edition)",Chang-long liu,5
+731,C++ Templates,By David Vandevoorde,5
+732,Pattern Languages for Programming (Volume 1),Coplien,5
+733,Algorithm: C language implementation,Sedgwick,5
+734,Computer Vision,RichardSzeliski,5
+735,Java Web Development (Basics),Li xh,5
+736,Design and implementation of a 64-bit operating system,A scholar,5
+737,Simple SQL (Chinese version),Berry invent,5
+738,Pointers on C,KennethReek,5
+739,Qt 5.9 C++ development guide,Wang Weibo,5
+740,"Art of Computer Programming, Vol. 3",[US] Donald D. Knuth,5
+741,GNU Make Project Management (version 3),RobertMecklenburg (beauty),5
+742,Flash ActionScript 3.0 Animation Advanced tutorial,KeithPeters,5
+743,Node.js Hardball: 115 core tips,【 the 】 AlexR. Young,5
+744,Dive into the Linux kernel architecture,WolfgangMauerer,5
+745,Think like a programmer,V.AntonSpraul,5
+746,Internet lightweight SSM framework decryption,Yan-peng li etc.,5
+747,Algorithm Design Manual,", Roy keane,",5
+748,Pattern Oriented Software Architecture Volume 1,[DE] FrankBuschmann,5
+749,"Essential Mathematics for Games and Interactive Applications, Second Edition",JamesM. VanVerth,5
+750,Code clean,Robert C. Martin,5
+751,Python pocket Guide,[the] MarkLutz,5
+752,Windows network and communication program design,Lucy,5
+753,C++ programming language (special edition),Biani Stroustrup,5
+754,Art of Computer Programming (Volume 2),DonaldE. Knuth,5
+755,The world is digital,[the] BrianW Kernighan,5
+756,Seven Weeks seven Languages (Volume 2),Bruce Tate 【美】Bruce Tate,5
+757,"Pattern Recognition, Fourth Edition",SergiosTheodoridis,5
+758,Interactive computer graphics,Edward,5
+759,The art of multiprocessor programming,MauriceHerlihy (beauty),5
+760,The GNU C Library Reference Manual,SandraLoosemore,5
+761,R's geek ideal,zhang,5
+762,Embedded systems development approach,NULL,5
+763,Big Data,NathanMarz,5
+764,Linux device driver development details,Barry song,5
+765,Spring 5 Development Overview,LiuWeiWei,5
+766,Get Programming with Node.js,recommended,5
+767,Go Concurrent Programming (version 2),hering,5
+768,Debugging of nine,DavidJ. Agans,5
+769,Computer Networking -- Top-down Approach and Internet Features (Photocopied version),JamesF. Kurose,5
+770,C# multithreaded programming (original book 2nd edition),Egin Agfowin,5
+771,C language interface and implementation,DavidR. Hanson,5
+772,The definitive guide to Web Performance,IlyaGrigorik,5
+773,Lua Game Development Practice Guide,PaulSchuytema,5
+774,The art of anti-deception,Mitnick (K.D.),5
+775,Hackers do not kill attack and defense,Ren Xiaohui,5
+776,Learn C language in 21 days,BradleyL. Jones,5
+777,The mathematics and physics of game development,[J] Koji Kato,5
+778,Design Patterns By Tutorials,RaywenderlichTutorialTeam,5
+779,C + + Templates in Chinese,By David Vandevoorde,5
+780,Write your own development tools,Yang Zhongke,5
+781,C++11/14 advanced programming: introduction to the Boost library (version 3),Luo Jianfeng,5
+782,Visual C# from getting started to mastering (edition 8),Sharp (JohnSharp),5
+783,Natural Language Processing in Action,MrLaneHobson,5
+784,Enlightenment through JavaScript,Lee fight,5
+785,Micro channel small program guide,Know the program,5
+786,Fun learning algorithm,Xiao-yu Chen,5
+787,Introduction to Python,[the] MarkLutz,5
+788,JQuery Basic Tutorial (version 4),[the] JonathanChaffer,5
+789,JQuery Technology Insider,High clouds,5
+790,Haskell in Depth,VitalyBragilevsky,5
+791,Python in Depth (Photocopy),PaulBarry,5
+792,That's search engines,Jun-lin zhang,5
+793,Advanced programming in UNIX environments,[the] w. RichardStevens,5
+794,Massively multiplayer online game development,[Britain] Alexander,5
+795,The definitive guide to Web development,"[the] ChrisAquino,",5
+796,When Android meets Lego,King yuan,5
+797,Principles of Distributed Database Systems,M.Tamer?zsu,5
+798,The definitive guide to AppleScript,Nooyi fort,5
+799,Java programming specification,gosling,5
+800,Scala programming,[the] VenkatSubramaniam,5
+801,Python programming,Eric Mathers,5
+802,coding,[the] CharlesPetzold,5
+803,Hackers and Painters,Paul Graham,5
+804,Complete Code (Version 2),Steve McConnell,5
+805,"Construction and Interpretation of Computer programs (Original Book, 2nd Edition)",HaroldAbelson,5
+806,Clean code,[the] RobertC · Martin,5
+807,Smooth the Python,LucianoRamalho [Brazil],5
+808,Ideas for Java Programming (4th edition),[the] BruceEckel,5
+809,Start programming with Python,Go i'm gone.,5
+810,Algorithm diagram,[the] AdityaBhargava,5
+811,Get started with Python programming quickly,AlbertSweigart,5
+812,C programming language,(mae) BrianW Kernighan,5
+813,The programming of mission,JonBentley,5
+814,Programmer self-cultivation,Yu jia,5
+815,algorithm,RobertSedgewick,5
+816,C Primer Plus (6th edition) Chinese version,Prada (StephenPrata),5
+817,In-depth Understanding of Computer Systems (Original Book 3rd Edition),RandalE. Bryant,5
+818,JavaScript Advanced Programming (version 3),Nicholas Czerkas,5
+819,Design patterns,[the] ErichGamma,5
+820,Algorithms (4th edition),RobertSedgewick,5
+821,C programming language,K.N.King,5
+822,The beauty of the programming,The Beauty of Programming,5
+823,The beauty of mathematics,[US] Wu Jun,5
+824,refactoring,MartinFowler,5
+825,The way of programmer training,AndrewHunt,5
+826,The mystery of coding,CharlesPetzold,5
+827,Deep understanding of computer systems,RandalE. Bryant,5
+828,Challenge programming competition,Akiha Takuya,5
+829,C++ Primer (5th edition),[the] StanleyB. Lippman,5
+830,Python Deep Learning,Fran? Ois Chaulet,5
+831,Introduction to Algorithms (original Book 3rd edition),ThomasH. Cormen,5
+832,Python 3 Web crawler development hands-on,Cui Qingcai,5
+833,Head First Java (2nd Edition · Chinese Version),KathySierra BertBates the,5
+834,Data structure and algorithm analysis,[the] MarkAllenWeiss,5
+835,Gardenia Cat's fantasy programming journey,Zhou Lu,5
+836,Coding efficiently: The Java Development Manual,Yang Guanbao,5
+837,Head First Design Mode (Chinese version),Freeman,5
+838,An in-depth understanding of the Java Virtual Machine (Version 2),Zhi-ming zhou,5
+839,Stupid way to learn Python 3,[US] Zed A. Shaw,5
+840,Code farmers turn,Liu xin,5
+841,Comic book Algorithms: The Journey of Xiao Grey's algorithms,Wei Mengshu,5
+842,The art of writing readable code,"- Boswell,D.",5
+843,coding,CharlesPetzold,5
+844,Spring Practice (4th edition),CraigWalls vols,5
+845,JavaScript you Don't Know (Volume 1),[the] KyleSimpson,5
+846,Collective intelligence programming,bysegaran,5
+847,Java concurrent programming practice,BrianGoetz,5
+848,Use Python for data analysis,WesMcKinney,5
+849,Big talk about data structures,gemee,5
+850,Advanced programming in UNIX environments,W.RichardStevens,5
+851,"In-depth Understanding of computer Systems (Original Book, 2nd edition)",(mae) RandalE. Bryant,5
+852,Father and son's programming journey,Thornton (WarrenSande),5
+853,Head First HTML and CSS (Version 2),ElisabethRobson,5
+854,The way of programmer training,AndrewHunt,5
+855,Effective C++,Meyer (ScottMeyers),5
+856,The data structure,Jun-hui deng,5
+857,The concrete mathematical,RonaldL. Graham,5
+858,Crazy Python lectures,Li Gang,5
+859,Beginner's Guide to Python programming,[the] MichaelDawson,5
+860,C Programming: A Comprehensive introduction to C (3rd edition),StephenKochan (beauty),5
+861,Introduction to Algorithms (Original Book 2nd edition),[the] ThomasH Cormen,5
+862,The illustration of HTTP,[Japan] Ueno Xuan,5
+863,Java Core Technologies volume I (Original Book 10th Edition),[US] CayS.Horstmann,5
+864,A Philosophy of Software Design,JohnOusterhout,5
+865,How is the network connected,[Japan] Hogan Qin,5
+866,Lighter and Princess dress · Barren Grass Garden,Twentine,5
+867,Assembly Language (3rd edition),Wang Shuang,5
+868,Advanced Programming for UNIX Environments (version 3),W.r. Stevens,5
+869,C language title selected 100 skills,XianJingGuang,5
+870,C expert programming,PetervanderLinden,5
+871,Hands-on deep learning,AstonZhang,5
+872,Effective Java Chinese Version (2nd edition),[the] JoshuaBloch,5
+873,The essence of JavaScript,douglascrockford,5
+874,C Primer Plus,StephenPrata,5
+875,"The Python Cookbook Chinese edition, 3rd edition",DavidM. Beazley,5
+876,The sword refers to Offer,Hai-tao he,5
+877,Graphic design pattern,Jie Chenghao,5
+878,The Spring revelation,Wang Fuqiang,5
+879,Code cleanliness: Programmer professionalism,By RobertC.Martin,5
+880,A Byte of Python,SwaroopCH,5
+881,Clean architecture,【美】RobertC.Martin (RobertC.Martin),5
+882,Compilation principle,AlfredV. Aho,5
+883,Reconstruction (2nd edition) full color hardcover edition,MartinFowler,5
+884,GitHub Introduction and Practice,Hiroki Otsuka,5
+885,In-depth understanding of Python features,[D] Dagen Bader,5
+886,Effective Java Chinese Version (3rd edition),[the] JoshuaBloch,5
+887,White Hat talks about Web security,Wu Hanqing,5
+888,MySQL will know and will know,[English] BenForta,5
+889,The art of modifying code,MichaelFeathers,5
+890,30 days homemade operating system,[Japan] Kawai Hideki,5
+891,Learn programming with your child,WarrenSande,5
+892,"Data Analysis with Python, 2nd edition",WesMcKinney,5
+893,TCP/IP Volume 1: protocol,[the] w. RichardStevens,5
+894,Data intensive application system design,MartinKleppmann,5
+895,Data structure and algorithm analysis,Wes (MarkAllenWeiss),5
+896,Linux Command line and shell scripting complete edition 3,"Bloom, Bresnahan",5
+897,The colon classroom,Mr. Zheng,5
+898,Python Data Science Manual,JakeVanderPlas,5
+899,Head First Python,(Barry P.),5
+900,Machine learning,zhou,5
+901,Go language advanced programming,Chai Shu fir,5
+902,High performance MySQL,Schwartz (BaronSchwartz),5
+903,Alibaba Java Development Manual,Yang Guanbao,5
+904,Programmer's mind training,[the] AndyHunt,5
+905,Birdman's Linux home dish,The elder brother of the bird,5
+906,Effective C++,[the] ScottMeyers,5
+907,Computer programming,[the] DonaldKnuth,5
+908,JAVA Core Technologies (Volume 1),CayS. Horstmann,5
+909,The Art of JavaScript DOM Programming (Version 2),[English] JeremyKeith,5
+910,Natural Code: Programming to simulate natural systems,DanielShiffman,5
+911,Redis Deep Adventures: Core Principles and Applied Practices,Qian Wenpin,5
+912,Python Basics tutorial (version 3),MagnusLieHetland,5
+913,C language programming modern methods,K.N.King,5
+914,Flask Web development,Li hui,5
+915,Effective Python,BrettSlatkin,5
+916,How does the program work,[Day] Yasawa Hisao,5
+917,Spring the Boot of actual combat,Craig Voss,5
+918,Linux/UNIX System programming manual,MichaelKerrisk - The New,5
+919,One month myth,Frederick Brooks,5
+920,My first programming book,[Japan] Naoto Hirayama,5
+921,Programming Abecas (2nd edition ? Revised edition),JonBentley,5
+922,Unix/Linux programming practice tutorial,BruceMolay,5
+923,Programming thinking for everyone,Jim Christian,5
+924,Big talk about design patterns,gemee,5
+925,Introduction to operating systems,RemziH.Arpaci-Dusseau,5
+926,Regular expressions must Know must Know (revised edition),Foda (BenForta),5
+927,Python Basics tutorial (Version 2),MagnusLieHetland,5
+928,Introduction to Deep Learning,Yasuhi Saito,5
+929,The programming of mission,[the] JonBentley,5
+930,Structure and Interpretation of Computer Programs - 2nd Edition (MIT),HaroldAbelson,5
+931,SQL will know will know,Foda (BenForta),5
+932,Software capriccio,[the] JoelSpolsky,5
+933,Node.js is easy to understand,PiaoLing,5
+934,500 Lines or Less,AmyBrown,5
+935,Redis design and implementation,Huang Jianhong,5
+936,Programming life,[the] PeterSeibel,5
+937,The Little Schemer,[the] DanielP. Friedman,5
+938,Go Language Practice,WilliamKennedy,5
+939,Java Learning Notes,Lin Xinliang,5
+940,Algorithms Contest Introduction Classic (2nd edition),Liu Rujia,5
+941,Python Core Programming (Second edition),[US]WesleyJ.Chun,5
+942,(The 2nd edition),Hai-tao he,5
+943,Aha! algorithm,Aha lei,5
+944,The beauty of Concurrent programming in Java,Zhai in succession,5
+945,The  C Programming Language,BrianW. Kernighan,5
+946,Orange's: An implementation of an operating system,Yu Yuan,5
+947,Large site technical architecture,Rocket power,5
+948,Seven weeks seven concurrent model,PaulButcher,5
+949,Scala Programming (Version 3),【 German 】MartinOdersky Odesky),5
+950,Software Developer Roadmap,DaveH. Hoover,5
+951,UNIX Network programming,Stevens,5
+952,Illustrated Java multithreaded design patterns,Jie Chenghao,5
+953,Agile software development,[the] RobertC · Martin,5
+954,Clean Code,[the] RobertC · Martin,5
+955,Teach children to program in Python,John Howard Payne (BrysonPayne),5
+956,Modern Operating Systems (Version 3),"[the] AndrewS, Tanenbaum",5
+957,Programming Methodology (Chinese version),MatthiasFellinen,5
+958,Just for fun,LinusTorvalds,5
+959,Go programming language,Ellen A.A. Donovan,5
+960,The essence of JavaScript,DouglasCrockford,5
+961,Effective Modern C++,ScottMeyers,5
+962,The definitive guide to Kafka,NehaNarkhede,5
+963,Kotlin core programming,Water Drop Technical Team,5
+964,JavaScript design patterns and development practices,Once agent,5
+965,Artificial intelligence (ai),StuartJ. Russell,5
+966,STL source code analysis,Hou Jie,5
+967,Hi C,[the] DavidGriffiths,5
+968,Computer composition and design,(mae) DavidA. Patterson,5
+969,Programmer's Cry,[the] SteveYegge,5
+970,Fluent Python,LucianoRamalho,5
+971,Programming is fun,[Britain] Jon Woodcock,5
+972,The Definitive GUIDE to HTTP,DavidGourley,5
+973,C++ Primer (4th edition),StanleyB. Lippman,5
+974,Algorithm of notes,Hu Fan,5
+975,The Linux Programming Interface,MichaelKerrisk - The New,5
+976,R Language,"Kabak,",5
+977,Think Python like a Computer Scientist (version 2),Alan B. Downey,5
+978,C# tutorial,Solis (DanielM. Solis),5
+979,Learn architecture from scratch,Yun-hua li,5
+980,refactoring,MartinFowler,5
+981,Java 8 of actual combat,Eritrea's horse (Raoul - GabrielUrma),5
+982,UNIX Programming art,"[the] EricS, Raymond",5
+983,Regular Guidelines (2nd Edition),Yu Sheng,5
+984,Programmer math,"""City hao",5
+985,Python network data collection,Mitchell,5
+986,Hackers and Painters,Paul Graham,5
+987,Worldview in Code -- The Path to architect,Yu leaves,5
+988,The Method of Construction (3rd Edition),Zou xin,5
+989,Start programming!,Compiled by the UK Teen Developer Community,5
+990,Java Concurrency in Practice,BrianGoetz,5
+991,First line of code: Android (Version 2),Guo Lin,5
+992,Grokking Algorithms,AdityaBhargava,5
+993,Microservice design,[English] SamNewman,5
+994,Parsing Python source Code,Chen Ru,5
+995,C++ standard library,[DE] NicolaiM Josuttis,5
+996,JavaScript you Don't Know (Vol. 2),[the] KyleSimpson,5
+997,Python Core Programming (Version 3),[the] WesleyChun,5
+998,Go Programming Language,AlanA.A.Donovan,5
+999,In-depth understanding of C# (version 3),Skeeter (JonSkeet),5
+1000,My first algorithm book,[Japan] Ishida Baohui,5
+1001,At the top of the wave,[US] Wu Jun,5
+1002,coding,[the] CharlesPetzold,5
+1003,Hackers and Painters,Paul Graham,5
+1004,"Godel, Escher, Bach",Hou Shida,5
+1005,In-depth Understanding of Computer Systems (Original Book 3rd Edition),RandalE. Bryant,5
+1006,Python programming,Eric Mathers,5
+1007,"Construction and Interpretation of Computer programs (Original Book, 2nd Edition)",HaroldAbelson,5
+1008,The beauty of mathematics,[US] Wu Jun,5
+1009,Deep understanding of computer systems,RandalE. Bryant,5
+1010,Microservices architecture design patterns,Chris? ChrisRichardson,5
+1011,Algorithm diagram,[the] AdityaBhargava,5
+1012,C programming language,(mae) BrianW Kernighan,5
+1013,How is the network connected,[Japan] Hogan Qin,5
+1014,Complete Code (Version 2),Steve McConnell,5
+1015,A brief history of information,James Gleick,5
+1016,"In-depth Understanding of computer Systems (Original Book, 2nd edition)",(mae) RandalE. Bryant,5
+1017,Algorithms (4th edition),RobertSedgewick,5
+1018,Programmer self-cultivation,Yu jia,5
+1019,Data intensive application system design,MartinKleppmann,5
+1020,The illustration of HTTP,[Japan] Ueno Xuan,5
+1021,The Beauty of Mathematics (2nd Edition),Wu jun,5
+1022,Big data era,[Britain] Viktor Mayer-Schonberger,5
+1023,Python Deep Learning,Fran? Ois Chaulet,5
+1024,The mystery of coding,CharlesPetzold,5
+1025,Ideas for Java Programming (4th edition),[the] BruceEckel,5
+1026,Mathematics in Computer Science: A Required course in the Age of Information and Intelligence,EricLehman,5
+1027,The data structure,Jun-hui deng,5
+1028,Machine learning,zhou,5
+1029,Design patterns,[the] ErichGamma,5
+1030,An in-depth understanding of the Java Virtual Machine (Version 2),Zhi-ming zhou,5
+1031,coding,CharlesPetzold,5
+1032,refactoring,MartinFowler,5
+1033,C Primer Plus (6th edition) Chinese version,Prada (StephenPrata),5
+1034,Get started with Python programming quickly,AlbertSweigart,5
+1035,Introduction to Algorithms (original Book 3rd edition),ThomasH. Cormen,5
+1036,Smooth the Python,LucianoRamalho [Brazil],5
+1037,One month myth,Frederick Brooks,5
+1038,Head First Design Mode (Chinese version),Freeman,5
+1039,Compilation principle,AlfredV. Aho,5
+1040,The concrete mathematical,RonaldL. Graham,5
+1041,algorithm,RobertSedgewick,5
+1042,Data structure and algorithm analysis,[the] MarkAllenWeiss,5
+1043,JavaScript Advanced Programming (version 3),Nicholas Czerkas,5
+1044,Python 3 Web crawler development hands-on,Cui Qingcai,5
+1045,The programming of mission,JonBentley,5
+1046,Birdman's Linux home dish,The elder brother of the bird,5
+1047,Through the computer fog,sasihorfswe,5
+1048,Computer network,JamesF. Kurose,5
+1049,Code farmers turn,Liu xin,5
+1050,At the top of the performance,rank,5
+1051,Introduction to Computer Science,Behruz Frozin,5
+1052,Statistical Learning Methods (2nd edition),expericnce,5
+1053,Clean architecture,【美】RobertC.Martin (RobertC.Martin),5
+1054,Hands-on deep learning,AstonZhang,5
+1055,Neural networks and deep learning,Xi-peng qiu,5
+1056,White Hat talks about Web security,Wu Hanqing,5
+1057,Spring Practice (4th edition),CraigWalls vols,5
+1058,Deep learning,Ian Goodfellow,5
+1059,Introduction to Algorithms (Original Book 2nd edition),[the] ThomasH Cormen,5
+1060,30 days homemade operating system,[Japan] Kawai Hideki,5
+1061,Java concurrent programming practice,BrianGoetz,5
+1062,Computer programming,[the] DonaldKnuth,5
+1063,C++ Primer (5th edition),[the] StanleyB. Lippman,5
+1064,Through the Computer Fog (2nd edition),sasihorfswe,5
+1065,C programming language,K.N.King,5
+1066,Powerful because of computers,SeymourPapert,5
+1067,Comic book Algorithms: The Journey of Xiao Grey's algorithms,Wei Mengshu,5
+1068,TCP/IP Volume 1: protocol,[the] w. RichardStevens,5
+1069,Introduction to operating systems,RemziH.Arpaci-Dusseau,5
+1070,complex,Melanie Mitchell,5
+1071,Block chain,AndreasM.Antonopoulos,5
+1072,Redis design and implementation,Huang Jianhong,5
+1073,Clean code,[the] RobertC · Martin,5
+1074,The beauty of the programming,The Beauty of Programming,5
+1075,Statistical learning method,expericnce,5
+1076,Microservice design,[English] SamNewman,5
+1077,Large site technical architecture,Rocket power,5
+1078,Modern Operating Systems (Version 3),"[the] AndrewS, Tanenbaum",5
+1079,Redis Deep Adventures: Core Principles and Applied Practices,Qian Wenpin,5
+1080,Computer Networking (6th Edition),[the] JamesF Kurose,5
+1081,Top of the Wave (3rd Edition) (Volume 2),[US] Wu Jun,5
+1082,Computer composition and design,(mae) DavidA. Patterson,5
+1083,SQL Basics,MICK,5
+1084,Coding efficiently: The Java Development Manual,Yang Guanbao,5
+1085,Advanced programming in UNIX environments,W.RichardStevens,5
+1086,Transformation of enterprise IT architecture: Alibaba in Taiwan strategic thought and structure combat,Zhong hua,5
+1087,MySQL will know and will know,[English] BenForta,5
+1088,A Philosophy of Software Design,JohnOusterhout,5
+1089,Use Python for data analysis,WesMcKinney,5
+1090,Designing Data-Intensive Applications,MartinKleppmann,5
+1091,The road to the future,", (-no-kami), 盖茨",5
+1092,Effective Java Chinese Version (2nd edition),[the] JoshuaBloch,5
+1093,Just for fun,LinusTorvalds,5
+1094,Computer architecture,JohnL. Hennessy,5
+1095,Go language advanced programming,Chai Shu fir,5
+1096,Assembly Language (3rd edition),Wang Shuang,5
+1097,"Computer Composition and Design (Original Book, 5th Edition)",DavidA.Patterson,5
+1098,Modern Operating Systems (Original Book 4th Edition),[jose] AndrewS. Tanenbaum,5
+1099,Mathematics of deep learning,Yoshiyuki Inui,5
+1100,innovators,Walter Isaacson,5
+1101,Linux Command line and shell scripting complete edition 3,"Bloom, Bresnahan",5
+1102,Graphic Cryptography (3rd Edition),Jie Chenghao,5
+1103,Introduction to Deep Learning,Yasuhi Saito,5
+1104,C expert programming,PetervanderLinden,5
+1105,Hackers and Painters,Paul Graham,5
+1106,How does a computer run,[Day] Yasawa Hisao,5
+1107,Introduction to Computer Science,BehrouzA. Forouzan,5
+1108,The way of programmer training,AndrewHunt,5
+1109,SRE,BetsyBeyer,5
+1110,Advanced Programming for UNIX Environments (version 3),W.r. Stevens,5
+1111,High performance MySQL,Schwartz (BaronSchwartz),5
+1112,Introduction to Computer Science (12th edition),[the] J.G lennBrookshear,5
+1113,Start programming with Python,Go i'm gone.,5
+1114,Software Foundations,BenjaminC. Pierce,5
+1115,Deep learning and Image recognition: Principles and Practice,Wei Xi Han Tu Ming zhang Xiupeng,5
+1116,The Cathedral and the Fair,"[the] EricS, Raymond",5
+1117,System architecture,EdwardCrawley,5
+1118,Collective intelligence programming,bysegaran,5
+1119,Deep understanding of computer systems,"(mae) RandalE. Bryant, DavidR. O 'Hallaron",5
+1120,Computer composition and design hardware/software interface,[the] DavidA. Patterson,5
+1121,How does the program work,[Day] Yasawa Hisao,5
+1122,Computational advertising,Liu peng,5
+1123,JavaScript you Don't Know (Volume 1),[the] KyleSimpson,5
+1124,C and pointer,KennethA· Reek,5
+1125,The Definitive GUIDE to HTTP,DavidGourley,5
+1126,Effective Java Chinese Version (3rd edition),[the] JoshuaBloch,5
+1127,The essence of computer science,[Brazil] Waddeston Ferreira Fieldo,5
+1128,Logic engine,Martin Davis,5
+1129,Hundred side machine learning,The various ge is,5
+1130,Orange's: An implementation of an operating system,Yu Yuan,5
+1131,Deep learning,TerrenceSejnowski (USA),5
+1132,Stupid way to learn Python 3,[US] Zed A. Shaw,5
+1133,The operating system,WilliamStallings,5
+1134,SQL will know will know,Foda (BenForta),5
+1135,Head First Java (2nd Edition · Chinese Version),KathySierra BertBates the,5
+1136,Software capriccio,[the] JoelSpolsky,5
+1137,Java Core Technologies volume I (Original Book 10th Edition),[US] CayS.Horstmann,5
+1138,Artificial intelligence (ai),StuartJ. Russell,5
+1139,Pattern Recognition and Machine Learning,ChristopherBishop,5
+1140,The way of programmer training,AndrewHunt,5
+1141,Python neural network programming,[Britain] TariqRashid,5
+1142,Blockchain technology drives finance,Arvind Narayanan,5
+1143,The  C Programming Language,BrianW. Kernighan,5
+1144,Logic engine,Martin Davis,5
+1145,Computer Networking (5th Edition),AndrewS. Tanenbaum,5
+1146,From 0 to 1,Peter Thiel,5
+1147,Enterprise business Architecture Design: Methodology and Practice,FuXiaoYan,5
+1148,The mystery of silicon valley,Wu jun,5
+1149,Computer Composition: a structured approach,Temple tender baum,5
+1150,Big talk about data structures,gemee,5
+1151,Go programming language,Ellen A.A. Donovan,5
+1152,C Primer Plus,StephenPrata,5
+1153,Effective Python,BrettSlatkin,5
+1154,Father and son's programming journey,Thornton (WarrenSande),5
+1155,Real name,Vernor Vinci,5
+1156,Database System concept,AbrahamSilberschatz (beauty),5
+1157,Introduction to Computer Science (11th edition),J.GlennBrookshear,5
+1158,Graphic design pattern,Jie Chenghao,5
+1159,Algorithm of notes,Hu Fan,5
+1160,That's search engines,Jun-lin zhang,5
+1161,The nature of computing,[English] TomStuart,5
+1162,"Architecture is the Future: Extensible Web Architecture, Processes, and Organizations for the Modern Enterprise (Original Book, 2nd Edition)",MartinL. Abbott,5
+1163,Programmer advanced heart method: fast breakthrough growth bottleneck,Hu Feng,5
+1164,Writing An Interpreter In Go,ThorstenBall,5
+1165,UNIX Network programming,Stevens,5
+1166,Java 8 of actual combat,Eritrea's horse (Raoul - GabrielUrma),5
+1167,Computer network,(Dutch) AndrewS Tanenbaum,5
+1168,Prometheus monitors the actual combat,[Australia] by JamesTurnbull,5
+1169,The world is digital,[the] BrianW Kernighan,5
+1170,Reinforcement Learning (2nd Ed.),【 plus 】RichardS Sutton,5
+1171,The emperor new brain,[Britain] Roger Penrose,5
+1172,Graphic cryptography,Jie Chenghao,5
+1173,Top of the Wave (4th Edition) (Ii volume),Wu jun,5
+1174,The essence of JavaScript,douglascrockford,5
+1175,Python Data Science Manual,JakeVanderPlas,5
+1176,Fundamentals of information theory,[the] ThomasM. Cove,5
+1177,Redis development and operation,FuLei,5
+1178,Effective C++,Meyer (ScottMeyers),5
+1179,Princeton Calculus Reader (revised Edition),[the] AdrianBanner,5
+1180,Big talk about design patterns,gemee,5
+1181,Design Book for Everyone (3rd Edition),[the] RobinWilliams,5
+1182,Designing data-intensive applications (photocopies),MartinKleppmann,5
+1183,"Data Analysis with Python, 2nd edition",WesMcKinney,5
+1184,Reinforcement learning: Principles and Python Implementations,XiaoZhiQing,5
+1185,C++ Primer (4th edition),StanleyB. Lippman,5
+1186,Alibaba Java Development Manual,Yang Guanbao,5
+1187,Introduction to Natural language processing,He Han,5
+1188,The singularity is near,RayKurzweil,5
+1189,Top of the Wave (2nd Edition) (Set volume 2),Wu jun,5
+1190,Illustrates server - side network architecture,Hiroshi Miyada,5
+1191,C language title selected 100 skills,XianJingGuang,5
+1192,Hadoop: Big Data Storage and Analysis (4th edition)(Revised edition)(Updated Edition),Tomwhite,5
+1193,The definitive guide to Kafka,NehaNarkhede,5
+1194,MySQL Technology Insider,davidjiang,5
+1195,Programmer math,"""City hao",5
+1196,Challenge programming competition,Akiha Takuya,5
+1197,In-depth Understanding of the LINUX kernel (Version 3),"Beauvais, Cister",5
+1198,Kubernetes in Action,【 the 】 MarkoLuksa,5
+1199,C# 7.0 essence,MarkMichaelis,5
+1200,C Programming: A Comprehensive introduction to C (3rd edition),StephenKochan (beauty),5
+1201,Encryption and Decryption (version 4),Duan Gang,5
+1202,"The Python Cookbook Chinese edition, 3rd edition",DavidM. Beazley,5
+1203,Diagrams of data structures and algorithms,Jay Wingo,5
+1204,The sword refers to Offer,Hai-tao he,5
+1205,Spring the Boot of actual combat,Craig Voss,5
+1206,Crazy Python lectures,Li Gang,5
+1207,Linux/UNIX System programming manual,MichaelKerrisk - The New,5
+1208,Learn programming with your child,WarrenSande,5
+1209,Redis of actual combat,JosiahL. Carlson,5
+1210,TCP/IP (5th edition),Takeshita Takashi,5
+1211,How do intelligent machines think,SeanGerrish,5
+1212,DevOps Practice Guide,[the] GeneKim,5
+1213,Biography of Alan Turing,[Britain] Andrew Hodges,5
+1214,Smart era,JeffHawkins,5
+1215,The fire of silicon valley,Michael Swaine,5
+1216,Beginner's Guide to Python programming,[the] MichaelDawson,5
+1217,Computer system elements,NoamNisan,5
+1218,Aha! algorithm,Aha lei,5
+1219,The revelation of,[the] MartyCagan,5
+1220,The Art of Computer Programming (Volume 1),[the] DonaldKnuth,5
+1221,Proficient in regular expressions,[the] JeffreyE f. Friedl,5
+1222,Proficient in Bitcoin 2nd Edition (Photocopy),AndreasM. Antonopoulos,5
+1223,Bird brother's Linux private house dish foundation learning chapter fourth edition,The elder brother of the bird,5
+1224,Experience of engine,Tynansylvester,5
+1225,Spark fast big data analysis,[the] HoldenKarau,5
+1226,Large-scale distributed storage system,Yang Chuanhui,5
+1227,Computer Networking (7th Edition),Xie Xiren,5
+1228,Discrete Mathematics and Its Applications (5th Edition),[the] KennethH Rosen,5
+1229,Operating Systems,remziarpaci-dusseau,5
+1230,UNIX Programming art,"[the] EricS, Raymond",5
+1231,Bluster computer,Zhang Dong,5
+1232,Structure and Interpretation of Computer Programs - 2nd Edition (MIT),HaroldAbelson,5
+1233,Agile software development,[the] RobertC · Martin,5
+1234,Introduction to systematic thinking,Gerald Weinberg,5
+1235,The art of anti-deception,Mitnick (K.D.),5
+1236,Machine Learning,KevinP· Murphy,5
+1237,Reconstruction (2nd edition) full color hardcover edition,MartinFowler,5
+1238,Node.js is easy to understand,PiaoLing,5
+1239,Effective C++,[the] ScottMeyers,5
+1240,What is mathematics,R. courant,5
+1241,Code,CharlesPetzold,5
+1242,Concrete Mathematics (English Edition 2),[the] RonaldL. Graham,5
+1243,The Art of Game Design (2nd Edition),[the] JesseSchell,5
+1244,C language programming modern methods,K.N.King,5
+1245,In-depth understanding of Python features,[D] Dagen Bader,5
+1246,Biography of Alan Turing,[Britain] Andrew Hodges,5
+1247,Discrete Mathematics and Its Applications (Original Book 7th Edition),KennethH. Rosen,5
+1248,hackers,StevenLevy,5
+1249,Introduction to Linear Algebra,GilbertStrang,5
+1250,Operating System Concepts,Silberschatz (A.),5
+1251,Social engineering,ChristopherHadnagy,5
+1252,Computer composition principle,Tang Shuo fly,5
+1253,In-depth understanding of Kafka: Core design and practice,Zhong-hua zhu,5
+1254,Head First HTML and CSS (Version 2),ElisabethRobson,5
+1255,Parsing Python source Code,Chen Ru,5
+1256,Database system implementation,HectorGarcia-Molina,5
+1257,Computer architecture,[the] JohnL. Hennessy,5
+1258,Recommendation System practice,A bright,5
+1259,Go Programming Language,AlanA.A.Donovan,5
+1260,Introduction to algorithms,[the] ThomasH Cormen,5
+1261,Soft skills,JohnSonmez,5
+1262,Yuhiro Matsumoto: Design and implementation of programming languages,Hirohiro Matsumoto,5
+1263,Go Language Practice,WilliamKennedy,5
+1264,The Definitive guide to JavaScript (6th edition),DavidFlanagan,5
+1265,The Spring revelation,Wang Fuqiang,5
+1266,Hacktivist fan,KevinBeaver,5
+1267,why,By JudeaPearl,5
+1268,The future of ai,JeffHawkins,5
+1269,Evolutionary history of computing,[Fa] Jill Dovic,5
+1270,Light of Civilization (Book 1),[US] Wu Jun,5
+1271,Regular expressions must Know must Know (revised edition),Foda (BenForta),5
+1272,The art of writing readable code,"- Boswell,D.",5
+1273,Computer Composition (6th edition),AndrewS. Tanenbaum,5
+1274,"Applied Cryptography: Protocols, Algorithms, and C Source Programs (Original Book 2nd Edition)",BruceSchneier (beauty),5
+1275,Software testing experience and lessons,CemKaner,5
+1276,Data mining,JiaweiHan (beauty),5
+1277,Data Structures (C language Version),YanWeiMin,5
+1278,Reactive design pattern,RolandKuhn,5
+1279,The Book of Why,JudeaPearl,5
+1280,The Art of JavaScript DOM Programming (Version 2),[English] JeremyKeith,5
+1281,The algorithm of empire,Christopher Steiner,5
+1282,Confused travel agent,[the] WilliamJ. Cook,5
+1283,Illustrated Java multithreaded design patterns,Jie Chenghao,5
+1284,UNIX Networking Programming Volume 1: Socket Networking apis (version 3),W.RichardStevens,5
+1285,C Pitfalls and defects,Mr Koenig,5
+1286,The Definitive Guide to Java Performance,Oakes (ScottOaks),5
+1287,Introduction to Computer Science,NellDale (beauty),5
+1288,Python language and its applications,[the] BillLubanovic,5
+1289,Software architecture Design,Yu Chunlong,5
+1290,Game Engine Architecture,JasonGregory(JasonGregory) Gregory),5
+1291,Computers and the human brain,John von Neuemann,5
+1292,Wireshark network analysis is that simple,Lin Pei full,5
+1293,Coding bible,Neil Stephenson,5
+1294,Software Engineering at Google,TitusWinters,5
+1295,The Little Schemer - 4th Edition,DanielP. Friedman,5
+1296,"Flink principle, actual combat and performance optimization",Li-bing zhang zhao,5
+1297,One thing,TomDeMarco,5
+1298,A History of Minimalist Algorithms: From Mathematics to Machines,Luc de Brabandere,5
+1299,Hands-On Machine Learning with Scikit-Learn and TensorFlow,AurélienGéron,5
+1300,The Method of Construction (3rd Edition),Zou xin,5
+1301,Go Language learning notes,The rain mark,5
+1302,BPF Performance Tools,rank,5
+1303,Domain-driven design,Evans,5
+1304,Easy to understand Docker,[Britain] NigelPoulton,5
+1305,Simplicity is the highest,[English] GilesColborne,5
+1306,Elasticsearch of actual combat,radugheorws,5
+1307,Programming languages implement patterns,TerenceParr,5
+1308,Myth of man-month (40th Anniversary Chinese Edition),"By Brooks,F.P.",5
+1309,Computing advertising 2nd edition,Liu peng,5
+1310,Introduction to Database Systems (5th Edition),Wang shan,5
+1311,The Road to Communication -- from Calculus to 5G,Edited by Yang Xuezhi,5
+1312,Kubernetes in Action,MarkoLuksa,5
+1313,Digital utopia,Fred Turner,5
+1314,Customs clearance! The Art of Game design,Rogers (ScottRogers),5
+1315,Build the method of,Zou xin,5
+1316,Category Theory for Programmers,BartoszMilewski,5
+1317,Introduction to computer systems,PatT.Y.N.,5
+1318,Distributed system,British) a GeorgeCoulouris,5
+1319,Programming is fun,[Britain] Jon Woodcock,5
+1320,The Little Schemer,[the] DanielP. Friedman,5
+1321,Programmer code interview guide: IT enterprise algorithm and data structure problem optimal solution,Left cloud,5
+1322,Have an in-depth understanding of neural networks,Zhang sleep not,5
+1323,Survivors of the future world,Nguyen half-stretching,5
+1324,Meituan machine learning practice,Meituan algorithm team,5
+1325,Operating system true restore,Zheng Gang,5
+1326,Raspberry PI starts playing with Linux,Go i'm gone.,5
+1327,Java Core Technologies Volume 1: Basics (Original Book 9th Edition),(mae) CayS. Horstmann,5
+1328,Great Principles of Computing/Computer science series,PeterJ. Denning,5
+1329,refactoring,MartinFowler,5
+1330,Programmer's mind training,[the] AndyHunt,5
+1331,Psychic chip,danielhillis,5
+1332,Software testing,[the] RonPatton,5
+1333,Algorithms Contest Introduction Classic (2nd edition),Liu Rujia,5
+1334,Domain-driven design,[the] EricEvans,5
+1335,Computational theory guidance,MichaelSipser,5
+1336,The Linux Programming Interface,MichaelKerrisk - The New,5
+1337,Nine algorithms that will change the future,NULL,5
+1338,"An In-depth Understanding of Computer Systems (English Version, 3rd edition)",RandalE. Bryant,5
+1339,Seven weeks seven languages,[the] BruceA · Tate,5
+1340,The Go Programming Language,BrianW. Kernighan,5
+1341,Artificial Intelligence (2nd Edition),StephenLucci,5
+1342,Docker -- Containers and the Container Cloud (version 2),"SEL Laboratory, Zhejiang University",5
+1343,TCP/IP network programming,Han] Yin Shengyu,5
+1344,Computer mind,Hengming zou,5
+1345,That's how you learn Linux,Liu trent,5
+1346,Think Python like a Computer Scientist (version 2),Alan B. Downey,5
+1347,Data structure and algorithm analysis,Wes (MarkAllenWeiss),5
+1348,C++ primer plus,StephenPrata,5
+1349,Effective Java: Second Edition,[the] JoshuaBloch,5
+1350,Learn architecture from scratch,Yun-hua li,5
+1351,Evolving Cloud Native: Microservices best practices in Cloud Native Architecture,Qi-jun wang,5
+1352,Java Learning Notes,Lin Xinliang,5
+1353,Java multithreaded programming practical guide (core),Wen-hai huang,5
+1354,The Elements of Statistical Learning,TrevorHastie,5
+1355,Theory of Distributions for Locally Compact Spaces,EricLehman,5
+1356,A Byte of Python,SwaroopCH,5
+1357,Computer vision,Forsyth (DavidA. Forsyth),5
+1358,Writing A Compiler In Go,ThorstenBall,5
+1359,Shannon preach,"Jimmy Soni, Rob Goodman",5
+1360,Bluster processor,All wood Yang,5
+1361,Exploratory software testing,JamesA. Whittaker,5
+1362,Teach children to program in Python,John Howard Payne (BrysonPayne),5
+1363,One month myth,Frederick Brooks,5
+1364,Dive into the Linux kernel architecture,WolfgangMauerer,5
+1365,Programming Methodology (Chinese version),MatthiasFellinen,5
+1366,Dark Knowledge: How will machine cognition disrupt business and society,Wang Weijia,5
+1367,Clean Code,[the] RobertC · Martin,5
+1368,JavaScript design patterns and development practices,Once agent,5
+1369,Web Security Attack and Defense: A practical guide to penetration testing,Xu Yan,5
+1370,That's how you should have played Excel,WuHao,5
+1371,Design and Implementation of Linux Kernel (3rd Edition),Robert Love,5
+1372,Effective C++,[the] ScottMeyers,5
+1373,Artificial intelligence (ai),Kai-fu lee. 王咏刚,5
+1374,From Paxos to Zookeeper,NiChao,5
+1375,Algorithms to Live By,BrianChristian,5
+1376,Effective Modern C++,ScottMeyers,5
+1377,The art of modifying code,MichaelFeathers,5
+1378,One-stop learning C programming,Song Jinsha,5
+1379,Personal Edition (Original Book 3rd Edition),[the] TomDeMarco,5
+1380,A brief history of artificial intelligence,Nick,5
+1381,The beauty of Python programming: a Best Practices guide,【美】KennethReitz (KennethReitz),5
+1382,Evolutionary architecture,Neil Ford,5
+1383,Maven of actual combat,Juven xu,5
+1384,Princeton Open Computer Course,BrianW. Kernighan,5
+1385,"Networks, communities and markets",DavidEsley,5
+1386,Database Internals,AlexPetrov,5
+1387,Implement Lua yourself,Zhang Xiuhong,5
+1388,The ultimate algorithm,Pedro Dominguez,5
+1389,See the world from a computational point of view,Li universal,5
+1390,Reinforcement Learning,RichardS. Sutton,5
+1391,Everyone is a product manager,Su Jie,5
+1392,SQL advanced tutorial,MICK [date],5
+1393,The phoenix project,GeneKim,5
+1394,My first algorithm book,[Japan] Ishida Baohui,5
+1395,Programming life,[the] PeterSeibel,5
+1396,Transaction Processing,JimGray,5
+1397,Programmer Interview Guide (5th edition),[the] GayleLaakmannMcDowell,5
+1398,Computational geometry,NULL,5
+1399,DOOM rev ShiLu,David Cashman,5
+1400,Fluent Python,LucianoRamalho,5
+1401,The professionalism of programmers,[the] RobertC · Martin,5
+1402,An in-depth understanding of Nginx (Version 2),tao-fai,5
+1403,Hundreds of millions of traffic website architecture core technology,Zhang Kaitao,5
+1404,Simple knowledge leads to simple cryptography,ChristofPaar,5
+1405,Go Web programming,[Singapore]SauSheongChang(cheng siu-hung),5
+1406,Simple data analysis,[the] MichaelMilton,5
+1407,Computers and the human brain,Von Neumann,5
+1408,Unix/Linux programming practice tutorial,BruceMolay,5
+1409,Vernacular blockchain,Jiang Yong,5
+1410,C Programming (4th Edition),Tan Haoqiang,5
+1411,The joy of thinking,Gu Sen,5
+1412,Convex optimization,StephenBoyd,5
+1413,Computer Systems: A Programmer's Perspective (3rd Edition),RandalE. Bryant,5
+1414,The Linux Command Line,WilliamE.ShottsJr。,5
+1415,The C standard library,P.J.Plauger,5
+1416,Crazy Programmer,No shadow,5
+1417,Programming for Linux Systems (2nd Edition),Robert Love,5
+1418,Python Core Programming (Second edition),[US]WesleyJ.Chun,5
+1419,A gifted pioneer,Norman McRae,5
+1420,(The 2nd edition),Hai-tao he,5
+1421,"Distributed Services Architecture: Principles, Design, and Practice",Yan-peng li,5
+1422,The art of Concurrent programming in Java,Party to take off,5
+1423,Computer network,"[the] AndrewS, Tanenbaum",5
+1424,Digital design and computer architecture,NULL,5
+1425,Build high-performance Web sites,Guo Xin,5
+1426,Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,BradleyN. Miller,5
+1427,Who says Elephants can't Dance (Collector's Edition),Gerstner,5
+1428,More secure Linux networks,Chen Yongxun,5
+1429,I am an IT little bird,Hu Jiangtang,5
+1430,Code cleanliness: Programmer professionalism,By RobertC.Martin,5
+1431,Database index design and optimization,【 the 】 TapioLahdenmaki,5
+1432,"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",AurelienGeron,5
+1433,Seven weeks seven concurrent model,PaulButcher,5
+1434,Excel charts,Liu Wanxiang,5
+1435,C++ programming language,[the] BjarneStroustrup,5
+1436,Operating System Concepts,AbrahamSilberschatz,5
+1437,Java language programming,(mae) Y.D anielLiang,5
+1438,Relevance Search: Use Solr and Elasticsearch to create smart applications,[us]DougTurnbull,5
+1439,JavaScript you Didn't Know (Middle Volume),[the] KyleSimpson,5
+1440,Data mining concepts and techniques,(add) JiaweiHan; MichelineKamber,5
+1441,The beauty of the algorithm,Brian Christian,5
+1442,DK Meets the future: Robots,DK Company,5
+1443,Start programming!,Compiled by the UK Teen Developer Community,5
+1444,Introduction to information retrieval,ChristopherD. Manning,5
+1445,Cognition and Design,JeffJohnson,5
+1446,IT general history,[Canada] Li Yan,5
+1447,Test-driven development,KentBeck,5
+1448,Introduction and practice of wechat small program development,Mr. Lei,5
+1449,Regular Guidelines (2nd Edition),Yu Sheng,5
+1450,SQL anti-patterns,[the] BillKarwin,5
+1451,Mindstorms,SeymourA. Papert,5
+1452,Hole war,Lin fork spring,5
+1453,MATLAB numerical calculation,moller,5
+1454,The code of,Michael Connell,5
+1455,Computational theory guidance,[the] MichaelSipser,5
+1456,Turing Forever: Deconstruction and transcendence of Turing's ideas by 20 scientists,"By Andrew Hodges, by S.BarryCooper",5
+1457,Detective algorithm,Jeremy Kubica,5
+1458,Vue. Js,Bo-wen liu,5
+1459,Philosophical Principles of Operating Systems (2nd Ed.),Hengming zou,5
+1460,Python network data collection,Mitchell,5
+1461,If for freedom,[the] SamWilliams,5
+1462,Linux command line overview,"Salt, (WilliamE Shotts)",5
+1463,Head First Python,(Barry P.),5
+1464,Self-study is a craft,Lee smile to,5
+1465,"Art of Computer Programming, Vol. 3",[US] Donald D. Knuth,5
+1466,Kotlin core programming,Water Drop Technical Team,5
+1467,"Is Parallel Programming Hard, And, If So, What Can You Do About It?",PaulE. McKenney,5
+1468,Business difficult,BenHorowitz,5
+1469,Evolution of artificial intelligence,[plus] Hector Levesque,5
+1470,Handbook of Garbage Collection Algorithms: The Art of Automatic Memory Management,RichardJones,5
+1471,The big data road,Alibaba Data Technology and Products Department,5
+1472,IPFS principle and practice,Dong Tianyi,5
+1473,An introduction to algorithms,[the] UdiManber,5
+1474,What does technology want,Kevin Kelly,5
+1475,Inside ODL technology: Architecture design and implementation principles,The GengXingYuan,5
+1476,GitHub Introduction and Practice,Hiroki Otsuka,5
+1477,Continuous Delivery 2.0,Joe leung,5
+1478,Python Cookbook,DavidBeazley,5
+1479,The Google Way of testing software,JamesA. Whittaker,5
+1480,Python Basics tutorial (version 3),MagnusLieHetland,5
+1481,Interview with programming masters,SusanLammers,5
+1482,UNIX Programming art,"[the] EricS, Raymond",5
+1483,Art of Computer Programming (Volume 2),DonaldE. Knuth,5
+1484,Reflections on interaction design,JonKolko,5
+1485,Implement domain-driven design,vaughnvernon,5
+1486,The Art of Readable Code,DustinBoswell,5
+1487,"Chatbot: Getting started, Advanced and Practical","Liu Yu, Cui Yanhong, Guo Shi, Guang Dang, study song",5
+1488,Deep distributed caching: From Principle to Practice,In jun ze,5
+1489,100 years of Silicon Valley,ArunRao,5
+1490,Modern compiler principles,[the] AndrewW. Appel,5
+1491,Python natural language processing,(British) Byrd,5
+1492,Digital image processing,Gonzalez,5
+1493,Code book,[Britain] Simon Singer,5
+1494,Decoding the universe,Seifi,5
+1495,Compilation principle,AlfredV. Aho,5
+1496,Core principles of reverse engineering,[HAN] Lee Chengyuan,5
+1497,Machine learning,PeterHarrington,5
+1498,Banking information system architecture,Han-ming wang,5
+1499,Java Concurrency in Practice,BrianGoetz,5
+1500,Data visualization,For Chen,5
+1501,"Concepts, Techniques, and Models of Computer Programming",PeterVanRoy,5
+1502,Modern compiler principles,(US) Amber,5
+1503,Database System concept,AbrahamSilberschatz,5
+1504,The art of Wireshark network analysis,Lin Pei full,5
+1505,Hacker Attack and Defense Technology Handbook (2nd Edition),[English] DafyddStuttard,5
+1506,Unity game design and implementation,Masaki Kato,5
+1507,STL source code analysis,Hou Jie,5
+1508,C++ standard library,[DE] NicolaiM Josuttis,5
+1509,"Python Learning Manual (Original book, 5th edition)",Mark Lutz,5
+1510,JavaScript you Don't Know (Vol. 2),[the] KyleSimpson,5
+1511,High-performance JavaScript,Nicholas Czerkas,5
+1512,Spring micro service practice,JohnCarnell,5
+1513,The art of design patterns,Liu Wei,5
+1514,Word Typography,Hou Jie,5
+1515,Unplugged computer science,(XinXiLan)BeiEr,5
+1516,Deep understanding of the LINUX kernel,DanielP. Bovet,5
+1517,Understand ES6 in depth,【 the 】 NicholasC Zakas,5
+1518,Yuhiro Matsumoto's world of programming,Hirohiro Matsumoto,5
+1519,HTTPS: From principle to practice,YuWeiDong,5
+1520,My first programming book,[Japan] Naoto Hirayama,5
+1521,Streaming Systems,#NAME?,5
+1522,Programming language,[Britain] Scott,5
+1523,Malicious code analysis actual combat,MichaelSikorski - Wikipedia,5
+1524,Digital logic foundation with Verilog design,StephenBrownZvonkoVranesic,5
+1525,Combinatorial mathematics,(mae) RichardA Brualdi,5
+1526,Programming Abecas (2nd edition ? Revised edition),JonBentley,5
+1527,HTML5 Canvas core technology,DavidGeary,5
+1528,Knowledge map,zhao,5
+1529,C programming language,BrianW. Kernighan,5
+1530,Assembly Language (2nd edition),Wang Shuang,5
+1531,Models of My Life,HerbertA. Simon,5
+1532,Computer Networking (4th Edition),[the] JamesF Kurose,5
+1533,The definitive guide to Java Performance optimization,CharlieHunt,5
+1534,Neural Network Methods in Natural Language Processing,YoavGoldberg,5
+1535,"Essentials of Programming Languages, 3rd Edition",DanielP. Friedman,5
+1536,Bayesian Reasoning and Machine Learning,DavidBarber,5
+1537,Big Data Platform Infrastructure Guide,Liu Xuhui,5
+1538,"Cultivation of architecture -- cultivation practice of core technologies such as 100-million-level gateway, platform open, distributed, micro-service and fault tolerance",Xin-dong wang,5
+1539,Big data Daily Bulletin,Jun-lin zhang,5
+1540,Operating Systems,ThomasAnderson,5
+1541,Trial and error,Gun mud,5
+1542,Linux multi-threaded server programming,guitar,5
+1543,Network Programming in Python (version 3),[the] BrandonRhodes,5
+1544,Vim Practical Tips (2nd edition),[English] DrewNeil,5
+1545,Effective Modern C++ (simplified Chinese,ScottMeyers,5
+1546,Database system basics tutorial,(US) Ullman,5
+1547,Introduction to Computer Science,Neil Dell,5
+1548,Windows Core Programming (Version 5),JeffreyRichter,5
+1549,Taobao technology this decade,The son of,5
+1550,Interesting binary,[Japan] Love a Kenji,5
+1551,The beauty of Concurrent programming in Java,Zhai in succession,5
+1552,Flask Web development,Li hui,5
+1553,Algorithm notes on the machine training actual combat guide,Hu Fan,5
+1554,Java EE Internet lightweight framework integration development,Yang open vibration,5
+1555,Practical Java high concurrency programming,GeYiMing,5
+1556,That's how you learn linear algebra,SheldonAxler,5
+1557,Write your own CPU,LeiSiLei,5
+1558,In-depth understanding of Apache Dubbo and combat,Notions of pole,5
+1559,Number of civilization,TuZiPei,5
+1560,C Programming,Tan Haoqiang,5
+1561,Introduction to C# classics (7th edition),[the] BenjaminPerkins,5
+1562,Homemade search engine,Hiroyuki Yamada,5
+1563,Borland legend,Levi,5
+1564,Turing's Cathedral,George Dyson,5
+1565,JAVA Core Technologies (Volume 1),CayS. Horstmann,5
+1566,Top of the Wave (Volume 2),[US] Wu Jun,5
+1567,R Language,"Kabak,",5
+1568,Mathematics and generic programming,[United States] AlexanderA.Stepanov,5
+1569,Excel Applications,ExcelHome,5
+1570,Work outside of code,[the] GregoryT. Brown,5
+1571,Revised edition of the first Docker book,JamesTurnbull,5
+1572,Fundamentals of Computer Systems,Yuan spring breeze,5
+1573,What can't a computer do,Hubert Dreyfus,5
+1574,Software Developer Roadmap,DaveH. Hoover,5
+1575,Apache Kafka of actual combat,Hu Xi,5
+1576,C++Primer Plus,StephenPrata,5
+1577,The Midas touch,Steve Crook,5
+1578,Life of Programming (Volume 1),[the] PeterSeibel,5
+1579,UNIX: A History and a Memoir,BrianKernighan,5
+1580,The Practice of Programming,BrianW. Kernighan,5
+1581,C and pointer,rick,5
+1582,High performance website building guide,SteveSouders,5
+1583,Understanding Unix processes,JesseStorimer,5
+1584,Core technology of Internet entrepreneurship: Building scalable Web applications,【 the 】 ArturEjsmont,5
+1585,Thinking in C++,[the] BruceEckel,5
+1586,Smart era,[US] Wu Jun,5
+1587,Design patterns,gamma,5
+1588,"Run, programmer",YevgeniyBrikman,5
+1589,"Head First HTML & CSS, XHTML",ElisabethFreeman,5
+1590,"Left hand MongoDB, right hand Redis -- from beginning to business",Xie Qiankun,5
+1591,Programming Pearls,[the] JonBentley,5
+1592,Artificial intelligence (ai),Russell (StuartJ. Russell),5
+1593,"The Art of Computer Programming: Volume 4, Volume 4",DonaldE. Knuth,5
+1594,Alan Turing's secret,[the] CharlesPetzold,5
+1595,Introduction to Reliable and Secure Distributed Programming,ChristianCachin,5
+1596,Algorithm hegemony,Kathy O 'neill,5
+1597,DOOM (Memorial Edition),Kushner (D),5
+1598,Analysis of Python Data Structures and Algorithms (version 2),Bradley Miller,5
+1599,Software engineering,(mae) RogerS. Pressman,5
+1600,In-depth understanding of the Java virtual machine,Zhi-ming zhou,5
+1601,The fire of silicon valley,Paul Freiberg,5
+1602,Site Reliability Engineering,BetsyBeyer,5
+1603,Master Ethereum: Develop smart contracts and decentralized applications,[Ch] Andreas M. Antopolous,5
+1604,Play Docker container technology for 5 minutes a day,CloudMan,5
+1605,Out of the software workshop,arjuna,5
+1606,Architectural Adventure - Write a Java Web framework from scratch,Huang Yong,5
+1607,Pro Git (Second Edition),scottchacon,5
+1608,Introduction to data mining,Pang - NingTan (beauty),5
+1609,Deep understanding of computer networks,The king of,5
+1610,transition,Zhu Yun,5
+1611,The definitive guide to Web Performance,IlyaGrigorik,5
+1612,The Art of Computer Programming (Volume 1),Donald E. Canute,5
+1613,Language and Machine,Thaad Kamp,5
+1614,Flask Web Development: Python based Web application development,[the] MiguelGrinberg,5
+1615,45 Habits of Effective Programmers,[the] VenkatSubramaniam,5
+1616,SQL Injection Attack and Defense (version 2),justinclarke,5
+1617,"Spring Cloud Microservices: Getting started, Practicing and Advancing",The Yin Jihuan,5
+1618,Math for programmers ii,"Flat, and her love",5
+1619,Docker technology introduction and Combat 3rd edition,Bao-hua Yang,5
+1620,Highly available extensible microservices architecture,Cheng Chao,5
+1621,C++ Primer,StanleyB. Lippman,5
+1622,Machine learning as a service: Quickly turning Python machine learning ideas into cloud Web applications,By ManuelAmunategui and MehdiRoopaei,5
+1623,Fourteen lectures on Visual SLAM,a.,5
+1624,Programmer self-cultivation,Chen Yihe,5
+1625,The Method of Construction (2nd Edition),Zou xin,5
+1626,The PostgreSQL Guide: Inside out,[Japan] Suzuki Kai Repair,5
+1627,The architecture of zen,MartinL.Abbott,5
+1628,The beauty of the study,[the] DonaldKnuth,5
+1629,C++ first,StanleyB. Lippman,5
+1630,Node.js: a dozen C++ extensions,Death in,5
+1631,"Distributed Systems, 3rd Edition",MaartenvanSteen,5
+1632,Kubernetes Patterns,ScholarIbryam,5
+1633,Programming Kubernetes,Michaelhausenblas,5
+1634,SQL Basics,MICK,5
+1635,Talk to product manager about technology,Researh material - 11,5
+1636,How to solve the problem,ZbigniewMichalewicz,5
+1637,Python Learning Manual (4th edition),[the] MarkLutz,5
+1638,Programming style,[the] CristinaVideiraLopes,5
+1639,Princeton calculus reader,banner,5
+1640,Probabilistic robot/Advanced Technology translation of International Electrical Engineering,[the] SebastianThrun,5
+1641,Future architecture: from servitization to cloud native,Zhang liang,5
+1642,The Book of Why,JudeaPearl,5
+1643,Complexity thinking,AllenB. Downey,5
+1644,The essence of Tencent game development,Edited by Tencent Games,5
+1645,Operating System Concepts (Original Book 9th Edition),[the] AbrahamSilberschatz,5
+1646,Design and implementation of a 64-bit operating system,A scholar,5
+1647,Art of Computer Programming (Volume 3),[the] DonaldKnuth,5
+1648,The Art of game design,[the] JesseSchell,5
+1649,Web API design and development,Mizuno Kiaki,5
+1650,Simple SSD,SSDFans,5
+1651,Homemade programming language,[J],5
+1652,The beauty of the system,Denella Meadows,5
+1653,X86 assembly language,sasihorfswe,5
+1654,Redis User manual,Huang Jianhong,5
+1655,C Pitfalls and defects,AndrewKoenig,5
+1656,The technology that supports the processor,HisaAndo (day),5
+1657,Algorithms,RobertSedgewick,5
+1658,Hacking,JonErickson,5
+1659,Machine learning,[the] TomMitchell,5
+1660,Explore the Linux operating system in depth,Bai-sheng wang,5
+1661,Web front-end hacking technology revealed,Clock chenming,5
+1662,C++ programming ideas (two bound volumes),BruceEckel (beauty),5
+1663,Meltdown,ChrisClearfield,5
+1664,Windows kernel scenario analysis,Mao Decao,5
+1665,Computational Science and Engineering,GilbertStrang,5
+1666,No briefing,[the] PramodJ Sadalage,5
+1667,Computer network,Xie Xiren,5
+1668,Python Stunts: Become a top hacker with Python,[the] TJO 'Connor,5
+1669,Apache Kafka source code analysis,Xu Jun Ming,5
+1670,C Programming,K.N.King,5
+1671,Grokking Algorithms,AdityaBhargava,5
+1672,Python Crash Course,EricMatthes,5
+1673,Programmer interview logic analysis,sasha,5
+1674,Big talk wireless communication,dickics,5
+1675,The Manager's Path,CamilleFournier,5
+1676,UNIX Programming art,"[the] EricS, Raymond",5
+1677,"Introduction to Algorithms, 3rd Edition",ThomasH. Cormen,5
+1678,Python Basics tutorial (Version 2),MagnusLieHetland,5
+1679,Python crawler Development from beginning to Action,Xie Qiankun,5
+1680,Python Core Programming (Version 3),[the] WesleyChun,5
+1681,Data structures and algorithms: Implemented in Python,Michael T. Goodrich,5
+1682,"Java introduction 1, 2, 3",ZangMeng,5
+1683,Computer architecture,hu,5
+1684,Scalable architecture,【 the 】 LeeAtchison,5
+1685,Concrete Mathematics,RonaldL. Graham,5
+1686,Programmer's Cry,[the] SteveYegge,5
+1687,Algorithms,SanjoyDasgupta,5
+1688,Game mechanics,[the] ErnestAdams,5
+1689,Compiler design,KeithCooper - The New Year,5
+1690,Cognitive psychology and its implications,John R. Anderson,5
+1691,Objective - C programming,[the] AaronHillegass,5
+1692,Cloud computing architecture technology and practice,Despite intense,5
+1693,Head First HTML with CSS & XHTML,EricTFreeman,5
+1694,Digital civilization,Hao Bolin/Zhang Shuyu,5
+1695,The joy of algorithms,Xiao-hua wang,5
+1696,Parallel Computer Architecture,"Culler,David",5
+1697,"Linux system security: Depth defense, security scanning, and intrusion detection",The XuFeng,5
+1698,Transaction processing,JimGray,5
+1699,Birdman's Linux home dish,The elder brother of the bird,5
+1700,Deep Learning,IanGoodfellow - Wikipedia,5
+1701,An overview of natural language processing,DanielJurafsky,5
+1702,Elasticsearch: The Definitive Guide,ClintonGormley,5
+1703,Elephant: Thinking in UML(2nd Edition),Tan Yunjie,5
+1704,UNIX Network Programming Volume 2,[the] w. RichardStevens,5
+1705,Modern operating system,"[the] AndrewS, Tanenbaum",5
+1706,The Definitive Guide to CSS (3rd Edition),[the] EricA. Meyer,5
+1707,Hacker attack and defense technology treasure book,ChrisAnley,5
+1708,Games change the world,Jane McGonigal,5
+1709,C Abstract thinking in programming,EricS. Roberts,5
+1710,Design and build websites with HTML & CSS,[the] JonDuckett,5
+1711,TCP/IP Volume 2: implemented,Stevens,5
+1712,Proficient in regular expressions,[the] JeffreyE f. Friedl,5
+1713,The eternal way of architecture,[America] C. Alexander,5
+1714,White hat is about browser security,Qian Wenxiang,5
+1715,Practical Java High Concurrency Programming (version 2),GeYiMing,5
+1716,C++ language design and evolution,[the] BjarneStroustrup,5
+1717,Android advanced decryption,Liu Wangshu,5
+1718,C++ language design and evolution,Stroustrup,5
+1719,TensorFlow: Practical Google Deep Learning Framework (version 2),Gu Siyu,5
+1720,The C Language (3rd edition),[Japan] Shibata Miyang,5
+1721,How Google Works,EricSchmidt,5
+1722,Vernacular Big Data and machine learning,young,5
+1723,The Effective Engineer,EdmondLau,5
+1724,Foundations of Computer Science,AlfredV. Aho,5
+1725,Software requirements best practices,Stanford,5
+1726,upstream,Alibaba Group Growth Set Editorial Board,5
+1727,UNIX Networking Programming Volume 1: Socket Networking apis (version 3),By W.RichardStevens,5
+1728,"Cloud native Service Grid Istio: Principles, Practices, Architecture and source code parsing","Zhang Chaomeng, Zhang Xin, XU Zhonghu, XU Fei",5
+1729,Lattice between the assembly,Raymond zhang,5
+1730,The old code knowledge,Han Hong,5
+1731,Parsing Techniques,DickGrune,5
+1732,Permanent Record,EdwardSnowden,5
+1733,The data structure,Yin people he,5
+1734,The Way To Go,IvoBalbaert,5
+1735,500 Lines or Less,AmyBrown,5
+1736,Java Language Programming (Foundation Book 10th edition),Y.Danielliang,5
+1737,Learn Python programming,JasonBriggs,5
+1738,Turing and ACM Turing Awards,Wu Heling,5
+1739,Ncre simulation paper and reference answer: level 2 C language,National Computer Rank Examination question research group,5
+1740,5G NR standard: Next generation wireless communication technology,[Sweden] ErikDahlman,5
+1741,Deep understanding of JavaScript,AxelRauschmayer,5
+1742,COM essentialism,[the] DonBox,5
+1743,Aha C language! The Challenge of Logic (revised Edition),Aha lei,5
+1744,The code revelation,ZuoFei,5
+1745,Code of the pulp,Nishio Takazu,5
+1746,Object Oriented Analysis and Design (Chinese Version),#NAME?,5
+1747,Optimized compilers for modern architectures,"[us]RandyAllen, (",5
+1748,Programming Quantum Computers,mercedesgio-segovia,5
+1749,Cloud Native Go,Kevinhoffman; dannemeth,5
+1750,CSS world,Zhang Xinxu,5
+1751,The master said science and philosophy,By HeinzR.Pagels,5
+1752,Debug Hacks Chinese version,The installation hong long,5
+1753,High Performance Python,MichaGorelick,5
+1754,Architectural adventure: Write a distributed service framework from scratch,Li Ye soldier,5
+1755,Linear Algebra and its Applications (Original Book 5th Edition),David C. Ray,5
+1756,Brain and Cognition,Global Science,5
+1757,Use C++11 in depth,QiYu,5
+1758,Natural language Processing based on deep learning,YoavGoldberg,5
+1759,Computer composition principle,NULL,5
+1760,Python machine learning and practice,Fan Miao,5
+1761,Seven weeks seven Web development framework,Jack Moffitt - The New,5
+1762,Introduction to Perl,RandalL. Schwartz,5
+1763,Writing Effective Use Cases,AlistairCockburn,5
+1764,Programmatic Abecas (2nd Edition),[the] JonBentley,5
+1765,The essence of computer system architecture,comerford,5
+1766,R Data Science,[New Zealand] Hadley Wickham,5
+1767,Net @ Change the world Internet product manager,Jian wang,5
+1768,The nature of technology,BrianArthur,5
+1769,Hacker's Delight,HenryS. Warren,5
+1770,An Introduction to General Systems Thinking,Insufficient number of evaluators,5
+1771,Cracking the Coding Interview,GayleLaakmannMcDowell,5
+1772,Node. Js in actual combat,[the] MikeCantelon,5
+1773,Digital Image Processing (2nd Edition),RafaelC. Gonzalez,5
+1774,CPU homemade introduction,Shui Tou first birthday,5
+1775,Prometheus: Up & Running,BrianBrazil,5
+1776,Head First Android Development,JonathanSimon,5
+1777,"An In-depth understanding of Computer Systems (English Version, 2nd edition)",[the] RandalE. Bryant,5
+1778,Online ghost,KevinMitnick,5
+1779,C++ language guide,[the] BjarneStroustrup,5
+1780,"Computer Composition and Design: Hardware/Software Interfaces (English edition, 5th edition, Asia Edition)",(mae) DavidA. Patterson,5
+1781,Psychology of Program Development (Silver Year Edition),[the] GeraldM Weinberg,5
+1782,Fundamentals of statistical natural language processing,ChrisManning,5
+1783,Encyclopedia of Computer Science and Technology (3rd edition),Zhang Xiaoxiang,5
+1784,Intel microprocessor,BarryBBrey (beauty),5
+1785,Cloud native Java,JoshLong,5
+1786,The nature of statistical learning theory,[the] VladimirN Vapnik,5
+1787,Actual Java virtual machine,GeYiMing,5
+1788,Types and Programming Languages,BenjaminC. Pierce,5
+1789,The Little MLer,MatthiasFelleisen,5
+1790,The soul of a programming,federicobiancuzzi,5
+1791,Two weeks of homemade scripting,[Japanese] Chiba zi,5
+1792,Akka Application Patterns: a practical guide to distributed application design,MichaelNash,5
+1793,Modern cryptography theory and practice,Wenbo MAO,5
+1794,Graph theory,ReinhardTheset,5
+1795,Computer Networking (6th Edition),Xie Xiren,5
+1796,Scala Programming (Version 3),【 German 】MartinOdersky Odesky),5
+1797,Garbage collection algorithm and implementation,Nakamura into the yankees',5
+1798,R language programming art,NormanMatloff (beauty),5
+1799,Data structure and algorithm analysis,Wes (MarkAllenWeiss),5
+1800,CLR via C#,JeffreyRichter (beauty),5
+1801,C++ Primer (5th edition),【美】StanleyB.Lippman,5
+1802,Effective Java (Version 3),【 the 】 JoshuaBloch,5
+1803,Computer Systems,RandalE. Bryant,5
+1804,Excel combat skills essence,ExcelHome,5
+1805,Data communication and networking,(mae) BehrouzA. Forouzan; SophiaChungFegan,5
+1806,Introduction to Python Programming (version 2),[the] JohnV Guttag,5
+1807,Ncre Level 2 tutorial -MS Office advanced Applications,National Education Examinations Authority,5
+1808,Zen of design patterns,Xiao-bo qin,5
+1809,The road to the master,Zhao peng,5
+1810,The Master Algorithm,Mexican domingos,5
+1811,Enterprise Application Architecture Patterns (Photocopy),[the] Martin fowler,5
+1812,Release It!,MichaelT. Nygard,5
+1813,"Programming Abecas (English Edition, 2nd Edition)",[the] JonBentley,5
+1814,The AWK Programming Language,AlfredV. Aho,5
+1815,Google Analytics,FerasAlhlou (beauty),5
+1816,Head First Servlets&JSP (2nd Edition · 英 文),And Sam (BryanBasham),5
+1817,Learn You a Haskell for Great Good!,MiranLipovaca,5
+1818,"Object-oriented Sunflower: Ideas, Techniques and Practices",Edited by Li Yunhua,5
+1819,Software architecture is a must-read for programmers,[English] SimonBrown,5
+1820,Deep Learning Framework PyTorch: Getting Started and Practicing,Chen Yun,5
+1821,Mathematical logic,(mae) HerbertB. Enderton,5
+1822,Test-driven development,KentBeck,5
+1823,The TeXbook,[the] DonaldKnuth,5
+1824,Introduction to Data Compression (4th edition),[the] KhalidSayood,5
+1825,Natural Code: Programming to simulate natural systems,DanielShiffman,5
+1826,Mastering CSS (Version 2),[English] AndyBudd,5
+1827,Enterprise Application Architecture patterns,[the] Martin fowler,5
+1828,Tensorflow: Google Deep Learning framework in action,Zheng Zeyu,5
+1829,Python Machine learning basics tutorial,[D] Andreas Muller,5
+1830,GEB - an eternal gold belt,Compiled by Le Xiucheng,5
+1831,How to Design Programs,MatthiasFelleisen,5
+1832,Java Core Technologies volume II (Original Book 10th Edition),[US] CayS.Horstmann,5
+1833,Single-page Web applications,MichaelS.Mikowski,5
+1834,Python 3 Learning Notes (Volume 1),The rain mark,5
+1835,Graphic deep learning,Yamashita Takashi,5
+1836,Algorithm Design,JonKleinberg,5
+1837,Data Visualization (Interviews with 40 Data Designers),Steven Braun,5
+1838,Web Components in Action,BenFarrell,5
+1839,C++ programming principles and practice,[the] BjarneStroustrup,5
+1840,The future of code,Hirohiro Matsumoto,5
+1841,Perfect software,[the] GeraldM Weinberg,5
+1842,Aha C! Think one step ahead of you,Aha lei,5
+1843,Computer Fundamentals,Peng Peng,5
+1844,Decision support system and intelligent system,"Class,",5
+1845,Fundamentals of digital electronic technology,Yan Shi,5
+1846,Fundamentals of analog electronics,"Tong Shibai, Hua Chengying, tsinghua University electronics teaching and Research Group",5
+1847,The colon classroom,Mr. Zheng,5
+1848,Proficient in feature engineering,Alice Chung,5
+1849,"Operating Systems Design and Implementation, 3/E",AndrewSTanenbaum,5
+1850,Web Security Protection Guide (Basic),[Chinese] CAI Jingjing,5
+1851,Ruby Principle Analysis,[the] PatrickShaughnessy,5
+1852,"""Stupid way"" to learn Python",[Ireland] Shaw,5
+1853,Windows hacker programming techniques in detail,GanDiWen,5
+1854,Introduction to formal languages and automata,linz,5
+1855,Not only beautiful,AlbertCairo,5
+1856,Picture of blockchain,Ming-xing xu,5
+1857,Flask in depth,[the] JackStouffer,5
+1858,Build Your Own Lisp,MrDanielHolden,5
+1859,Refactoring (Version 2),MartinFowler,5
+1860,Explore the C++ object model in depth,StanleyB.Lippman,5
+1861,The programming of mission,[the] JonBentley,5
+1862,Inside Spring Technology (2nd edition),Meter Wen Ke,5
+1863,Bitwise,DavidAuerbach,5
+1864,Operating system essence and Design Principles 8th Global edition,By WilliamStallings,5
+1865,Illustrated machine learning,Shan mountain will,5
+1866,Artificial intelligence (ai),PeterNorvig - Wikipedia,5
+1867,Computer composition and design,Patterson // Hennessy,5
+1868,Python 3 ice-breaking AI from beginner to real,Charles wong,5
+1869,Computer operating system,His ying,5
+1870,Statistical Natural Language Processing (2nd edition),Cases of ChengQing,5
+1871,Python Data Analysis Basics tutorial (version 2),IvanIdris,5
+1872,"TCP/IP Volume 3: TCP transaction protocol, HTTP, NNTP, and UNIX domain protocol",Gu yu hu,5
+1873,MySQL Technology Insider,davidjiang,5
+1874,Fundamentals of quantum programming,MingshengYing,5
+1875,Small Teams building Large Websites: Architectural practices for Small and Medium-sized R&D Teams,Zhang Huiqing etc.,5
+1876,Big talk storage post,The elder brother of the wax gourd,5
+1877,Big storage,Zhang Dong,5
+1878,Programming practice,[the] BrianW Kernighan,5
+1879,Internet lightweight SSM framework decryption,Yan-peng li etc.,5
+1880,Grinding design mode,Chen Chen,5
+1881,Data Science for Business,FosterProvost,5
+1882,The way of Java programmers,[English] BenjaminJ. Evans,5
+1883,Art of Computer Programming (Volume 3)- Sorting and Searching (English photocopy),[the] DonaldKnuth,5
+1884,DBA's mind sky,White eel,5
+1885,Nine algorithms that will change the future,John McCormick,5
+1886,More Effective C++,Meyer (ScottMeyers),5
+1887,Debugging of nine,DavidJ. Agans,5
+1888,Operating Systems: Design and Implementation (2nd Edition),AlbertS. Woodhull,5
+1889,Processor virtualization technology,Deng Zhi,5
+1890,Head First Java (2nd Edition),KathySierra,5
+1891,The Art of Anti-Hacking -- the real story behind hacking,Mitnick (K.D.),5
+1892,System Virtualization,Intelcorporatio,5
+1893,A Brief history of Hackers: Empire through the Prism,Gen liu,5
+1894,C++ language design and evolution,[the] BjarneStroustrup,5
+1895,Docker development Guide,[English] AdrianMouat,5
+1896,circuit,JamesW. Nilsson,5
+1897,Program development psychology,Gerald Weinberg,5
+1898,Purely Functional Data Structures,ChrisOkasaki,5
+1899,Probability and Computing,MichaelMitzenmacher - Wikipedia,5
+1900,Introduction to Python,[the] MarkLutz,5
+1901,Fundamentals of information theory,ThomasM. Cover,5
+1902,JQuery Technology Insider,High clouds,5
+1903,"Don't worry, Excel VBA is actually quite simple (version 2)",ExcelHome,5
+1904,Advanced programming in UNIX environments,[the] w. RichardStevens,5
+1905,MySQL operation and maintenance internal parameter,Yan-wei zhou,5
+1906,Illustrated CIO job Guide (4th edition),Nomura Research Institute systems Consulting Business Headquarters,5
+1907,Applied predictive modeling,Max Kuhn,5
+1908,Programming is pithy,SteveMaguire,5
+1909,Algorithm design and analysis basis,Ananylevitin,5
+1910,White paper on data analysis techniques,NULL,5
+1911,Java high concurrency programming in detail,Wang Wenjun,5
+1912,UNIX systems on modern Architectures: Symmetric multiprocessing and caching techniques for kernel programmers,[the] CurtSchimmel,5
+1913,Distributed Systems,#NAME?,5
+1914,Computer Architecture,JohnL. Hennessy,5
+1915,UML Object-oriented Modeling and Design (version 2),(mae) bly ha / / tran | translator,5
+1916,Algorithm design and analysis basis,AnanyLevitin,5
+1917,I used Microsoft to change the world,Paul Allen,5
+1918,Homemade compiler,[Japan] Maichiro Aoki,5
+1919,Engines of Logic,MartinDavis,5
+1920,Kotlin of actual combat,【美】 Dmitri Jemerov,5
+1921,Real-Time Analytics,ByronEllis,5
+1922,Construction and practice of high-performance service system,Silver loevinger,5
+1923,Cracking the PM Interview,GayleLaakmannMcDowell,5
+1924,Analysis patterns,[the] Martin fowler,5
+1925,Search engine,Croft,5
+1926,C++ programming,Tan Haoqiang,5
+1927,Hive Programming Guide,EdwardCapriolo,5
+1928,24 hours to learn hacker attack and defense,Guide studio,5
+1929,Programming the original,AlexanderStepanov,5
+1930,Programming in Perl,[the] LarryWall,5
+1931,TCP/IP Volume 1: Protocols (English version 2),(mae) KevinR. Losing,5
+1932,The Little Typer,DanielP. Friedman,5
+1933,The Training of Programming,[jose] EdsgerW. Dijkstra,5
+1934,System analysis and design,Satzinger,5
+1935,Effective unit tests,LasseKoskela,5
+1936,JavaScript data visualization programming,[the] StephenA. Thomas,5
+1937,Design Patterns,ErichGamma,5
+1938,Introduction to comic machine learning,Oseki is true,5
+1939,User Experience Elements,jessejamesgarrett,5
+1940,Numerical analysis,Sauer (TimothySauer),5
+1941,"Growing Object-Oriented Software, Guided by Tests",SteveFreeman,5
+1942,Java programming logic,Ma Junchang,5
+1943,Spring in Action,CraigWalls,5
+1944,CCNA Study Guide (Chinese version 6),[the] ToddLammle,5
+1945,Introduction to the ES6 Standard (3rd edition),Nguyen half-stretching,5
+1946,Sharp jQuery,ChanDongLin,5
+1947,Fall in love with Processing,GaseyReas&BenFry,5
+1948,Simple statistics,DawnGriffiths,5
+1949,The nuggets hackers,Kevin Paulsen,5
+1950,Architecture of a Database System,JosephMHellerstein - Wikipedia,5
+1951,Productive programmer,Neil Ford,5
+1952,Ruby metaprogramming,[Italy] PaoloPerrotta,5
+1953,"Left hand data, right hand chart",Xu Juntai,5
+1954,Software debugging version 2,Raymond zhang,5
+1955,Borland legend,Levi,5
+1956,Understand Nginx in depth,tao-fai,5
+1957,React state management and isomorphism,Hou ce,5
+1958,Hacker psychology -- Principles of social engineering,By Yang Yixian Niu Xinxin,5
+1959,ZooKeeper: Distributed process collaboration in detail,FlavioJunqueira,5
+1960,$13 billion in 20 months,Mr Chen,5
+1961,Computer composition and design,DavidA.Patterson,5
+1962,Python Design Pattern,WesselBadenhorst,5
+1963,Daub the MySQL,Li Bingyang,5
+1964,Programming Languages,ShriramKrishnamurthi,5
+1965,Challenge programming Contest 2 Algorithms and data structures,Hirotaka Watanabe,5
+1966,Building a Highly available Linux Server (version 4)/Linux\Unix Technology Series,Yu Hongchun,5
+1967,Bayes Dimension,[US]AllenB.Downey,5
+1968,What is mathematics,[D] R. Koran,5
+1969,Data Structures and Algorithm Analysis in Java,MarkA. Weiss,5
+1970,Introduction to Computer,NORTON,5
+1971,Graph theory guidance,West,5
+1972,Machine learning and applications,lei,5
+1973,SQL injection attack and Defense,clark,5
+1974,Fundamentals of Python Programming (version 2),Song day,5
+1975,The art of software testing,myers,5
+1976,Psychic chip,Daniel Hillis,5
+1977,Block linking intelligence,Wu Rui,5
+1978,Large site performance optimization combat,LLLDD Ming,5
+1979,Scary Science - Classic Math series Set - all 12 volumes,Katkatan Poskitt,5
+1980,Design and practice of large distributed website architecture,Chen Kangxian,5
+1981,Offline · Machine awakening,Liddy Ed.,5
+1982,TCP/IP protocol family,F rosanne,5
+1983,Numerical Analysis,TimothySauer,5
+1984,Mathematical principles of computer algebraic systems,Li chao,5
+1985,Python grey hat,[the] JustinSeitz,5
+1986,The Rust Programming Language,SteveKlabnikKlabnik - The New,5
+1987,University course in Unix & Linux,Hahn (HarleyHahn),5
+1988,The way architects practice,[the] MichaelKeeling,5
+1989,Password story,[Britain] Simon Singer,5
+1990,Managing Gigabytes,IanH. Witten,5
+1991,Spring Microservices in Action,JohnCarnell,5
+1992,Big transformation,Nicholas Carr,5
+1993,Efficient algorithms,[method] ChristophDurr,5
+1994,The path to computer literacy,Zhu Yunxiang,5
+1995,Build high-performance Web sites,Guo Xin,5
+1996,The new algorithm,Xin-yu liu,5
+1997,cryptography,Insufficient number of evaluators,5
+1998,Computer architecture,Stanford University,5
+1999,The Nature of Code,DanielShiffman,5
+2000,Programmer development lessons,Xiao-hui an,5
+2001,A dream of red mansions,[Qing] Cao Xueqin,5
+2002,Camel xiangzi,Lao she,5
+2003,Robinson Crusoe,[Britain] Daniel Defoe,5
+2004,The old man and the sea,Ernest Hemingway,5
+2005,One hundred years of solitude,[Colombia] Garcia Marquez,5
+2006,Jane Eyre (In English),[Britain] Charlotte Bronte,5
+2007,Gone with the wind,Margaret Mitchell,5
+2008,Romance of The Three Kingdoms (Full Two volumes),Luo guanzhong,5
+2009,siege,Qian zhongshu,5
+2010,Count of Monte Cristo,Dumas,5
+2011,Pride and Prejudice,[Britain] Jane Austen,5
+2012,La Traviata,Dumas jr,5
+2013,The Great Gatsby,Fitzgerald,5
+2014,Notre Dame de Paris,[Fa] Hugo,5
+2015,Twenty thousand leagues under the sea,[Fa] Jules Verne,5
+2016,Love in the time of cholera,[Colombia] Garcia Marquez,5
+2017,Hans Christian Andersen's fairy tales,(Denmark) Andersen,5
+2018,Wuthering heights,Bronte,5
+2019,Journey to the West (Full Volume 2),Wu chengen,5
+2020,Suet ball,(Law) Maupassant,5
+2021,In days of yore,Lu xun,5
+2022,The complete Grimm fairy Tales,[Germany] The Brothers Grimm,5
+2023,Water Margin (Full Volume 2),Luo guanzhong,5
+2024,The red,Stendhal,5
+2025,The Shouting,Lu xun,5
+2026,Arabian Nights,NULL,5
+2027,siege,Qian zhongshu,5
+2028,"Les Miserables (PART 1, Part 2)",[Fa] Hugo,5
+2029,Pride and Prejudice,[Britain] Jane Austen,5
+2030,The thunderstorm,He had,5
+2031,The book,Shen congwen,5
+2032,The necklace,Guy de Maupassant,5
+2033,rashomon,Ryunosuke Akutagawa,5
+2034,The unbearable lightness of being,[Czech Republic] Milan Kundera,5
+2035,Oliver twist,[Britain] Charles Dickens,5
+2036,Hamlet,[Britain] William Shakespeare,5
+2037,"The Adventures of Sherlock Holmes (PART 1, Part 2)",[Britain] Arthur Conan Doyle,5
+2038,A madman diary,Lu xun,5
+2039,How is steel made,[Russia] Ny Ostrovsky,5
+2040,True story of ah Q,LuXunZhu,5
+2041,The thorn birds,[Australia] Colleen McCullough,5
+2042,Walden pond,Henry David Thoreau,5
+2043,Les miserables,[Fa] Hugo,5
+2044,Jane eyre,[Britain] Charlotte Bronte,5
+2045,Four generations,Lao she,5
+2046,The metamorphosis,[Austria] Franz Kafka,5
+2047,Animal farm,[Britain] George Orwell,5
+2048,Maggie's gift,O. Henry,5
+2049,rashomon,[Japan] Ryunosuke Akutagawa,5
+2050,Don Quixote,[SE] Cervantes,5
+2051,Madame Bovary,flaubert,5
+2052,Jane eyre,[Britain] Charlotte Bronte,5
+2053,The blade,[Britain] Maugham,5
+2054,The moon and sixpence,[Britain] William Somerset Maugham,5
+2055,home,Ba jin,5
+2056,A letter from a strange woman,[Austria] Stefan Zweig,5
+2057,Stray birds,[India] Rabindranath Tagore,5
+2058,childhood,[Soviet Union] Maxim Gorky,5
+2059,The red,Stendhal,5
+2060,Young Werther's troubles,Johann Wolfgang von Goethe,5
+2061,A tale of two cities,[Britain] Charles Dickens,5
+2062,The Great Gatsby,F. Scott Fitzgerald,5
+2063,The resurrection,[Russia] Leo Tolstoy,5
+2064,Faust,Johann Wolfgang von Goethe,5
+2065,Anna Karenina,[Russia] Leo Tolstoy,5
+2066,Pride and Prejudice,[Britain] Jane Austen,5
+2067,Little women,Louisa May Alcott,5
+2068,Ulysses,[Ireland] James Joyce,5
+2069,Journey to the west,Wu chengen,5
+2070,The old man and the sea,Ernest Hemingway,5
+2071,Eugenie Grandet,#NAME?,5
+2072,Water margin,Luo guanzhong,5
+2073,Izu's dancer,Kawabata Yasunari,5
+2074,The Catcher in the rye,J. d. salinger,5
+2075,decameron,Thin and high,5
+2076,The Great Gatsby,F. Scott Fitzgerald,5
+2077,High old man,Balzac,5
+2078,Uncle Tom's cabin,Harriet Beecher stowe,5
+2079,La Traviata,Dumas jr,5
+2080,David Copperfield (b/B),dickens,5
+2081,Crime and punishment,[Russia] Fyodor Dostoevsky,5
+2082,War and Peace,[Russia] Tolstoy,5
+2083,The education of love,(Italy) Amicis,5
+2084,The Karamazov brothers,[Russia] Fyodor Dostoevsky,5
+2085,Reminisce about the past,Marcel Proust,5
+2086,hesitation,Lu xun,5
+2087,The plague,(French) Albert Camus,5
+2088,Wuthering heights,[Britain] Emily Bronte,5
+2089,Call of the wild,Jack London,5
+2090,Madame Bovary,Flaubert,5
+2091,A tale of two cities,[Britain] Charles Dickens,5
+2092,Wuthering heights,(British) Emily Bronte,5
+2093,Notre Dame de Paris,Victor Hugo,5
+2094,Crime and punishment,[Russia] Fyodor Dostoevsky,5
+2095,The godfather,Mario Puzo,5
+2096,Three musketeers,Dumas,5
+2097,The divine comedy,[meaning] Dante,5
+2098,prince,[正] Niccolo Machiavelli,5
+2099,Pride and Prejudice,Jane Austen,5
+2100,The shackles of humanity,[Britain] William Somerset Maugham,5
+2101,Beijing smoke,Lin yutang,5
+2102,The Count of Monte Cristo (above and below),Dumas,5
+2103,The moon and sixpence,[Britain] Maugham,5
+2104,Gulliver's Travels,[Britain] Jonathan Swift,5
+2105,The Adventures of Tom Sawyer,Mark Twain,5
+2106,Aesop's fables,[Greece] Aesop,5
+2107,Little women,Louisa May Alcott,5
+2108,I am a cat,Natsume Soseki,5
+2109,hongyan,Luo guangbing,5
+2110,One hundred years of solitude,[Colombia] Garcia Marquez,5
+2111,Great expectations,[Britain] Charles Dickens,5
+2112,The Karamazov brothers,[Russia] Fyodor Dostoevsky,5
+2113,Oliver twist,[Britain] Charles Dickens,5
+2114,The romance of The Three Kingdoms,Luo guanzhong,5
+2115,Young Werther's troubles,[D] Goethe,5
+2116,Beautiful friend,Guy de Maupassant,5
+2117,Faust,Johann Wolfgang von Goethe,5
+2118,Merchant of Venice,[Britain] William Shakespeare,5
+2119,Selected short stories by Maupassant,Guy de Maupassant,5
+2120,The hunter notes,[Russia] Turgenev,5
+2121,Here on earth,gorky,5
+2122,When the human stars shine,[Austria] Stefan Zweig,5
+2123,The scarlet letter,Nathaniel Hawthorne,5
+2124,By John Christophe (four books),[French] Romain Rolland,5
+2125,Give me three days to see,Sea lun 凯勒 (helenkeller),5
+2126,Suet ball,maupassant,5
+2127,confessions,[Law] Jean-Jacques Rousseau,5
+2128,Robinson Crusoe,[Britain] Defoe,5
+2129,Notre Dame de Paris,Hugo,5
+2130,Vanity fair,[Britain] Thackeray,5
+2131,A Midsummer night's dream,[Britain] William Shakespeare,5
+2132,The gadfly,Voynich (Ireland),5
+2133,Twenty thousand leagues under the sea,[Fa] Jules Verne,5
+2134,Human frailty,DaleCarnegie,5
+2135,Notre Dame de Paris,[Fa] Hugo,5
+2136,La Traviata,Dumas jr,5
+2137,The Catcher in the rye,J. d. salinger,5
+2138,How is steel made,Ostrovsky,5
+2139,The resurrection,[Russia] Leo Tolstoy,5
+2140,Crime and punishment,[Russia] Fyodor Dostoevsky,5
+2141,Water margin,Shy naih-an,5
+2142,Sense and sensibility,[Britain] Jane Austen,5
+2143,The Count of Monte Cristo,dumas,5
+2144,Childhood in the world my university,[Soviet Union] Maxim Gorky,5
+2145,The old man and the sea,Ernest Hemingway,5
+2146,Interpretation of dreams,[Austria] Sigmund Freud,5
+2147,The analects of Confucius,NULL,5
+2148,The red,Stendhal,5
+2149,Macbeth,William Shakespeare,5
+2150,The little prince,Antoine de Saint-Exupery,5
+2151,Oliver twist,[Britain] Charles Dickens,5
+2152,The human comedy,Balzac,5
+2153,Mysterious island,(French) Jules Verne,5
+2154,Homer's Epic Odyssey,Ancient Greece Homer,5
+2155,Around the world in 80 days,[Law] Jules Verne,5
+2156,Don Quixote,Miguel de Cervantes,5
+2157,The white whale,Herman Melville,5
+2158,Romeo and Juliet,[Britain] William Shakespeare,5
+2159,Young Werther's troubles,Johann Wolfgang von Goethe,5
+2160,A tale of two cities,[Britain] Charles Dickens,5
+2161,Pride and Prejudice,[Britain] Jane Austen,5
+2162,Adventures of Robinson Crusoe,[Britain] Daniel Defoe,5
+2163,The romance of The Three Kingdoms,Luo guanzhong,5
+2164,Tess,[Britain] Thomas Hardy,5
+2165,Selected short stories of Anton Chekhov,Chekhov,5
+2166,Gulliver's Travels,[Britain] Jonathan Swift,5
+2167,Quiet Don (Full Volume 4),Mikhail Sholokhov,5
+2168,Basement notebook,[Russia] Dostoevsky,5
+2169,Vanity fair,[Britain] Thackeray,5
+2170,Anna Karenina,[Russia] Leo Tolstoy,5
+2171,La Traviata,Dumas jr,5
+2172,Madame Bovary,[France] Gustave Flaubert,5
+2173,The gadfly,[Britain] Ethel Lillian Voynich,5
+2174,The giant preach,rabelais,5
+2175,siege,Qian zhongshu,5
+2176,John Christophe,[French] Romain Rolland,5
+2177,Dead players,[Ru] Nikolai Gogol,5
+2178,The resurrection,[Russia] Leo Tolstoy,5
+2179,Little Women,Louisa May Alcott,5
+2180,Les Miserables (part 1),(French) Hugo,5
+2181,Carmen,[J],5
+2182,The scholars,Wu ching-tzu,5
+2183,Soul hunter,Xu Zhonglin,5
+2184,The moon and sixpence,[Britain] Maugham,5
+2185,Float (up and down),Margaret Mitchell,5
+2186,Les Miserables (part 1),[Fa] Hugo,5
+2187,A doll's house,[Norway] Henrik Ibsen,5
+2188,History As A Mirror,Sima guang,5
+2189,Snow in Kilimanjaro,Ernest Hemingway,5
+2190,The origin of species,[Britain] Darwin,5
+2191,The secret garden,(America)F.H. Burnett,5
+2192,The 1984,[Britain] George Orwell,5
+2193,The plague,[Fa] Albert Camus,5
+2194,Suet ball,Guy de Maupassant,5
+2195,Celebrity biography,[French] Romain Rolland,5
+2196,Robinson Crusoe,(England) Defoe,5
+2197,Tess of the D 'Urbervilles,[Britain] Thomas Hardy,5
+2198,Ferryman 2 returns to the wilderness,[Britain] Claire McFall,5
+2199,life,Guy de Maupassant,5
+2200,Little women,Louisa May Alcott,5
+2201,Count of Monte Cristo,Dumas,5
+2202,How is steel made,Ny Ostrovsky,5
+2203,Don Quixote,[Spain] Cervantes,5
+2204,White night,[Russia] Fyodor Dostoevsky,5
+2205,High old man,Balzac,5
+2206,Father and son,turgenev,5
+2207,Niels' journey on a goose,Selma Lagerlof,5
+2208,The Adventures of Tom Sawyer,Mark Twain,5
+2209,New stories,Lu xun,5
+2210,The old man and the sea,Ernest Hemingway,5
+2211,Homer's Epic Iliad,Ancient Greece Homer,5
+2212,Three musketeers,Dumas,5
+2213,Childhood · On earth · my university,[Soviet Union] Maxim Gorky,5
+2214,Jane eyre,Golden age education is famous in the West,5
+2215,Selected short stories of Anton Chekhov,[Russia] Anton Chekhov,5
+2216,Anna Karenina (top and bottom),[Russia] Tolstoy,5
+2217,Selected short stories by O Henry,O. Henry,5
+2218,For whom the bell tolls,Hemingway,5
+2219,Millions of pounds,Mark Twain,5
+2220,The adventures of Huckleberry Finn,Mark Twain,5
+2221,The Master and Margaret,Mikhail Bulgakov,5
+2222,Gone with the wind,Margaret Mitchell,5
+2223,Les Miserables (part 1),Victor Hugo,5
+2224,Anna Karenina,[Russia] Leo Tolstoy,5
+2225,Gone with the wind,Margaret Mitchell,5
+2226,jinghuayuan,Li ju-chen,5
+2227,Jane eyre,[Britain] Charlotte Bronte,5
+2228,Robinson Crusoe,[Britain] Daniel Defoe,5
+2229,Jin ping mei,Lanling smiled,5
+2230,High old man,(French) Balzac,5
+2231,The little prince,[Fa] Saint-Exupery,5
+2232,Madame Bovary,[France] Gustave Flaubert,5
+2233,An idiot,[Russia] Fyodor Dostoevsky,5
+2234,"In 93,",[Fa] Hugo,5
+2235,Count of Monte Cristo (Top and Bottom),Dumas,5
+2236,home,Ba jin,5
+2237,Camel xiangzi,Lao she,5
+2238,The white whale,Melville,5
+2239,The art of war,NULL,5
+2240,The little princess,Burnett,5
+2241,Hans Christian Andersen's fairy tales,[Denmark] Andersen,5
+2242,"Weeds,",Lu xun,5
+2243,Notre Dame de Paris,Hugo,5
+2244,The white whale,Herman Melville,5
+2245,Tess of the D 'Urbervilles,[Britain] Thomas Hardy,5
+2246,Common sense of Ancient Chinese culture,Wang li,5
+2247,My university,[Soviet Union] Maxim Gorky,5
+2248,The castle,[Austria] Franz Kafka,5
+2249,Here the dawn is still...,[Soviet Union] Bo Vasilyev,5
+2250,Twenty thousand leagues under the sea,Jules verne,5
+2251,And the stars,Bing xin,5
+2252,Camel xiangzi,Lao she,5
+2253,The butterfly dream,[Britain] Daphne Du Maurier,5
+2254,Old Euyenne Grondegaard,Balzac,5
+2255,Twenty thousand leagues under the sea,[Law] Jules Verne,5
+2256,Young Werther's troubles,Johann Wolfgang von Goethe,5
+2257,Tagore's poems,[India] Rabindranath Tagore,5
+2258,Notre Dame de Paris,[Fa] Hugo,5
+2259,The Adventures of Tom Sawyer,Mark Twain,5
+2260,Notre Dame de Paris,(French) Hugo,5
+2261,Othello.,[Britain] William Shakespeare,5
+2262,decameron,(Meaning) Pucaccio,5
+2263,The red,Stendhal,5
+2264,The little prince,Saint-Exupery,5
+2265,Grapes of Wrath,John Steinbeck,5
+2266,The old man and the sea,Ernest Hemingway,5
+2267,liao,Pu songling,5
+2268,Gulliver's Travels,[Britain] Swift,5
+2269,Tess,[Britain] Thomas Hardy,5
+2270,Bacon's essays,[Britain] Francis Bacon,5
+2271,A portrait of Dorian Gray,Oscar Wilde,5
+2272,Smile face,[Fa] Hugo,5
+2273,White night,[Russia] Dostoevsky,5
+2274,In the autumn,Ba jin,5
+2275,persuasion,[Britain] Jane Austen,5
+2276,The Great Gatsby,FitzgeraldF.S.,5
+2277,Don Quixote (PART 1),[SE] Cervantes,5
+2278,Eugenie Grandet,Balzac,5
+2279,Martin Eden,Jack London,5
+2280,The old man and the sea,Ernest Hemingway,5
+2281,The Great Gatsby,F.S. Fitzgerald,5
+2282,Magic mountain,Thomas Mann,5
+2283,Camel xiangzi,Lao she,5
+2284,mother,gorky,5
+2285,The Merry Wives of Windsor,Shakespeare,5
+2286,Great expectations,(British) Dickens,5
+2287,The Catcher in the rye,J. d. salinger,5
+2288,aoes,[Russia] Fyodor Dostoevsky,5
+2289,How is steel made,3. Soviet Union Ostrovsky,5
+2290,Grimm's fairy tales,The brothers Grimm,5
+2291,Arabian Nights,[Britain] Folk tales,5
+2292,The butterfly dream,[Britain] Daphne Du Maurier,5
+2293,The Adventures of Niels on a goose,[Sweden] Thelma Lagerlov,5
+2294,Robinson Crusoe,[Britain] Daniel Defoe,5
+2295,The old man and the sea,Ernest Hemingway,5
+2296,Les miserables,Hugo,5
+2297,Don Quixote,Cervantes,5
+2298,The Prince and the pauper,Mark Twain,5
+2299,Don Juan,[Britain] Byron,5
+2300,Anna Karenina,(Russia) Leo Tolstoy,5
+2301,Pride and Prejudice,[Britain] Jane Austen,5
+2302,Gulliver's Travels,[Britain] Jonathan Swift,5
+2303,Shakespeare's four tragedies,[Britain] William Shakespeare,5
+2304,The death of bees,[D] Hanni Mintzel,5
+2305,Around the world in 80 days,[Law] Jules Verne,5
+2306,Three musketeers,dumas,5
+2307,The 1984,[Britain] George Orwell,5
+2308,The red,Stendhal,5
+2309,Pinocchio,[Italy] Carlo Collodi,5
+2310,The children of Captain Grant,[Law] Jules Verne,5
+2311,Merchant of Venice,[Britain] William Shakespeare,5
+2312,Young Werther's troubles,Johann Wolfgang von Goethe,5
+2313,Madame Bovary,flaubert,5
+2314,Oliver twist,[Britain] Charles Dickens,5
+2315,Love life,Jack London,5
+2316,Around the world in 80 days,Jules Verne,5
+2317,Treasure island,[Britain] Robert Louis Stevenson,5
+2318,Pride and Prejudice,[Britain] Jane Austen,5
+2319,Selected short stories by O. Henry,O. Henry,5
+2320,Bleak house,dickens,5
+2321,King Lear,[Britain] William Shakespeare,5
+2322,The human comedy,Balzac,5
+2323,King Lear,[Britain] William Shakespeare,5
+2324,Wuthering heights,[Britain] Emily Bronte,5
+2325,Homer,Ancient Greece Homer,5
+2326,The troubles of young Werther,Johann Wolfgang von Goethe,5
+2327,The Adventures of bitter Children,[Fa] Edo Marlowe,5
+2328,Harry Potter and the Philosopher's Stone (Commemorative Edition),[Britain] J. K. Rowling,5
+2329,The death,Lu xun,5
+2330,Les Miserables (Full 3 volumes),[Fa] Hugo,5
+2331,lolita,Vladimir Nabokov,5
+2332,La Traviata,Alexandre dumas (AlexandreDumas),5
+2333,Fundamentals of curriculum and instruction,Taylor,5
+2334,The romance of The Three Kingdoms,Luo guanzhong,5
+2335,Sense and sensibility,[Britain] Jane Austen,5
+2336,The moon and sixpence,maugham,5
+2337,Greek mythology,[D] Gustave Schwab,5
+2338,Hamlet,[Britain] William Shakespeare,5
+2339,The sun also rises,Ernest Hemingway,5
+2340,La Traviata,Dumas jr,5
+2341,Jane eyre,[Britain] Charlotte Bronte,5
+2342,The sound and the Fury,William Faulkner,5
+2343,War and Peace (II),[Russia] Leo Tolstoy,5
+2344,Mysterious island,[Fa] Jules Verne,5
+2345,Les miserables,Victor Hugo,5
+2346,"Farewell, weapon",Ernest Hemingway,5
+2347,decameron,[meaning] Bogaccio,5
+2348,The Great Gatsby,Fitzgerald,5
+2349,Camel xiangzi,Lao she,5
+2350,A selection of Chekov's short stories,[Russia] Anton Chekhov,5
+2351,A letter from a strange woman,[Austria] Stefan Zweig,5
+2352,Count of Monte Cristo,Dumas,5
+2353,Human frailty,Dale Carnegie,5
+2354,LaoCan travels,liu,5
+2355,Wilde's Fairy Tales,[Ireland] Oscar Wilde,5
+2356,The happy prince,[Ireland] Oscar Wilde,5
+2357,Sister Carrie,Theodore Dreiser,5
+2358,Three second,Feng menglong,5
+2359,The bluebird,By Maurice Maeterlinck,5
+2360,Lady Chatterley's lover,[Britain] D. H. Lawrence,5
+2361,Robinson Crusoe,[Britain] Daniel Defoe,5
+2362,Uncle Tom's cabin,Mrs. Stowe,5
+2363,The Divine Comedy (All three volumes),[meaning] Dante,5
+2364,Genji monogatari,Murasaki Shikibu (Japan),5
+2365,The scarlet letter,Nathaniel Hawthorne,5
+2366,Brave New World,AldousLeonardHuxley,5
+2367,Beautiful friend,Guy de Maupassant,5
+2368,Jane eyre,[Britain] Charlotte Bronte,5
+2369,Celebrity biography,[French] Romain Rolland,5
+2370,In the spring,Ba jin,5
+2371,The hunter notes,[Russia] Turgenev,5
+2372,The Shouting,Lu xun,5
+2373,Romance of The Three Kingdoms (Full Two volumes),[Ming] Luo Guanzhong,5
+2374,A letter from a strange woman,[Austria] Stefan Zweig,5
+2375,Titanic,MichaelPotter,5
+2376,War and Peace (All four books),[Russia] Leo Tolstoy,5
+2377,Crime and punishment,Dostoevsky,5
+2378,War and Peace (All four books),Tolstoy,5
+2379,The dawn is still here,Sue: Boris Vasilyev,5
+2380,Three musketeers,Dumas,5
+2381,I am a cat,Natsume Soseki,5
+2382,La Traviata,Dumas jr,5
+2383,White night,[Russia] Fyodor Dostoevsky,5
+2384,The education of love,amicis,5
+2385,Twenty thousand leagues under the sea,[Law] Jules Verne,5
+2386,The old man and the sea,Ernest Hemingway,5
+2387,The troubles of young Werther,[D] Goethe,5
+2388,Heart of darkness,Conrad,5
+2389,home,Ba jin,5
+2390,sunrise,He had,5
+2391,Pride and Prejudice,[Britain] Jane Austen,5
+2392,Celebrity biography,[French] Romain Rolland,5
+2393,A dream of red mansions,Cao xueqin,5
+2394,Macbeth,[Britain] William Shakespeare,5
+2395,rainbow,[Britain] D. H. Lawrence,5
+2396,xunzi,Xun Zi,5
+2397,New Moon · Stray Birds,[India] Tagore,5
+2398,Wuthering heights,EmilyBronte (original),5
+2399,Gorky trilogy,"Haya., s",5
+2400,decameron,[正] Boccaccio,5
+2401,Notre Dame de Paris,[Fa] Hugo,5
+2402,Gone with the Wind (Full Volume 2),Mitchell,5
+2403,childhood,[Soviet Union] Maxim Gorky,5
+2404,DON QUIXOTE,NULL,5
+2405,Gone with the Wind (PART 1 and Part 2),Margaret Mitchell,5
+2406,Dr. Jekyll and Mr. Hyde on Treasure Island,[Britain] Robert Louis Stevenson,5
+2407,The scholars,Wu ching-tzu,5
+2408,A portrait of a lady,Henry James,5
+2409,The thorn birds,[Australia] Colleen McCullough,5
+2410,Quiet on the western front,[D] Erich Maria Remarque,5
+2411,Millions of pounds,Mark Twain,5
+2412,Millions of pounds,Mark Twain,5
+2413,The children of Captain Grant,[Law] Jules Verne,5
+2414,The wizard of oz,Frank Baum,5
+2415,The arc DE triomphe,(De) Remarque,5
+2416,Oliver twist,[Britain] Charles Dickens,5
+2417,"In 93,",[Fa] Hugo,5
+2418,The resurrection,[Russia] Leo Tolstoy,5
+2419,A dream of red mansions,Cao Xueqin,5
+2420,Little women,Louisa May Alcott,5
+2421,Shakespeare's tragedies,[Britain] William Shakespeare,5
+2422,The little prince,[Fa] Saint-Exupery,5
+2423,The old man and the sea,Ernest Hemingway,5
+2424,Pride and Prejudice,JaneAusten,5
+2425,A dream of red mansions,Cao xueqin,5
+2426,Dr. Zhivago,Boris Pasternak,5
+2427,Alice's Adventures in Wonderland,carol,5
+2428,How is steel made,Ny Ostrovsky,5
+2429,David Copperfield (b/B),[Britain] Charles Dickens,5
+2430,Gone with the wind,Margaret Mitchell,5
+2431,Alice in Wonderland,Susan change,5
+2432,Les Miserables (part 1),Victor Hugo,5
+2433,Snow country,Kawabata Yasunari,5
+2434,intermediary,[Russia] Chekhov,5
+2435,Emma,[Britain] Jane Austen,5
+2436,Gone with the wind,Margaret Mitchell,5
+2437,The white whale,Melville,5
+2438,Twenty thousand leagues under the sea,[Law] Jules Verne,5
+2439,The phantom of the opera,Carsten Lehu,5
+2440,Twenty thousand leagues under the sea,Golden age education is famous in the West,5
+2441,The analects of Confucius,Zhang Yanying,5
+2442,Great expectations,[Britain] Charles Dickens,5
+2443,Sons and Lovers,[Britain] Dai H. Lawrence,5
+2444,The resurrection,(Russia) Leo Tolstoy,5
+2445,Sherlock Holmes,[Britain] Arthur Conan Doyle,5
+2446,Treasure Island · Dr. Jekyll and Mr. Hyde,[Britain] Robert Louis Stevenson,5
+2447,Napoleon preach,[D] Emile Ludwig,5
+2448,"""Center",[Fa] Jules Verne,5
+2449,Aesop's fables,[Greece] Aesop,5
+2450,The king of flies,[Britain] William Golding,5
+2451,Love Jane.,[Britain] Charlotte Bronte,5
+2452,Harry Potter and the Deathly Hallows,J.K. rowling (J.K.R owling),5
+2453,The old man and the sea,Ernest Hemingway,5
+2454,Journey to the west,Wu chengen,5
+2455,Eugenie Grandet,Balzac,5
+2456,Robinson Crusoe,[Britain] Daniel Defoe,5
+2457,Twenty thousand leagues under the sea,[Law] Jules Verne,5
+2458,The Great Gatsby,F. Scott Fitzgerald,5
+2459,The Little Prince,Anton de Saint-Exupery,5
+2460,Anna Karenina (top and bottom),[Russia] Leo Tolstoy,5
+2461,War and Peace (All four books),[Russia] Leo Tolstoy,5
+2462,Jude the Unknown,[Britain] Thomas Hardy,5
+2463,John Christophe,[French] Romain Rolland,5
+2464,The education of love,[Italy] Amicis,5
+2465,War and Peace,[Russia] Leo Tolstoy,5
+2466,Give me three days to see,Helen Keller,5
+2467,The metamorphosis,Ovid,5
+2468,Little women,By L.M. Alcott,5
+2469,Les miserables,[Fa] Hugo,5
+2470,History of Western philosophy,Russell,5
+2471,Faust,Johann Wolfgang von Goethe,5
+2472,"Farewell, weapon",Ernest Hemingway,5
+2473,Death of a Salesman,Arthur Miller,5
+2474,siege,Qian zhongshu,5
+2475,Romance of The Three Kingdoms (in two volumes),Luo guanzhong,5
+2476,Robinson Crusoe,[Britain] Daniel Defoe,5
+2477,Jane eyre,[Britain] Charlotte Bronte,5
+2478,Greek mythology and legends,(D) Swabb,5
+2479,Notre Dame de Paris,Victor Hugo,5
+2480,"20,000 Leagues under the Sea (2 volumes)",[Law] Jules Verne,5
+2481,Jane eyre,[Britain] Charlotte Bronte,5
+2482,Eugenie Grandet,Balzac,5
+2483,The European and American Part of the World Literary Classics Comic Strip (full 10 volumes),Homer,5
+2484,"Farewell, weapon",Ernest Hemingway,5
+2485,A dream of red mansions,Cao xueqin,5
+2486,The thorn birds,[Australia] Colleen McCullough,5
+2487,King Lear,[Britain] William Shakespeare,5
+2488,Jane eyre,Charlotte Bronte,5
+2489,Jia Chun Qiu (Full volume 3),Ba jin,5
+2490,A tale of two cities,[Britain] Charles Dickens,5
+2491,The Shouting,Lu xun,5
+2492,Ball of suet (Selected stories and stories by Maupassant),Wang Zhensun,5
+2493,Classic Works of Lao She (Volume two),ShuYi,5
+2494,Peter pan,JamesMatthewBarrie,5
+2495,The Complete Works of Franz Kafka (three volumes),[Austria] Franz Kafka,5
+2496,Journey to the west,Wu chengen,5
+2497,Iliad,Ancient Greece Homer,5
+2498,How is steel made,Ny Ostrovsky,5
+2499,The eye of the blue whale,Ice wave,5
+2500,Gulliver's Travels,[Britain] Swift,5
+2501,The castle,Franz Kafka,5
+2502,decameron,Giovanni Boccaccio,5
+2503,YuShi say,Feng menglong,5
+2504,Great expectations,CharlesDickens (original),5
+2505,Uncle Tom's cabin,Mrs. Stowe,5
+2506,The gadfly,Elle Lee Voynich,5
+2507,Sherlock Holmes,[Britain] Arthur Conan Doyle,5
+2508,The education of love,Ay de Armitage,5
+2509,Uncle Tom's cabin,Mrs. Stowe,5
+2510,New Notes to Liaozhai Zhiyi (All three volumes),By Pu Songling,5
+2511,The romance of The Three Kingdoms,Luo guanzhong,5
+2512,Go against,[Law] Joris-Karl Huzman,5
+2513,The teahouse,Lao she,5
+2514,The old man and the sea,Ernest Hemingway,5
+2515,"Les Miserables (PART 1, Part 2)",[Fa] Hugo,5
+2516,Robinson Crusoe,difuzhu,5
+2517,The age of innocence,Edith Wharton,5
+2518,The gadfly,[Ireland] Voynich,5
+2519,Childhood in the world my university,[Soviet Union] Maxim Gorky,5
+2520,The scarlet letter,Nathaniel Hawthorne,5
+2521,Celebrity biography,[French] Romain Rolland,5
+2522,Communist Manifesto,Marx,5
+2523,Pride and Prejudice,[Britain] Jane Austen,5
+2524,Selected Lyric poems of Tagore,[India] Rabindranath Tagore,5
+2525,The butterfly dream,Notes by Liu Baoshan,5
+2526,John Christophe,Romain Rolland,5
+2527,Alice's Adventures in Wonderland,carol,5
+2528,A dream of red mansions,Cao xueqin the,5
+2529,The poor,[Russia] Leo Tolstoy,5
+2530,Oliver twist,[Britain] Charles Dickens,5
+2531,persuasion,[Britain] Jane Austen,5
+2532,Emma,[Britain] Jane Austen,5
+2533,Good soldier Svetch,[Czech republic] Jacek Hasek,5
+2534,Pride and Prejudice,(British) Austin,5
+2535,The red,Stan,5
+2536,liao,Pu songling,5
+2537,Pride and Prejudice,(British) Jane Bronte,5
+2538,The Budenbrokes,Thomas Mann,5
+2539,Maritime Labour,Victor Hugo,5
+2540,Beautiful friend,Guy de Maupassant,5
+2541,childhood,[Soviet Union] Maxim Gorky,5
+2542,childhood,[Soviet Union] Maxim Gorky,5
+2543,Emma,[Britain] Jane Austen,5
+2544,A hypocrite,Moliere,5
+2545,home,Ba jin,5
+2546,The happy prince,[Ireland] Oscar Wilde,5
+2547,The romance of The Three Kingdoms,Luo guanzhong,5
+2548,Uncle Tom's cabin,Mrs. Stowe,5
+2549,The Brothers Karamazov (top and bottom),[Russia] Fyodor Dostoevsky,5
+2550,Past events and random thoughts,[Russia] Alexander Ivanovich Herzen,5
+2551,Jane Eyre,[Britain] Charlotte Bronte,5
+2552,French lieutenant's woman,[Britain] John Fowles,5
+2553,Collection of Translation by Fu Lei,Romain Rolland,5
+2554,midnight,MAO dun,5
+2555,To Kill a Mockingbird,Harper Lee,5
+2556,Sense and sensibility,[Britain] Jane Austen,5
+2557,"In 93,",[Fa] Hugo,5
+2558,Water Margin (Children's Edition),Shy naih-an,5
+2559,Wuthering heights,[Britain] Emily Bronte,5
+2560,Wuthering heights,Bronte,5
+2561,nana,[Fa] Emile Zola,5
+2562,Harry Potter and the Chamber of Secrets,J.K. rowling (J.K.R owling),5
+2563,Harry Potter and the Order of the Phoenix (Commemorative Edition),[Britain]J.K. Rowling,5
+2564,genius,Theodore Dreiser,5
+2565,Red Star over China (Youth Edition),Edgar Snow,5
+2566,life,Guy de Maupassant,5
+2567,One hundred years of solitude,Garcia Marquez,5
+2568,The House of Tellier,Guy de Maupassant,5
+2569,Mansfield Park,[Britain] Jane Austen,5
+2570,Hamlet,Ann Thompson,5
+2571,Eugenie Grandet,Balzac,5
+2572,Shakespeare's comedy and tragedy,[Britain] William Shakespeare,5
+2573,Jane eyre,[Britain] Charlotte Bronte,5
+2574,The resurrection,[Russia] Leo Tolstoy,5
+2575,A collection of Short stories by Merimee,[J],5
+2576,Shakespeare's four tragedies,[Britain] William Shakespeare,5
+2577,Pere Goriot (The 110th anniversary of Mr. Fu Lei's birth),Balzac,5
+2578,A Tale of Two Cities,[Britain] Charles Dickens,5
+2579,David Copperfield,[Britain] Charles Dickens,5
+2580,Wuthering heights,[Britain] Emily Bronte,5
+2581,Charlotte's web,By E. B. White,5
+2582,Gone with the wind,Mitchell,5
+2583,Anne's diary,Anne Frank,5
+2584,Around the world in 80 days,(French) Jules Verne,5
+2585,Heidi,Johanna Spiry,5
+2586,The red,Stendhal,5
+2587,Wuthering heights,[Britain] Emily Bronte,5
+2588,The romance of The Three Kingdoms,Luo guanzhong,5
+2589,Mysterious island,[Law] Jules Verne,5
+2590,La Traviata,Dumas jr,5
+2591,Make wine and explore the west,Wu clouds,5
+2592,The moon and sixpence,[Britain] William Somerset Maugham,5
+2593,Childhood in the world my university,[Soviet Union] Maxim Gorky,5
+2594,childhood,gorky,5
+2595,Pinocchio,She di,5
+2596,Oedipus the King,[Ancient Greece] Sophocles,5
+2597,Euyenne Grandet,Balzac,5
+2598,The Mysterious Island (All three books),[Law] Jules Verne,5
+2599,The old man and the sea,Ernest Hemingway,5
+2600,A dream of red mansions,Cao Xueqin,5
+2601,Earthly Dream: Painted Dream of red Mansions,Painted by Sun Wen of qing Dynasty,5
+2602,Is love.,[Britain] Charlotte Bronte,5
+2603,Uncle Tom's cabin,Mrs Stowe,5
+2604,The red,stendhal,5
+2605,A doll's house,[Norway] Henrik Ibsen,5
+2606,The red,stendhal,5
+2607,Wuthering heights,Emho Bronte,5
+2608,The resurrection,[Russia] Leo Tolstoy,5
+2609,Wuthering heights,[Britain] Emily Bronte,5
+2610,outsiders,[Fa] Albert Camus,5
+2611,Call of the wild,Jack London,5
+2612,amber,Catherine Windsor,5
+2613,Shakespeare's four tragedies,[Britain] William Shakespeare,5
+2614,Emma,[Britain] Jane Austen,5
+2615,Shooting star chase,[Law] Jules Verne,5
+2616,Frankenstein,"Mary Shelley, British",5
+2617,Selected stories and short stories by Franz Kafka,By Franz Kafka,5
+2618,Arabian nights,NULL,5
+2619,Childhood in the world my university,[Soviet Union] Maxim Gorky,5
+2620,Pride and Prejudice,Jane Austen,5
+2621,Insects to remember,faber,5
+2622,dracula,Bram Stoker,5
+2623,The troubles of young Werther,Johann Wolfgang,5
+2624,Pride and Prejudice,[Britain] Jane Austen,5
+2625,A Midsummer night's dream,[Britain] William Shakespeare,5
+2626,Modern heroes,[Russia] Mikhail Lermontov,5
+2627,La Traviata,Dumas jr,5
+2628,Anna Karenina,Leo Tolstoy,5
+2629,Bridges of Madison county,Robert Waller,5
+2630,Little women,Lou Mae Elkor,5
+2631,The butterfly dream,[Britain] Daphne Du Maurier,5
+2632,White willow door,Liu Sifen,5
+2633,A letter from a strange woman,[Austria] Stefan Zweig,5
+2634,Gone with the wind,Margaret Mitchell,5
+2635,Anna Karenina (full two volumes),[Russia] Leo Tolstoy,5
+2636,Madame Bovary,[France] Gustave Flaubert,5
+2637,The old man and the sea,Ernest Hemingway,5
+2638,The Complete Adventures of Sherlock Holmes (seven volumes),Conan Doyle,5
+2639,The Complete Short Stories of Maupassant (all four volumes),Guy de Maupassant,5
+2640,Anne of Green Gables,[Canada] Lucy Maud Montgomery,5
+2641,rashomon,[Japan] Ryunosuke Akutagawa,5
+2642,The resurrection,[Russia] Leo Tolstoy,5
+2643,High old man,Balzac,5
+2644,Women in Love,[Britain] David Herbert Lawrence,5
+2645,Little women,Alcott,5
+2646,Jane eyre,[Britain] Charlotte Bronte,5
+2647,The portrait of Dorian Gray,[Britain] Oscar Wilde,5
+2648,A list of the 100 greatest Books that have influenced world history,Hu made the xuan,5
+2649,Hard times,[Britain] Charles Dickens,5
+2650,Reappraised stone gengchen schoolbook,Cao Xueqin on the Ink stone,5
+2651,The Tale of Genji (All four books),Murasaki shikibu,5
+2652,"The Tale of Genji (1, 2, 2)",Murasaki Shikibu,5
+2653,Treasure island,[Britain] Robert Louis Stevenson,5
+2654,In Greek mythology,[Ru] Ni Kuhn,5
+2655,The return of the native,[Britain] Thomas Hardy,5
+2656,siege,Qian zhongshu,5
+2657,Twenty thousand leagues under the sea,[Law] Jules Verne,5
+2658,Robinson Crusoe,[Britain] Daniel Defoe,5
+2659,Around the world in 80 days,(French) Jules Verne,5
+2660,Human frailty,Carnegie,5
+2661,Les Miserables part 2,Victor Hugo,5
+2662,The resurrection,[Russia] Tolstoy,5
+2663,Monte Cristo,Dumas,5
+2664,Lao tze,Xidong set solution Fang Yong guide punctuation arrangement,5
+2665,Collection of SHORT stories by O. Henry,O. Henry,5
+2666,"Political science,",[Ancient Greece] Aristotle,5
+2667,La Traviata,Dumas jr,5
+2668,Eternal Words of Awakening (PART I),Feng menglong,5
+2669,Gulliver's Travels,[Britain] Swift,5
+2670,Camel xiangzi,Lao she,5
+2671,"In the summer,",[Switzerland] By Spili,5
+2672,The adventures of Huckleberry Finn,Mark Twain,5
+2673,Jane eyre,(British) Charlotte Bronte,5
+2674,Aesop's Fables in hardcover,[Greece] Aesop,5
+2675,Three musketeers,dumas,5
+2676,Pride and Prejudice,[Britain] Jane Austen,5
+2677,disillusionment,Balzac,5
+2678,For whom the bell tolls,Ernest Hemingway,5
+2679,Oliver twist,[Britain] Charles Dickens,5
+2680,The Great Gatsby,F. Scott Fitzgerald,5
+2681,Anne of Green Gables,[Canada] Lucy Montgomery,5
+2682,Journey to the west,Wu chengen,5
+2683,Water margin,Shy naih-an,5
+2684,The romance of The Three Kingdoms,Luo guanzhong,5
+2685,The wizard of oz,LaymanFrankBaum,5
+2686,Lady Chatterley's lover,[Britain] D. H. Lawrence,5
+2687,Three Kingdoms in Vernacular (upper middle lower),Chen shou,5
+2688,Eugenie Grandet,Balzac,5
+2689,The adventures of Huckleberry Finn,"马克, 吐温",5
+2690,How is steel made,Ny Ostrovsky,5
+2691,nana,[Fa] Emile Zola,5
+2692,All the good in the world that I love,[Ireland] William Butler Yeats,5
+2693,Ulysses,[Ireland] James Joyce,5
+2694,The History of The Outcast Tom Jones (PART 1 and Part 2),[Britain] Henry Fielding,5
+2695,Giant Legend (Part 1 and Part 2),Rabelais,5
+2696,Eugene Onegin,[Russia] Alexander Pushkin,5
+2697,I am a cat,Natsume Soseki,5
+2698,Jane. love,Charlotte. Bronte,5
+2699,Count of Monte Cristo,Wang Jucheng,5
+2700,Jane eyre,[English] CharlotteBronte,5
+2701,Shakespeare's comedies,[Britain] William Shakespeare,5
+2702,Washington Square,James,5
+2703,La Traviata,Dumas jr,5
+2704,Wuthering heights,(Britain) Emily Bronte,5
+2705,"The world lost,",[Japan] Tae-jae Ji,5
+2706,The white whale,Melville,5
+2707,The Prince and the pauper,Mark Twain,5
+2708,Call of the wild,Jack London,5
+2709,Oliver twist,[Britain] Charles Dickens,5
+2710,La Traviata,Dumas jr,5
+2711,Travel around the world in 80 days,[Law] Jules Verne,5
+2712,La Traviata,Dumas jr,5
+2713,The metamorphosis,[Austria] Franz Kafka,5
+2714,Gone with the wind,Margaret Mitchell,5
+2715,The three musketeers,Dumas,5
+2716,Gone with the wind,Margaret Mitchell,5
+2717,lolita,Vladimir Nabokov,5
+2718,The castle,[Austria] Franz Kafka,5
+2719,I am a cat,Natsume Soseki,5
+2720,Gone with the wind,Margaret Mitchell,5
+2721,Madame Bovary,[France] Gustave Flaubert,5
+2722,Robinson Crusoe,[Britain] Daniel Defoe,5
+2723,How is steel made,[Ru] Ostrovsky,5
+2724,Float (up and down),Mitchell,5
+2725,Alice's Adventures in Wonderland,[Britain] Lewis Carroll,5
+2726,The book,Shen congwen,5
+2727,The Adventures of Tom Sawyer,Mark Twain,5
+2728,When the human stars shine,[Austria] Stefan Zweig,5
+2729,Snow country,Kawabata Yasunari,5
+2730,Great expectations,[Britain] Charles Dickens,5
+2731,Faust,Johann Wolfgang von Goethe,5
+2732,Catch-22,Joseph Heller,5
+2733,Madame Bovary,[France] Gustave Flaubert,5
+2734,Around the world in 80 days,Jules Verne,5
+2735,Journey to the west,Wu chengen,5
+2736,Lady Chatterley's lover,[Britain] David Herbert Lawrence,5
+2737,Eugene Onegin,[Russia] Alexander Pushkin,5
+2738,DouE case,"Works,",5
+2739,Great expectations,[Britain] Charles Dickens,5
+2740,Float (up and down),Mitchell,5
+2741,Traveling by Goose (I),Selma La Rover,5
+2742,Mount Kidu,(French) Dumas,5
+2743,The sun also rises,Ernest Hemingway,5
+2744,The portrait of Dorian Gray,[Britain] Oscar Wilde,5
+2745,Pride and Prejudice,[Britain] Jane Austen,5
+2746,Faust,Johann Wolfgang von Goethe,5
+2747,lover,Margaret Duras,5
+2748,Li Baishi,Xiong Li remit,5
+2749,The wizard of oz,Adapted by Baum/F.)/Yanling Wang,5
+2750,lolita,Vladimir Nabokov,5
+2751,Anna Karenina,[Russia] Leo Tolstoy,5
+2752,The mathematical principles of natural philosophy,[Britain] Newton,5
+2753,Shakespeare's comedy and tragedy,[Britain] William Shakespeare,5
+2754,A selection of Chekhov's short stories,[Russia] Anton Chekhov,5
+2755,Twenty thousand leagues under the sea,Jules Verne,5
+2756,Watchtower pavilion memorial,EdwardCarey,5
+2757,Robin Girl 4 Storm of Doom,Chuck Wendiger,5
+2758,Celebrity biography,[French] Romain Rolland,5
+2759,Sister Carrie,Theodore Dreiser,5
+2760,The devil,[Russia] Mikhail Lermontov,5
+2761,Crime and Punishment (TOP middle Bottom),[Russia] Fyodor Dostoevsky,5
+2762,Gulliver's Travels,[Britain] Swift,5
+2763,Suet ball,Guy de Maupassant,5
+2764,Anna Karenina,[Russia] Leo Tolstoy,5
+2765,Wuthering Heights,EmilyBront?,5
+2766,Classic works of Lu Xun,Lu xun,5
+2767,"Be on your guard, girl!",Publicity Manual of Beijing Daily,5
+2768,Lady Chatterley's lover,[Britain] David Herbert Lawrence,5
+2769,The resurrection,[Russia] Leo Tolstoy,5
+2770,New engraving embroidery criticism jin Ping Mei,Lanling smiled,5
+2771,A letter from a strange woman,[Austria] Stefan Zweig,5
+2772,The woman who rode away,[Britain] D. H. Lawrence,5
+2773,The sun shines on the Sanggan River,Ding ling,5
+2774,Wuthering heights,[Britain] Emily Bronte,5
+2775,hesitation,Lu xun,5
+2776,Arabian Nights,NULL,5
+2777,Anna Karenina: The Literary Classics of the World collection (I. Below),[Ru] Lev Toles,5
+2778,Report from the gallows,V chuck,5
+2779,The teahouse,Lao she,5
+2780,Journey to the west,Wu chengen,5
+2781,There are four kinds of Shakespearean tragedies,[Britain] William Shakespeare,5
+2782,Water Margin (Annotated version),Luo guanzhong,5
+2783,High old man,Balzac,5
+2784,Robinson Crusoe,[Britain] Daniel Defoe,5
+2785,financiers,Theodore Dreiser,5
+2786,The little prince,Antoine de Saint-Exupery,5
+2787,Mansfield Park,[Britain] Jane Austen,5
+2788,In days of yore,Lu xun,5
+2789,The age of innocence,Edith Wharton,5
+2790,David Copperfield (b/B),[Britain] Charles Dickens,5
+2791,Ordinary World (Full volume 3),Lu yao,5
+2792,Shakespeare's Complete works (updated edition) Romances and poems,Sun DE jure,5
+2793,Collection of wang Zengqi's stories,Wang zeng-qi,5
+2794,Ramayana (6),Valmiki [J],5
+2795,The scarlet letter,NULL,5
+2796,Twenty Thousand Leagues under the Sea - A collection of literary masterpieces from around the world,[Law] Jules Verne,5
+2797,Murder on the Orient Express,[Britain] Agatha Christie,5
+2798,Vanity Fair,[Britain] Thackeray,5
+2799,Madame Bovary,[France] Gustave Flaubert,5
+2800,The wizard of oz,"Baum, Lyman Frank",5
+2801,The adventures of Huckleberry Finn,Mark Twain,5
+2802,The scarlet letter,Nathaniel Hawthorne,5
+2803,Niels' journey on a goose,[Sweden] Lagerlov,5
+2804,"We pray, Iraq fan",Jack London,5
+2805,Hamlet,[Britain] William Shakespeare,5
+2806,Alice's Adventures in Wonderland,[Britain] Lewis Carroll,5
+2807,Pride and Prejudice,[Britain] Jane Austen,5
+2808,Captain's daughter,[Russia] Alexander Pushkin,5
+2809,Suet ball,[French] Guy De. maupassant,5
+2810,Little thing,Alphonse Dodd,5
+2811,mother,(Soviet Union) Gorky,5
+2812,Obromov,[Ru] Gontcharov,5
+2813,benma,Yukio Mishima,5
+2814,Sad Cafe song,Carson McCullers,5
+2815,The fifteen-year-old captain,Insufficient number of evaluators,5
+2816,David Copperfield,[Britain] Charles Dickens,5
+2817,One thousand paradox.,Joyce zhang,5
+2818,How is steel made,[Russia] Ny Ostrovsky,5
+2819,Maritime Labour,Victor Hugo,5
+2820,Catch-22,Joseph Heller,5
+2821,Pride and Prejudice,[Britain] Jane Austen,5
+2822,The troubles of young Werther,Johann Wolfgang von Goethe,5
+2823,Emma,[Britain] Jane Austen,5
+2824,Young Werther's troubles,[D] Goethe,5
+2825,Les Miserables (5),Victor Hugo,5
+2826,The Catcher in the rye,J. d. salinger,5
+2827,One hundred years of solitude,[Colombia] Garcia Marquez,5
+2828,home,Ba jin,5
+2829,The red,Stendhal,5
+2830,Grimm's Fairy Tales (PART 1),The brothers Grimm,5
+2831,Beautiful friend,Guy de Maupassant,5
+2832,A tale of two cities,[Britain] Charles Dickens,5
+2833,Madame Bovary,Flaubert,5
+2834,King Lear,[Britain] William Shakespeare,5
+2835,The Adventures of bitter Children,[Fa] Edo Marlowe,5
+2836,Pumpkins are,Insufficient number of evaluators,5
+2837,The red,Stendhal,5
+2838,mother,Maxim Gorky,5
+2839,Robinson Crusoe,[Britain] Daniel Defoe,5
+2840,Selected short stories by O. Henry,O. Henry,5
+2841,Yang warrior,Xiong Damu,5
+2842,Voyagers,AshayanaDeane,5
+2843,Jane Eyre,[Britain] Charlotte Bronte,5
+2844,Miserliness people,Moliere,5
+2845,The most memorable classic speed reading,recommended,5
+2846,Crime and punishment,[Russia] Fyodor Dostoevsky,5
+2847,Jane Eyre,CharlotteBront?,5
+2848,Sense and sensibility,[Britain] Jane Austen,5
+2849,Sister Carrie,Theodore Dreiser,5
+2850,Anna Karenina,[Russia] Leo Tolstoy,5
+2851,Soul hunter,Xu Zhonglin,5
+2852,The Master and Margaret,Bulgakov,5
+2853,Gold dances in the sky,[Russia] Osip Mandelstam,5
+2854,The book,Shen congwen,5
+2855,The chameleon,[Russia] Ann Chekhov,5
+2856,Stars. Spring water,Bing xin,5
+2857,A tale of two cities,[Britain] Charles Dickens,5
+2858,Hans Christian Andersen's fairy tales,[Denmark] Hans Christian Andersen,5
+2859,Wuthering heights,[Britain] Emily Bronte,5
+2860,La Traviata,Dumas jr,5
+2861,Beautiful friend,Guy de Maupassant,5
+2862,Mansfield Park,[Britain] Jane Austen,5
+2863,Wuthering Heights,EmilyBronte,5
+2864,abduction,Lou Lou Stevenson,5
+2865,Complete works of Shakespeare,[Britain] William Shakespeare,5
+2866,Journey to the west,Wu chengen,5
+2867,The Sun Also Rises,ErnestHemingway,5
+2868,Good soldier Svetch,Jaroslav Hasek,5
+2869,In search of Lost Time I,Marcel Proust,5
+2870,parchment,Og Mandino,5
+2871,"Hello, Mencius",Yangyang Rabbit Animation,5
+2872,How is steel made,[Russia] Ostrovsky,5
+2873,A Tale of Two Cities (Ping)// Translation of world literary masterpieces. Classical series,[Britain] Charles Dickens,5
+2874,Kite runner,Khaled Hosseini,5
+2875,Pride and Prejudice,(British) Jane Austen,5
+2876,Shakespeare's Tragedies,[Britain] Shakespeare,5
+2877,I am a cat,Natsume Soseki,5
+2878,John Christophe (top middle bottom),[French] Romain Rolland,5
+2879,Cloud life,Shen congwen,5
+2880,John Christopher,32 open,5
+2881,Northanger Abbey,[Britain] Jane Austen,5
+2882,The education of love,[meaning] de Amicis,5
+2883,Faust,Johann Wolfgang von Goethe,5
+2884,Othello,(British)E.A.J. Honishman,5
+2885,Sister Carrie,Theotto Dreiser,5
+2886,Jane eyre,Xia borangte,5
+2887,Les miserables,Our club,5
+2888,Selected novels of Anton Chekhov,[Russia] Anton Chekhov,5
+2889,Anna Karenina,Leo Tolstoy,5
+2890,The art of war,Jian-guo wang,5
+2891,North and South,[Britain] Mrs Gaskell,5
+2892,The complete Grimm fairy Tales,The brothers Grimm,5
+2893,Jane eyre,[Britain] Charlotte Bronte,5
+2894,Water margin,Shy naih-an,5
+2895,Selected short stories by Maupassant,Guy de Maupassant,5
+2896,Two horses,Lao she,5
+2897,Atlas shrugs (up and down),Ayn rand,5
+2898,Jill Brass,[French] Lesar day,5
+2899,Chinese Spirit reader,Wang meng Ed.,5
+2900,The king of flies,[Britain] Golding,5
+2901,The education of love,[meaning] Amicis,5
+2902,Lady Chatterley's lover,[Britain] D. H. Lawrence,5
+2903,How is steel made,Ostrovsky,5
+2904,Twenty-four hours in a woman's life,[Austria] Stefan Zweig,5
+2905,Notre Dame de Paris,Victor Hugo,5
+2906,One hundred years of solitude,[Colombia] Garcia Marquez,5
+2907,Ba Jin Anthology 3 -- Autumn,Ba jin,5
+2908,city,Lin,5
+2909,The complete Anne of Green Gables,Lucy Maud Montgomery,5
+2910,The alchemist,[Brazil] Paulo Coelho,5
+2911,The wizard of oz,,5
+2912,The Catcher in the rye,(美)塞林格,5
+2913,Eugenie Grandet,[法]巴尔扎克,5
+2914,The old man and the sea,[美]欧内斯特·海明威,5
+2915,Jane eyre,[英]夏绿蒂·勃朗特,5
+2916,The Great Gatsby,[美]弗·司各特·菲茨杰拉德,5
+2917,Quiet Don,(苏)肖洛霍夫,5
+2918,outsiders,[法]阿尔贝·加缪,5
+2919,Sacha Pirotto is the story of the rise and fall of Nuchingen Bank,[法]巴尔扎克,5
+2920,mozi,徐翠兰,5
+2921,Genji monogatari,紫式部,5
+2922,A portrait of Dorian Gray,[英]奥斯卡·王尔德,5
+2923,The troubles of young Werther,盛世教育西方名,5
+2924,Winter's Tale,杜苕,5
+2925,Gone with the Wind (PART 1 and Part 2),[美]玛格丽特·米切尔,5
+2926,John Christopher,[法]罗曼·罗兰,5
+2927,Young Werther's troubles,[德]约翰·沃尔夫冈·冯·歌德,5
+2928,Twenty-four hours in a woman's life,[奥地利]斯蒂芬·茨威格,5
+2929,Tess,[英]托马斯·哈代,5
+2930,Water margin,施耐庵,5
+2931,Pride and Prejudice,[英]简·奥斯汀,5
+2932,Twenty thousand leagues under the sea,评价人数不足,5
+2933,The white whale,[美]麦尔维尔,5
+2934,Selected plays by Ibsen,(挪威)易卜生,5
+2935,Farewell to weapons,[美]欧内斯特·海明威,5
+2936,A Tale of Two Cities,[英]查尔斯·狄更斯,5
+2937,In the spring,巴金,5
+2938,Northanger Abbey,JaneAusten,5
+2939,Beautiful friend,[法]居伊·德·莫泊桑,5
+2940,scarlett,亚历山德拉·里普利,5
+2941,Selected Novels of Natsume Soseki (Ii),[日]夏目漱石,5
+2942,The 1984,(英)乔治·奥威尔,5
+2943,La Traviata,[法]小仲马,5
+2944,The education of love,（意）亚米契斯,5
+2945,Princess Clive,（法）拉法耶特夫人,5
+2946,villette,(英)夏洛蒂·勃朗特,5
+2947,The three musketeers,[法]大仲马,5
+2948,The night before father and son,[俄]屠格涅夫,5
+2949,White deer,陈忠实,5
+2950,The red,[法]司汤达,5
+2951,hesitation,鲁迅,5
+2952,The scarlet letter,[美]纳撒尼尔·霍桑,5
+2953,Laozi zhuangzi,李耳,5
+2954,Time machine,[英]赫伯特·乔治·威尔斯,5
+2955,Harry Potter and the Half-Blood Prince,J.K.罗琳(J.K.Rowling),5
+2956,Notre Dame de Paris,[法]雨果,5
+2957,Selected novels by Jack London,[美]杰克·伦敦,5
+2958,A letter from a strange woman,斯蒂芬·茨威格(StefanZzweig),5
+2959,Thirty-nine steps,(英)约翰·伯肯,5
+2960,The song of the cid,佚名,5
+2961,There are five kinds of Shakespeare's comedies,[英]威廉·莎士比亚,5
+2962,Chinese Dialect liaozhai (Complete Edition),羊春秋,5
+2963,Anna Karenina,[俄]列夫·托尔斯泰,5
+2964,"Euyenne Grandet, Pere Goriot",[法]巴尔扎克,5
+2965,Imperial envoys,[俄]果戈理,5
+2966,Robinson Crusoe,[英]丹尼尔·笛福,5
+2967,Don Quixote,[西]塞万提斯,5
+2968,Shuihu complete biography,罗贯中,5
+2969,Decameron (first and second),（意）卜伽丘,5
+2970,mencius,NULL,5
+2971,Give me three days to see,"海伦,凯勒",5
+2972,White woman,[英]威尔基·柯林斯,5
+2973,I am a cat,[日]夏目漱石,5
+2974,Report from the gallows,伏契克,5
+2975,On what does man live,列夫.托爾斯泰,5
+2976,The butterfly dream,（英）达夫妮·杜穆里埃,5
+2977,The queen of spades,普希金,5
+2978,High old man,[法]巴尔扎克,5
+2979,Eugenie Grandet (High School),[法]巴尔扎克,5
+2980,When the stars of mankind shine,[奥地利]斯蒂芬·茨威格,5
+2981,Selected novels of Lao She,老舍,5
+2982,Heidi,(瑞士)约翰娜·施比里,5
+2983,The Divine Comedy (All three Volumes),[意]但丁,5
+2984,The Adventures of bitter Children,[法]埃克多·马洛,5
+2985,"Farewell, weapon",[美]欧内斯特·海明威,5
+2986,outsiders,[法]阿尔贝·加缪,5
+2987,Crime and punishment,[俄]费奥多尔·陀思妥耶夫斯基,5
+2988,War and Peace - Two volumes - full translation,[俄]列夫·托尔斯泰,5
+2989,Old Euyenne Grondegaard,[法]巴尔扎克,5
+2990,The wizard of oz,[美]弗兰克·鲍姆,5
+2991,The adventures of Huckleberry Finn,（美）马克·吐温,5
+2992,Romeo and Juliet,[英]威廉·莎士比亚,5
+2993,tolerance,[美]亨德里克·威廉·房龙,5
+2994,Poor elements ten,NULL,5
+2995,American tragedy,[美]西奥多·德莱塞,5
+2996,A dream of red mansions,曹雪芹,5
+2997,In search of The Past (Volume two),[法]马塞尔·普鲁斯特,5
+2998,The romance of The Three Kingdoms,罗贯中刘世德郑铭,5
+2999,Stray birds,[印度]拉宾德拉纳特·泰戈尔,5
+3000,The hunter notes,[俄]屠格涅夫,5
+3001,Relief grocery store,[日]东野圭吾,5
+3002,alive,余华,5
+3003,Kite runner,[美]卡勒德·胡赛尼,5
+3004,White night line,[日]东野圭吾,5
+3005,The dedication of suspect X,[日]东野圭吾,5
+3006,Three body,刘慈欣,5
+3007,Ordinary World (All three),路遥,5
+3008,siege,钱钟书,5
+3009,A dream of red mansions,[清]曹雪芹著,5
+3010,The little prince,[法]圣埃克苏佩里,5
+3011,Xu Sanguan sells blood,余华,5
+3012,Kim Ji-young was born in 1982,[韩]赵南柱,5
+3013,Fang Siqi's first love paradise,林奕含,5
+3014,One hundred years of solitude,[哥伦比亚]加西亚·马尔克斯,5
+3015,Camel xiangzi,老舍,5
+3016,Robinson Crusoe,[英]丹尼尔·笛福,5
+3017,The moon and sixpence,[英]威廉·萨默塞特·毛姆,5
+3018,Grave notes,南派三叔,5
+3019,"The world lost,",太宰治,5
+3020,White night line,[日]东野圭吾,5
+3021,Norwegian forests,[日]村上春树,5
+3022,The book,沈从文,5
+3023,Those things in Ming Dynasty (1),当年明月,5
+3024,Pride and Prejudice,[英]简·奥斯汀,5
+3025,malicious,[日]东野圭吾,5
+3026,Love in the time of cholera,[哥伦比亚]加西亚·马尔克斯,5
+3027,The old man and the sea,[美]欧内斯特·海明威,5
+3028,Harry Potter and the Philosopher's Stone,[英]J·K·罗琳,5
+3029,Three body Ⅱ,刘慈欣,5
+3030,Jane Eyre (In English),[英]夏洛蒂·勃朗特,5
+3031,Three body Ⅲ,刘慈欣,5
+3032,1984,[英]乔治·奥威尔,5
+3033,A Muslim funeral,霍达,5
+3034,The Wolf totem,姜戎,5
+3035,The Da Vinci code,[美]丹·布朗,5
+3036,Gone with the wind,[美]玛格丽特·米切尔,5
+3037,White deer,陈忠实,5
+3038,Silent confessions,[美]伍绮诗,5
+3039,outsiders,[法]阿尔贝·加缪,5
+3040,Romance of The Three Kingdoms (Full Two volumes),罗贯中,5
+3041,The Shepherd Boy fantasy Journey,[巴西]保罗·柯艾略,5
+3042,city,关维兴图,5
+3043,The Great Gatsby,菲茨杰拉德,5
+3044,Flemish mirror,dome,5
+3045,Read silently,Priest,5
+3046,"Genius on the left, madman on the right",高铭,5
+3047,At twelve hours in Chang 'an,马伯庸,5
+3048,The unbearable lightness of being,[捷克]米兰·昆德拉,5
+3049,The missing child,[意]埃莱娜·费兰特,5
+3050,The whole of love,张爱玲,5
+3051,La Traviata,[法]小仲马,5
+3052,To Kill a Mockingbird,[美]哈珀·李,5
+3053,Count of Monte Cristo,[法]大仲马,5
+3054,The wu is empty the,今何在,5
+3055,Twenty thousand leagues under the sea,[法]儒尔·凡尔纳,5
+3056,Winter swimming,班宇,5
+3057,A letter from a strange woman,[奥地利]斯蒂芬·茨威格,5
+3058,Harry Potter and the Prisoner of Azkaban,[英]J·K·罗琳,5
+3059,The golden age,王小波,5
+3060,The sea sea life,麦家,5
+3061,lover,[法]玛格丽特·杜拉斯,5
+3062,Harry Potter and the Chamber of Secrets,[英]J·K·罗琳,5
+3063,Notre Dame de Paris,[法]雨果,5
+3064,life,路遥,5
+3065,The Shawshank Redemption,[美]斯蒂芬·金,5
+3066,Bandits (Complete Works),Priest,5
+3067,rashomon,芥川龙之介,5
+3068,And then there were none,[英]阿加莎·克里斯蒂,5
+3069,Kim Ji-young was born in 1982,趙南柱,5
+3070,Murder on the Orient Express,[英]阿加莎·克里斯蒂,5
+3071,The Shouting,鲁迅,5
+3072,Harry Potter and the Goblet of Fire,[英]J·K·罗琳,5
+3073,Network of my wife,陈浩基,5
+3074,Suet ball,（法）莫泊桑,5
+3075,Ordinary world,路遥,5
+3076,Wang Kao,童伟格,5
+3077,Animal farm,[英]乔治·奥威尔,5
+3078,My genius girlfriend,[意]埃莱娜·费兰特,5
+3079,The bookstore on the island,[美]加布瑞埃拉·泽文,5
+3080,Chang 'an twelve hours,马伯庸,5
+3081,Swire and other times,[波兰]奥尔加·托卡尔丘克,5
+3082,Fall of giants,[英]肯·福莱特,5
+3083,siege,钱钟书,5
+3084,Red roses and white roses,张爱玲,5
+3085,Norwegian forests,[日]村上春树,5
+3086,Journey to the West (Full Volume 2),吴承恩,5
+3087,The Demi-Gods and the Semi-Devils,金庸,5
+3088,Wuthering heights,（英）勃朗特,5
+3089,Harry Potter and the Half-Blood Prince,[英]J·K·罗琳,5
+3090,The Story of Sahara,三毛,5
+3091,Water Margin (Full Volume 2),罗贯中,5
+3092,True story of ah Q,鲁迅著,5
+3093,Like father like son,[日]是枝裕和,5
+3094,The ancient city of ghosts and lights,天下霸唱,5
+3095,Harry Potter and the Order of the Phoenix,[英]J·K·罗琳,5
+3096,The man who stole the shadows,[法]马克·李维,5
+3097,Magpie Murder,[英]安东尼·霍洛维茨,5
+3098,Little Doudou by the window,[日]黑柳彻子著,5
+3099,Master of evil,墨香铜臭,5
+3100,One man's pilgrimage,[英]蕾秋·乔伊斯,5
+3101,"The Adventures of Sherlock Holmes (PART 1, Part 2)",[英]阿·柯南道尔,5
+3102,Harry Potter and the Deathly Hallows,[英]J·K·罗琳,5
+3103,"Stone,",[美]约翰·威廉斯,5
+3104,Xu Sanguan sells blood,余华,5
+3105,There's a kiosk by the clouds,张嘉佳,5
+3106,The best of us,八月长安,5
+3107,Sophie's World,（挪威）乔斯坦·贾德,5
+3108,Ferry people,[英]克莱儿·麦克福尔,5
+3109,A love letter,[日]岩井俊二,5
+3110,"House by day, house by night",[波]奥尔加·托卡尔丘克,5
+3111,The protagonist,陈彦,5
+3112,Hua Xuyin (Full two volumes),唐七公子,5
+3113,A madman diary,鲁迅,5
+3114,malicious,[日]东野圭吾,5
+3115,run,巫哲,5
+3116,The blade,[英]毛姆,5
+3117,skins,蔡崇达,5
+3118,Brilliant regionalization,[美]卡勒德·胡赛尼,5
+3119,Small life,[美]柳原汉雅,5
+3120,The Swordsman's Arena (All four volumes),金庸,5
+3121,rashomon,[日]芥川龙之介,5
+3122,"Young you, so beautiful",玖月晞,5
+3123,"After school,",（日）东野圭吾,5
+3124,The Mystery of The Corpse House,[日]今村昌弘,5
+3125,The veil,[英]威廉·萨默塞特·毛姆,5
+3126,The red,[法]司汤达,5
+3127,The necklace,[法]居伊·德·莫泊桑,5
+3128,The Ming Dynasty (1-9),当年明月,5
+3129,Steeling myself,萧红,5
+3130,flowers,金宇澄,5
+3131,The dust settles,阿来,5
+3132,Half life fate,张爱玲,5
+3133,A long goodbye,[美]雷蒙德·钱德勒,5
+3134,84 Charing Cross Street,[美]海莲·汉芙,5
+3135,Moscow gentleman,[美]埃默·托尔斯,5
+3136,Charlotte's web,[美]E·B·怀特,5
+3137,Wandering the earth,刘慈欣,5
+3138,Maggie's gift,[美]欧·亨利,5
+3139,Kafka by the Sea,[日]村上春树,5
+3140,A man named Ovie decided to die,[瑞典]弗雷德里克·巴克曼,5
+3141,The Brave Archer and His Mate,金庸,5
+3142,Chat record,[爱尔兰]萨莉·鲁尼,5
+3143,Overture of spring,[美]安德列·艾席蒙,5
+3144,The story of the new name,[意]埃莱娜·费兰特,5
+3145,On the seventh day,余华,5
+3146,Brother (I),余华,5
+3147,We have nothing,[美]安东尼·马拉,5
+3148,And then there were none,[英]阿加莎·克里斯蒂,5
+3149,Those who can not go back to the youth,桐华,5
+3150,White deer,陈忠实,5
+3151,"Those that leave, those that stay",[意]埃莱娜·费兰特,5
+3152,1Q84 BOOK 1,[日]村上春树,5
+3153,Step drunken men,[日]小林泰三,5
+3154,Grave notes,南派三叔,5
+3155,brother,余华,5
+3156,Make lu yan,[美]严歌苓,5
+3157,Snow country,[日]川端康成,5
+3158,Legends of the Condor Heroes (All four volumes),金庸,5
+3159,Izu's dancer,[日]川端康成,5
+3160,List of reed {langya},海宴,5
+3161,Ball lightning,刘慈欣,5
+3162,We sa,杨绛,5
+3163,"For the rest of my life, please",柏林石匠,5
+3164,Penguin Blues,[乌克兰]安德烈·库尔科夫（AndrejKurkow）,5
+3165,Brave New World,[英]赫胥黎,5
+3166,Long day will do,[英]石黑一雄,5
+3167,One sentence is worth ten thousand,刘震云,5
+3168,Assassinating the Commander of the Knights,[日]村上春树,5
+3169,The heart-pounding step by step,桐华,5
+3170,Kill the Wolf,Priest,5
+3171,Savior far away,豆豆,5
+3172,Pride and Prejudice,[英]简·奥斯汀,5
+3173,The dedication of suspect X,[日]东野圭吾,5
+3174,Golden dreams,[日]伊坂幸太郎,5
+3175,Camellia stationery shop,[日]小川糸,5
+3176,Grapes of Wrath,[美]约翰·斯坦贝克,5
+3177,To Kill a Mockingbird,[美]哈珀·李,5
+3178,The first furnace incense,张爱玲,5
+3179,clouds,淮上,5
+3180,youth,严歌苓,5
+3181,The Catcher in the rye,J·D·塞林格,5
+3182,"Les Miserables (PART 1, Part 2)",[法]雨果,5
+3183,The World (Set of 3 books),梁晓声,5
+3184,All night long hard,紫金陈,5
+3185,Convenience store,[日]村田沙耶香,5
+3186,A bouquet for Alginon,[美]丹尼尔·凯斯,5
+3187,The metamorphosis,[奥地利]弗朗茨·卡夫卡,5
+3188,"13, 67",陳浩基,5
+3189,Lean on the Sky and Slay the Dragon (Four books),金庸,5
+3190,The bookstore diary,[英]肖恩·白塞尔,5
+3191,Summer finale,[美]安德烈·艾席蒙,5
+3192,To swallow,郑执,5
+3193,Oliver twist,[英]狄更斯,5
+3194,Everlasting regret,王安忆,5
+3195,Mask the heights,[日]东野圭吾,5
+3196,Grandma's letter of apology,[瑞典]弗雷德里克·巴克曼,5
+3197,The Story of Naples is a tetralogy,[意]埃莱娜·费兰特,5
+3198,24 Billy,[美]丹尼尔·凯斯,5
+3199,Burn the boat ji,[英]安吉拉·卡特,5
+3200,siddhartha,[德]赫尔曼·黑塞,5
+3201,diary,[加拿大]亦舒,5
+3202,No injury time,童伟格,5
+3203,augustus,[美]约翰·威廉斯,5
+3204,The Karamazov brothers,[俄]费奥多尔·陀思妥耶夫斯基,5
+3205,Ulysses,[爱尔兰]詹姆斯·乔伊斯,5
+3206,The Deer and the Cauldron (Full 5 volumes),金庸,5
+3207,Norwegian forests,[日]村上春树,5
+3208,At the end of the prayer,(日)东野圭吾,5
+3209,Jane eyre,[英]夏洛蒂·勃朗特,5
+3210,"I'm a young man, and I'm not in a good mood",[挪威]阿澜·卢,5
+3211,Baron in the tree,(意)卡尔维诺,5
+3212,outsiders,(法)阿尔贝·加缪,5
+3213,The moon and sixpence,[英]威廉·萨默塞特·毛姆,5
+3214,Moses on the plain,双雪涛,5
+3215,The godfather,[美]马里奥·普佐,5
+3216,The best of both worlds,[美]梅尔·梅洛,5
+3217,The thorn birds,[澳]考琳·麦卡洛,5
+3218,Passing by your whole world,张嘉佳,5
+3219,harem,苏童,5
+3220,See me off,袁哲生,5
+3221,Jiangnan Trilogy,格非,5
+3222,The strong wind blowing,三浦紫苑,5
+3223,Animal farm,乔治?奥威尔(GeorgeOrwell),5
+3224,chess,阿城,5
+3225,A garden where paths diverge,[阿根廷]豪·路·博尔赫斯,5
+3226,alive,余华,5
+3227,Master of magic 2,墨香銅臭,5
+3228,A new parameter is,[日]东野圭吾,5
+3229,Magic night,[日]东野圭吾,5
+3230,Murder on the Orient Express,[英]阿加莎·克里斯蒂,5
+3231,Cross of nothingness,[日]东野圭吾,5
+3232,The distant light shadow,[英]石黑一雄,5
+3233,People in Taipei,白先勇,5
+3234,Clockwork orange,[英]安东尼·伯吉斯,5
+3235,Enough to remember,张爱玲,5
+3236,Calling in the drizzle,余华,5
+3237,"Summer, fireworks, and my body",[日]乙一,5
+3238,When the raw,[日]东野圭吾,5
+3239,A pig on his own,王小波,5
+3240,Ten sin,蜘蛛,5
+3241,The invisible city,[意]伊塔洛·卡尔维诺,5
+3242,Northwest rain,童伟格,5
+3243,A new parameter is,[日]东野圭吾,5
+3244,2001: A Space Odyssey,[英]阿瑟·克拉克,5
+3245,In days of yore,鲁迅,5
+3246,The plague,(法)阿尔贝·加缪,5
+3247,Dragon Ⅰ,江南,5
+3248,Heaven bless one,墨香銅臭,5
+3249,The complete Sherlock Holmes adventures,[英]阿瑟·柯南·道尔,5
+3250,Steps on,[日]是枝裕和,5
+3251,Tragedy on the Nile,[英]阿加莎·克里斯蒂,5
+3252,And hear the wind sing,[日]村上春树,5
+3253,The whole of love,张爱玲,5
+3254,Sacrifice of the dark beasts,西野花,5
+3255,Reminisce about the past,[法]马塞尔·普鲁斯特,5
+3256,The godfather,(美)马里奥·普佐,5
+3257,perfume,[德]帕·聚斯金德,5
+3258,A premeditated murder,[哥伦比亚]加西亚·马尔克斯,5
+3259,Red fingers,[日]东野圭吾,5
+3260,Colorless Tsukuru Tazaki and his year of pilgrimage,[日]村上春树,5
+3261,The untold story,Twentine,5
+3262,divorce,老舍,5
+3263,The shackles of life,[英]威廉·萨默塞特·毛姆,5
+3264,A smile is very attractive,顾漫,5
+3265,The story of your life,[美]特德·姜,5
+3266,East neon,笛安,5
+3267,4321,[美]保罗·奥斯特,5
+3268,Twelve years of old drama,墨宝非宝,5
+3269,alive,余华,5
+3270,A love letter,岩井俊二,5
+3271,Klein pot,[日]冈岛二人,5
+3272,Half life fate,张爱玲,5
+3273,My music is silent,顾漫,5
+3274,The story,罗伯特·麦基,5
+3275,demian,[德]赫尔曼·黑塞,5
+3276,secret,[日]东野圭吾,5
+3277,The teenager here,江南,5
+3278,The End of the world and cold Wonderland,[日]村上春树,5
+3279,Four generations,老舍,5
+3280,The shackles of humanity,[英]威廉·萨默塞特·毛姆,5
+3281,Mice and men,[美]JohnSteinbeck,5
+3282,The temple in the spring and autumn,[英]肯·福莱特,5
+3283,Jin ping mei,笑笑生【著】,5
+3284,How is steel made,[苏联]尼·奥斯特洛夫斯基,5
+3285,Anything is possible,[美]伊丽莎白·斯特劳特,5
+3286,confession,湊佳苗,5
+3287,Miserable Chinese,[奥]彼得·汉德克,5
+3288,The dawn of the street,[日]东野圭吾,5
+3289,Three masters of magic,墨香銅臭,5
+3290,Dan realised,侧侧轻寒,5
+3291,Listing the life,[瑞典]弗雷德里克·巴克曼,5
+3292,lolita,[美]弗拉基米尔·纳博科夫,5
+3293,The winter of the world,[英]肯·福莱特,5
+3294,Pretending to be a poor student,木瓜黄,5
+3295,The thief family,[日]是枝裕和,5
+3296,It's summer outside,[韩]金爱烂,5
+3297,Roger mystery,[英]阿加莎·克里斯蒂,5
+3298,Since the guide with,[日]圆城塔,5
+3299,Dark chapter in,李怀瑜,5
+3300,Madame Bovary,福楼拜,5
+3301,Town deformities,[美]舍伍德·安德森,5
+3302,No one wrote to the colonel,[哥伦比亚]加西亚·马尔克斯,5
+3303,Calling in the drizzle,余华,5
+3304,The red stroke night rush,王小波,5
+3305,tropical,李唐,5
+3306,island,[英]维多利亚·希斯洛普,5
+3307,The end of eternity,[美]艾萨克·阿西莫夫,5
+3308,Anna Karenina,[俄]列夫·托尔斯泰,5
+3309,"The world lost,",太宰治,5
+3310,Beijing smoke,林语堂,5
+3311,Ramblings of blindness,[葡]若泽·萨拉马戈,5
+3312,heel,白先勇,5
+3313,A man named Ovie decided to die,[瑞典]弗雷德里克·巴克曼,5
+3314,Little little fire,[美]伍绮诗,5
+3315,lotus,安妮宝贝（庆山）,5
+3316,Dream flower falls to know how much,三毛,5
+3317,The Handmaid's Tale,[加拿大]玛格丽特·阿特伍德,5
+3318,Dragon Ⅱ,江南,5
+3319,azraell,priest,5
+3320,The south high-speed,[阿根廷]胡利奥·科塔萨尔,5
+3321,Big Breasts and Wide Hips,莫言,5
+3322,Kyushu · Ethereal Record,江南,5
+3323,1988: I want to talk to the world,韩寒,5
+3324,The Karamazov brothers,陀思妥耶夫斯基(Ф.М.Достоевский),5
+3325,ZOO,[日]乙一,5
+3326,The flight home,双雪涛,5
+3327,The hunter,双雪涛,5
+3328,Hurry year (shang Shang),九夜茴,5
+3329,What are we talking about when we talk about love,[美]雷蒙德·卡佛,5
+3330,How was your summer?,[韩]金爱烂,5
+3331,2 read silently.,Priest,5
+3332,The life of the despised Matsuko,[日]山田宗树,5
+3333,Socrates at a gas station late at night,[美]丹·米尔曼,5
+3334,The Great Gatsby,[美]弗·司各特·菲茨杰拉德,5
+3335,3 read silently.,Priest,5
+3336,Month be defeated temple,格非,5
+3337,The vow,汪曾祺,5
+3338,The thunderstorm,曹禺,5
+3339,"After school,",[日]东野圭吾,5
+3340,"King of chess, King of trees and king of children",阿城,5
+3341,The veil,[英]威廉·萨默塞特·毛姆,5
+3342,The silver age,王小波,5
+3343,frog,莫言,5
+3344,Scum villain on the self-rescue system,墨香铜臭,5
+3345,"All those years, the girl we were chasing",九把刀,5
+3346,Hans Christian Andersen's fairy tales,（丹麦）安徒生,5
+3347,Cheongwan blessing,杜枫,5
+3348,Strong-arm reaction,都梁,5
+3349,hongyan,罗广斌,5
+3350,Vacation for the rest of my life,伊坂幸太郎,5
+3351,Fierce animals,王朔,5
+3352,One sentence is worth ten thousand,刘震云,5
+3353,84 Charing Cross Street,[美]海莲·汉芙,5
+3354,siege,钱锺书,5
+3355,Bureau of Antiques,马伯庸,5
+3356,Earthly man.,冯骥才,5
+3357,The golden age,王小波,5
+3358,Lord of the secretive,爱潜水的乌贼,5
+3359,The mountains back to sing,[美]卡勒德·胡赛尼,5
+3360,Ten years a product temperature such as words,书海沧生,5
+3361,Animal farm,[英]乔治·奥威尔,5
+3362,From the New World (1 / B),[日]贵志祐介,5
+3363,South of the border and west of the sun,[日]村上春树,5
+3364,Basic Law of Genius,长洱,5
+3365,There are robbers 1,Priest,5
+3366,The 1984,[英]乔治·奥威尔,5
+3367,The invisible city,[意]伊塔洛·卡尔维诺,5
+3368,stranger,[法]阿尔贝·加缪,5
+3369,Paradise lost,[日]渡边淳一,5
+3370,Little practice,毕飞宇,5
+3371,Red roses and white roses,张爱玲,5
+3372,The lost blood of the sea breeze,[加拿大]阿利斯泰尔·麦克劳德,5
+3373,The home of the sleeping merpeople,[日]东野圭吾,5
+3374,Sorrow becomes a river upstream,郭敬明,5
+3375,Jane eyre,[英]夏洛蒂·勃朗特,5
+3376,The bear town,[瑞典]弗雷德里克·巴克曼,5
+3377,Magic toy shop,[英]安吉拉·卡特,5
+3378,Dream flower falls to know how much,郭敬明,5
+3379,Zhao Qiao village,顾湘,5
+3380,The heart is a lonely hunter,[美]卡森·麦卡勒斯,5
+3381,The complete Grimm fairy Tales,[德国]格林兄弟,5
+3382,Mountain on record,[日]中岛敦,5
+3383,The relief of the virgin,[日]东野圭吾,5
+3384,Number of childhood,胡弃暗,5
+3385,The cloud song 1,桐华,5
+3386,The last rites of the first love,[英]伊恩·麦克尤恩,5
+3387,And then there were none,[英]阿加莎·克里斯蒂,5
+3388,Wild Wolf,[德]赫尔曼·黑塞,5
+3389,Ordinary world,路遥,5
+3390,I'll wait for you in the future,刘同,5
+3391,Crime and punishment,[俄]费奥多尔·陀思妥耶夫斯基,5
+3392,:,郭敬明,5
+3393,Right bank of erguna River,迟子建,5
+3394,Angels and Demons,[美]丹·布朗,5
+3395,Stewed squid in honey sauce,墨宝非宝,5
+3396,secret,[日]东野圭吾,5
+3397,Fights break the sky,天蚕土豆,5
+3398,north,徐则臣,5
+3399,A Song of Ice and Fire (Volume 1),[美]乔治·R·R·马丁,5
+3400,home,巴金,5
+3401,Astrological killing magic,[日]岛田庄司,5
+3402,Monastic chronicle,[葡]若泽·萨拉马戈,5
+3403,Gods themselves,[美]艾萨克·阿西莫夫,5
+3404,fei,贾平凹,5
+3405,Fine weather for one,[日]青山七惠,5
+3406,Bad boy,紫金陈,5
+3407,airport,阿瑟·黑利,5
+3408,The name of a Rose,[意]翁贝托·埃科,5
+3409,The moon and sixpence,[英]毛姆,5
+3410,I am a cat,[日]夏目漱石,5
+3411,The blade of hesitation,东野圭吾,5
+3412,Naoki Hanzawa 1,池井户润,5
+3413,",",箫鼎,5
+3414,Arabian Nights,NULL,5
+3415,A long goodbye,[美]雷蒙德·钱德勒,5
+3416,Dragon Ⅲ,江南,5
+3417,perfume,[德]帕·聚斯金德,5
+3418,Don Quixote,[西]塞万提斯,5
+3419,A Year of living alone,[美]约翰·欧文,5
+3420,Douro Continent (all 14 volumes),唐家三少,5
+3421,"The world lost,",太宰治,5
+3422,Don't trust anyone,[英]S.J.沃森,5
+3423,Nanaya snow,沧月,5
+3424,"Hello, old time",八月长安,5
+3425,Ordinary World (Full volume 3),路遥,5
+3426,Mountain on record,[日]中岛敦,5
+3427,A snowman,[挪威]尤·奈斯博,5
+3428,Wanli fifteen years,[美]黄仁宇,5
+3429,Young aunt more cranes,[美]严歌苓,5
+3430,Too late to say I love you,匪我思存,5
+3431,The ancient capital,[日]川端康成,5
+3432,"Miguel street,",V.S.奈保尔(V.S.Naipaul),5
+3433,1984,[英]乔治·奥威尔,5
+3434,Dumb fish,玄色,5
+3435,Fly like a bird to your mountain,[美]塔拉·韦斯特弗,5
+3436,Eleven Kinds of Loneliness,[美]理查德·耶茨,5
+3437,Child prodigies and tape recorders,林培源,5
+3438,fact,钟晓阳,5
+3439,The rain,[马来西亚]黄锦树,5
+3440,The end of a relationship,格雷厄姆·格林,5
+3441,Fahrenheit 451,[美]雷·布拉德伯里,5
+3442,The shadow of wind,[西]卡洛斯·鲁依斯·萨丰,5
+3443,War and Peace,[俄]托尔斯泰,5
+3444,The Da Vinci code,[美]丹·布朗,5
+3445,The lights in wartime,[加]迈克尔·翁达杰,5
+3446,Sandalwood punishment,莫言,5
+3447,hesitation,鲁迅,5
+3448,Until I find you,[美]约翰·欧文,5
+3449,You are my honor,顾漫,5
+3450,A foreign land to remember,苏方,5
+3451,Meteor of the trip,[日]东野圭吾,5
+3452,Galactic Empire: Base seven episodes,[美]艾萨克·阿西莫夫,5
+3453,rashomon,[日]芥川龙之介,5
+3454,Jiabianggou chronicle,杨显惠,5
+3455,The past never leaves,[英]朱利安?费罗斯,5
+3456,Beijing women's Guide,王欣,5
+3457,At the rockets,[日]池井户润,5
+3458,A person decorated with lanterns,田耳,5
+3459,Zen and the art of motorcycle maintenance,[美]罗伯特·M·波西格,5
+3460,The water of blue waves,阎真,5
+3461,Tragedy on the Nile,[英]阿加莎·克里斯蒂,5
+3462,The submarine,[日]伊坂幸太郎,5
+3463,Dragon Ⅲ,江南,5
+3464,Those in the Ming Dynasty (II),当年明月,5
+3465,1984 animal Farm,[英]乔治·奥威尔,5
+3466,1Q84 BOOK 2,[日]村上春树,5
+3467,Eight million ways to write a novel,[美]劳伦斯·布洛克,5
+3468,He knew which way the wind was coming,玖月晞,5
+3469,sleep,[德]卡特·曼施克图,5
+3470,The Zaragoza manuscript,[波兰]扬·波托茨基,5
+3471,Young aunt more cranes,严歌苓,5
+3472,Dapper and touching,春风榴火,5
+3473,Goose steamed remember,杨典,5
+3474,To the lighthouse,[英]弗吉尼亚·伍尔夫,5
+3475,Leading Chinese brake,马家辉,5
+3476,shengsichang,萧红,5
+3477,Rural teachers',刘慈欣,5
+3478,The Great Gatsby,[美]弗·司各特·菲茨杰拉德,5
+3479,Brokenhearted 33 days,鲍鲸鲸,5
+3480,Qingming River code,冶文彪,5
+3481,The ninth widow,[美]严歌苓,5
+3482,lover,渡边淳一,5
+3483,The viscount divided in two,[意大利]伊塔洛?卡尔维诺,5
+3484,The thief stealing a book,[澳]马库斯·苏萨克,5
+3485,For the rest of your life,柏林石匠,5
+3486,Kaleidoscope: Southern candle,西子绪,5
+3487,Lonely Game,袁哲生,5
+3488,Zhao xi old grass,书海沧生,5
+3489,Cthulhu mythology,[美]H.P.洛夫克拉夫特,5
+3490,"The world lost,",[日]太宰治,5
+3491,Ferryman 2 returns to the wilderness,[英]克莱儿·麦克福尔,5
+3492,serenade,[英]石黑一雄,5
+3493,I and ditan,史铁生,5
+3494,When the raw,[日]东野圭吾,5
+3495,Little reunion,张爱玲,5
+3496,confession,[日]凑佳苗,5
+3497,New stories,鲁迅,5
+3498,The time traveler's wife,[美]奥德丽·尼芬格,5
+3499,Life elsewhere,[捷克]米兰·昆德拉,5
+3500,The knight that doesn't exist,[意]伊塔洛·卡尔维诺,5
+3501,Triple gate,韩寒,5
+3502,Who killed her,[日]东野圭吾,5
+3503,A disc rivers,雨楼清歌,5
+3504,A dream of red mansions,曹雪芹,5
+3505,escape,[加拿大]艾丽丝·门罗,5
+3506,The straw house,曹文轩,5
+3507,There's a tree in Brooklyn,贝蒂·史密斯,5
+3508,"Forget, detective",陈浩基,5
+3509,Oranges are not the only fruit,[英]珍妮特·温特森,5
+3510,Dragon Ⅳ,江南,5
+3511,The four masters of magic,墨香銅臭,5
+3512,The west",笛安,5
+3513,Big crack,胡迁,5
+3514,The soul's long dark tea-time,[英]道格拉斯·亚当斯,5
+3515,1. Banish Doushen,蝴蝶蓝,5
+3516,A crayfish is singing,[美]迪莉娅·欧文斯,5
+3517,The goose,张羞,5
+3518,Wild tide,陈楸帆,5
+3519,Summer farewell,[美]雷·布拉德伯里,5
+3520,Go to the slaughterhouse and fall in love,兔草,5
+3521,Green monster,王小波,5
+3522,The gift of Time,[瑞典]弗雷德里克·巴克曼,5
+3523,Gum kuo restaurant temple,[日]三岛由纪夫,5
+3524,Something I've been meaning to tell you,[加]艾丽丝·门罗,5
+3525,siddhartha,[德]赫尔曼·黑塞,5
+3526,S.,[美]J.J.艾布拉姆斯,5
+3527,Brave New World,[英]阿道司·赫胥黎,5
+3528,A good omen,[英]尼尔·盖曼,5
+3529,Crime is breaking and entering,张瑞兴,5
+3530,Daming under the microscope,马伯庸,5
+3531,My name is Red,[土耳其]奥尔罕·帕慕克,5
+3532,azraell,Priest,5
+3533,The last night on earth,[智利]罗贝托·波拉尼奥,5
+3534,Snow falls on the cedar,[美]戴维·伽特森,5
+3535,divorce,老舍,5
+3536,Les miserables,[法]雨果,5
+3537,The family of begging,锤子,5
+3538,Do bionic people dream of electric sheep?,[美]菲利普·迪克,5
+3539,A tale of two cities,[英]查尔斯·狄更斯,5
+3540,Sparkling life,[日]小川糸,5
+3541,Quiet on the western front,[德]埃里希·玛丽亚·雷马克,5
+3542,The scholars,吴敬梓,5
+3543,Young Werther's troubles,[德]约翰·沃尔夫冈·冯·歌德,5
+3544,Please call me by your name,[美]安德烈·艾席蒙,5
+3545,Anne of Green Gables,[加拿大]露西·莫德·蒙哥玛利,5
+3546,The hermitage,匪我思存,5
+3547,Life and Death are Wearing Me Out,莫言,5
+3548,The edge of eternity,[英]肯·福莱特,5
+3549,dubliners,[爱尔兰]詹姆斯·乔伊斯,5
+3550,The red,[法]司汤达,5
+3551,Who killed her,(日)东野圭吾,5
+3552,Department of rattan,尾鱼,5
+3553,The gods,[英]尼尔·盖曼,5
+3554,Three body corpora,刘慈欣,5
+3555,Roger mystery,[英]阿加莎·克里斯蒂,5
+3556,When the snake,溯痕,5
+3557,Life puzzle,[法]乔治·佩雷克,5
+3558,Has the wind the years,[美]罗伯特·麦卡蒙,5
+3559,Much ado about nothing,[美]理查德·耶茨,5
+3560,source,[美]安·兰德,5
+3561,Shanghai fortress,江南,5
+3562,Brave New World,[英]奥尔德斯·赫胥黎,5
+3563,The gentleman of gratitude,囧囧有妖,5
+3564,Brother should be content,李洱,5
+3565,Control the shark to remember the,九鹭非香,5
+3566,The unbearable lightness of being,[捷克]米兰·昆德拉,5
+3567,Walden pond,亨利·戴维·梭罗,5
+3568,Beijing fold,郝景芳,5
+3569,Memoirs of a Bitter prostitute,加西亚·马尔克斯,5
+3570,A brief history of Tractors in Ukraine,[英]玛琳娜·柳薇卡,5
+3571,Crime and punishment,[俄]费奥多尔·陀思妥耶夫斯基,5
+3572,The fine snow,[日]谷崎润一郎,5
+3573,dating,郭强生,5
+3574,19 years of murdering Syu,那多,5
+3575,Dance! Dance! Dance!,[日]村上春树,5
+3576,Sheep hunt adventure,[日]村上春树,5
+3577,Meteor of the trip,[日]东野圭吾,5
+3578,1Q84 BOOK 3,[日]村上春树,5
+3579,Secret love · Huainan orange,八月长安,5
+3580,The shadow of wind,[西]卡洛斯·鲁依斯·萨丰,5
+3581,Do you know if it should be green fat red thin,关心则乱,5
+3582,rashomon,芥川龙之介,5
+3583,Take the wind down,徐怀中,5
+3584,Shadow of the Wind tetralogy,[西]卡洛斯·鲁依斯·萨丰,5
+3585,The relief of the virgin,[日]东野圭吾,5
+3586,A Muslim funeral,霍达,5
+3587,city,林海音,5
+3588,Sophie's World,[挪威]乔斯坦·贾德,5
+3589,Loving you is like loving life,李银河,5
+3590,Every morning on the balcony of Rome,[法]帕斯卡·基尼亚尔,5
+3591,The resurrection,[俄]列夫·托尔斯泰,5
+3592,Miracle boy,[美]R.J.帕拉西奥,5
+3593,On the road,[美]杰克·凯鲁亚克,5
+3594,eager,[挪]尤·奈斯博,5
+3595,Those things in the Ming Dynasty (Three),当年明月,5
+3596,Insect Valley in Yunnan province,天下霸唱,5
+3597,"Here he comes. Close your eyes, please",丁墨,5
+3598,Supernova era,刘慈欣,5
+3599,The lamp of the earth,七堇年,5
+3600,The bear town 2,(瑞典)弗雷德里克·巴克曼,5
+3601,Veronica decided to die,[巴西]保罗·柯艾略,5
+3602,Three lives three times ten miles of peach blossom,唐七公子,5
+3603,The golden age,王小波,5
+3604,Love conquers all,[英]石黑一雄,5
+3605,Sin is from April,宇尘,5
+3606,Lies that smell in the dark,[日]下村敦史,5
+3607,Tragedy doll,[日]东野圭吾,5
+3608,Take a shower,杨绛,5
+3609,The castle,[奥地利]弗朗茨·卡夫卡,5
+3610,Genji monogatari,[日]紫式部,5
+3611,If a snail had love,丁墨,5
+3612,Grave Robbery 2,南派三叔,5
+3613,childhood,[苏联]马克西姆·高尔基,5
+3614,Oranges are not the only fruit,[英]珍妮特·温特森,5
+3615,Ferryman 3 Love without Borders,克莱儿·麦克福尔,5
+3616,Kafka by the Sea,[日]村上春树,5
+3617,The Hitchhiker's Guide to the Galaxy,[英]道格拉斯·亚当斯,5
+3618,Without a license,紫金陈,5
+3619,Little women,（美）路易莎?梅?奥尔科特,5
+3620,Lee on sea",(美)丹·西蒙斯,5
+3621,A criminal for the prosecution,[日]雫井脩介,5
+3622,incomplete,priest,5
+3623,The sound and the Fury,[美]威廉·福克纳,5
+3624,Crane Li huating,雪满梁园,5
+3625,immortal,[捷克]米兰·昆德拉,5
+3626,alive,余华,5
+3627,The 1984,[英]乔治·奥威尔,5
+3628,An idiot,[俄]费奥多尔·陀思妥耶夫斯基,5
+3629,When I'm guilty,丁墨,5
+3630,Chuchu is moving 2,春风榴火,5
+3631,Parking is temporary,钟晓阳,5
+3632,Cold spring harbor,[美]理查德·耶茨,5
+3633,Notes of inspiration from the master,[英]菲利普?霍恩编,5
+3634,The narrow gate,[法]安德烈·纪德,5
+3635,In Search of Lost Time volume one: Over to Swann's house,[法]马塞尔·普鲁斯特原著,5
+3636,The kitchen,[日]吉本芭娜娜,5
+3637,Catch-22,[美]约瑟夫·海勒,5
+3638,Grave Robbery 3,南派三叔,5
+3639,Psychological crime,雷米,5
+3640,Pretending to be a bad student 2,木瓜黄,5
+3641,1 ring world,[日]铃木光司,5
+3642,A letter from a strange woman,斯蒂芬?茨威格,5
+3643,One thousand cranes,[日]川端康成,5
+3644,Don't like sun,[英]安东尼·伯吉斯,5
+3645,Invisible love,[法]埃里克-埃马纽埃尔·施米特,5
+3646,siege,钱钟书,5
+3647,Mars rescue,[美]安迪·威尔,5
+3648,On the seventh day,余华,5
+3649,The king of fish,[俄]维克托·阿斯塔菲耶夫,5
+3650,And hear the wind sing,[日]村上春树,5
+3651,The collection of Borges' stories,[阿根廷]豪·路·博尔赫斯,5
+3652,honeysuckle,Twentine,5
+3653,The sanatorium with the hourglass as the sign,[波兰]布鲁诺·舒尔茨,5
+3654,The plague,[法]阿尔贝·加缪,5
+3655,Green monster,王小波,5
+3656,The most beautiful drowning person in the world,[哥伦比亚]加西亚·马尔克斯,5
+3657,The wu is empty the,今何在,5
+3658,Laplace's witch,[日]东野圭吾,5
+3659,Her little pear pit,唧唧的猫,5
+3660,"Fall in love, Miss Jiang",乌云冉冉,5
+3661,Stupid stories,周云蓬,5
+3662,Ghost blows the lamp longling mystery grotto,天下霸唱,5
+3663,Refers to the goldsmith,[英]萨拉·沃特斯,5
+3664,Buried giant,[英]石黑一雄,5
+3665,Love and other demons,[哥伦比亚]加西亚·马尔克斯,5
+3666,2666,[智利]罗贝托·波拉尼奥,5
+3667,Kafka by the Sea,[日]村上春树,5
+3668,Psychological crime,雷米,5
+3669,Journey to the west,吴承恩,5
+3670,"Fayuan Temple, Beijing",李敖,5
+3671,Empty ring gun,王占黑,5
+3672,The artificial filling,丁墨,5
+3673,When the human stars shine,[奥]斯蒂芬·茨威格,5
+3674,Kirin's wing,东野圭吾,5
+3675,No. 2 heads,黄晓阳,5
+3676,Six hexagram,Priest,5
+3677,Daqin empire,孙皓晖,5
+3678,North the kite,葛亮,5
+3679,Books on pillows,唐七公子,5
+3680,Paper uplink boat,黎幺,5
+3681,Elegy without desire,(奥地利)彼得·汉德克,5
+3682,Stewed squid in honey sauce,墨宝非宝,5
+3683,ABC's murder,(英)阿加莎·克里斯蒂,5
+3684,The moon and sixpence,[英]毛姆,5
+3685,Night traveler,赵熙之,5
+3686,There are men 2,Priest,5
+3687,Dating poisoning,[日]秋吉理香子,5
+3688,Astrological killing magic,（日）岛田庄司,5
+3689,The Mountains of Portugal,[加拿大]扬·马特尔,5
+3690,The young people of Granby,[爱尔兰]科林·巴雷特,5
+3691,The silent majority,王小波,5
+3692,Olive Kittridge,[美]伊丽莎白·斯特劳特,5
+3693,Charles IX the Undead of Blackbay Street,雷欧幻像,5
+3694,Life and Destiny,[俄罗斯]瓦西里·格罗斯曼,5
+3695,Seven root mean Jane,尾鱼,5
+3696,The jade gate leads to the west,尾鱼,5
+3697,The king of flies,[英]威廉·戈尔丁,5
+3698,People in Taipei,白先勇,5
+3699,Waiting for the,哈金,5
+3700,The book,沈从文,5
+3701,Farewell my concubine,李碧华,5
+3702,The dedication of suspect X,（日）东野圭吾,5
+3703,source,(美)安·兰德,5
+3704,A story of love and darkness,[以色列]阿摩司·奥兹,5
+3705,The book,沈从文,5
+3706,The unbearable lightness of being,[捷克]米兰·昆德拉,5
+3707,life,路遥,5
+3708,The thief stealing a book,[澳]马克斯·苏萨克,5
+3709,If the years are long enough,[日]三浦紫苑,5
+3710,Lord of the rings,[英]J·R·R·托尔金,5
+3711,A kind of reality,余华,5
+3712,The New Yorker,白先勇,5
+3713,The sand dunes,[美]弗兰克·赫伯特,5
+3714,The wind west gansu,马伯庸,5
+3715,My sweet orange tree,[巴西]若泽·毛罗·德瓦斯康塞洛斯,5
+3716,Diablo is,周浩晖,5
+3717,Steeling myself,萧红,5
+3718,Burn the boat ji,[英]安吉拉·卡特,5
+3719,Tide SAO,[日]三岛由纪夫,5
+3720,Neuromancer,[美]威廉·吉布森,5
+3721,Town deformities,[美]舍伍德·安德森,5
+3722,The azure shore,（英）艾利克斯?希尔,5
+3723,Those in the Ming Dynasty (Wu),当年明月,5
+3724,"The world lost,",太宰治,5
+3725,The death of Ivan Ilyich,[俄]列夫·托尔斯泰,5
+3726,city,林海音,5
+3727,Line 1 in the snow,烽火戏诸侯,5
+3728,The blade,[英]威廉·萨默塞特·毛姆,5
+3729,"Dark store street,",[法]帕特里克·莫迪亚诺,5
+3730,Midsummer equation,[日]东野圭吾,5
+3731,The eldest brother,Priest,5
+3732,Tiny Age 1.0 Origami Age,郭敬明,5
+3733,The Gift of The Dark Mother (I),残雪,5
+3734,The loneliness of prime numbers,[意]保罗·乔尔达诺,5
+3735,Scum villain in the self-rescue system,墨香铜臭,5
+3736,The anxiety of a goalkeeper facing a penalty kick,[奥地利]彼得·汉德克,5
+3737,Museum of Innocence,[土耳其]奥尔罕·帕慕克,5
+3738,Too noisy loneliness,(捷克)赫拉巴尔,5
+3739,outsiders,[法]阿尔贝·加缪,5
+3740,The egg,[美]罗伯特·福沃德,5
+3741,Love needs a lot of discussion,《奇葩说》节目组编著,5
+3742,On AWM,漫漫何其多,5
+3743,Red fingers,[日]东野圭吾,5
+3744,A-ge is a city,严歌苓,5
+3745,cold-blooded,(美)杜鲁门·卡波特,5
+3746,Spiderman en,张北海,5
+3747,All that was missing was a lie,[日]东野圭吾,5
+3748,Eugenie Grandet,巴尔扎克(法),5
+3749,1. Bone eating,尾鱼,5
+3750,"""Can't""",裟椤双树,5
+3751,Changan disorderly,韩寒,5
+3752,I killed him,[日]东野圭吾,5
+3753,Gulag Islands (Upper Middle Lower),[俄]亚历山大·索尔仁尼琴,5
+3754,unbridled,墨香铜臭,5
+3755,Water margin,罗贯中,5
+3756,Three musketeers,[法]大仲马,5
+3757,Your Olga,[德]本哈德·施林克,5
+3758,The Master and Margaret,[苏联]米哈伊尔·布尔加科夫,5
+3759,Only he knows everything,[爱尔兰]利兹·纽金特(LizNugent),5
+3760,"1,",萧鼎,5
+3761,General Winter came in summer,甘耀明,5
+3762,Do bionic people dream of electric sheep?,[美]菲利普·迪克,5
+3763,Is out of step,巫哲,5
+3764,A portrait of Dorian Gray,[英]奥斯卡·王尔德,5
+3765,Wuthering heights,[英]艾米莉·勃朗特,5
+3766,Call of the wild,[美]杰克·伦敦,5
+3767,Hover over the love of,[法]马里翁·法约勒,5
+3768,Gulliver's Travels,[英]乔纳森·斯威夫特,5
+3769,If can is dawn,【美】艾米·哈蒙,5
+3770,Nap time on Tuesday,[哥伦比亚]加西亚·马尔克斯,5
+3771,2010: SPACE Odyssey,[英]阿瑟·克拉克,5
+3772,I am a cat,[日]夏目漱石,5
+3773,"If on a winter's night, a traveller",[意]伊塔洛·卡尔维诺,5
+3774,The disintegration of because of,[日]西泽保彦,5
+3775,Deeper than the sea,[日]是枝裕和,5
+3776,ice,李诞,5
+3777,This weird thing in my head,[土耳其]奥尔罕·帕慕克,5
+3778,Mountain sound,[日]川端康成,5
+3779,Earth Trilogy,[美]赛珍珠,5
+3780,Lighter and Princess dress · Barren Grass Garden,Twentine,5
+3781,Grave Robbers 6,南派三叔,5
+3782,Unreasonable age,[日]奥田英朗,5
+3783,Persona hotel,[日]东野圭吾,5
+3784,Grave Robbers 4,南派三叔,5
+3785,The unbearable lightness of life,[捷克]米兰·昆德拉,5
+3786,Spring feast,白鹭成双,5
+3787,Time to immigration,刘慈欣,5
+3788,5 the jungle,[美]库尔特·冯内古特,5
+3789,On the feather,刘震云,5
+3790,heartache,[美]文德琳·范·德拉安南,5
+3791,A city,韩寒,5
+3792,Tokyo Chittan Collection,[日]村上春树,5
+3793,Spring breeze,格非,5
+3794,Poison wood bible,[美]芭芭拉·金索沃,5
+3795,Kaleidoscope · Autumn stone,西子绪,5
+3796,Platinum data,[日]东野圭吾,5
+3797,The romance of The Three Kingdoms,罗贯中,5
+3798,Afraid of his wife's house,[日]伊坂幸太郎,5
+3799,dumplings,李碧华,5
+3800,Flipped,WendelinVanDraanen,5
+3801,Golden dreams,[日]伊坂幸太郎,5
+3802,The virgin,[日]秋吉理香子,5
+3803,The climber,阿来,5
+3804,The mediator of the world,[日]吉田修一,5
+3805,The unbearable lightness of being,[捷克]米兰·昆德拉,5
+3806,Persona hotel,[日]东野圭吾,5
+3807,The dust settles,阿来,5
+3808,Autumn of the Patriarch,[哥伦比亚]加西亚·马尔克斯,5
+3809,AWM PubG Volume 1,漫漫何其多著,5
+3810,Tuesdays with Morrie,[美]米奇·阿尔博姆,5
+3811,Great river east to go to,阿耐,5
+3812,chess,阿城,5
+3813,Awning world of mortals,豆豆,5
+3814,"Ah,",[丹]安妮·凯瑟琳·博曼,5
+3815,The hare,[阿根廷]塞萨尔·艾拉,5
+3816,Furong town,古华,5
+3817,Lonely novelist,[日]石田衣良,5
+3818,Half water and half fire,王朔,5
+3819,Bronze sunflower,曹文轩,5
+3820,Sauvignon blanc,桐华,5
+3821,Grave Robbers 7,南派三叔,5
+3822,Jin ping mei,兰陵笑笑生,5
+3823,pleasure,[英]威廉·萨默塞特·毛姆,5
+3824,Arena of reasoning,[日]深水黎一郎,5
+3825,Grave Robbers 8. The Finale (PART 1),南派三叔,5
+3826,Firefly Alley,[美]克莉丝汀·汉娜,5
+3827,Secret tai dao horse bone,[日]藤泽周平,5
+3828,Farewell my concubine,李碧华,5
+3829,The end of Childhood,[英]阿瑟·克拉克,5
+3830,Ed boat down,[日]三浦紫苑,5
+3831,The novel the loom,[英]詹姆斯·伍德,5
+3832,Chang 'an Auld Lang Syne (All three volumes),郁馥,5
+3833,David Copperfield (b/B),狄更斯,5
+3834,Gym mystery,[日]青崎有吾,5
+3835,The strange case at Styles,[英]阿加莎·克里斯蒂,5
+3836,Psychological crime,雷米,5
+3837,Cthulhu mythology,[美]H.P.洛夫克拉夫特,5
+3838,There are robbers 3,Priest,5
+3839,The sleeping beauty,[日]川端康成,5
+3840,Brave New World,[英]阿道司·赫胥黎,5
+3841,The door,priest,5
+3842,decameron,薄迦丘,5
+3843,Song of the Creator,狷狂,5
+3844,Sweet moon,陶立夏,5
+3845,White night,[俄]费奥多尔·陀思妥耶夫斯基,5
+3846,Dragon Ⅲ,江南,5
+3847,frog,莫言,5
+3848,lover,[法]杜拉斯,5
+3849,White night line,[日]东野圭吾,5
+3850,Middlemarch,[英]乔治·爱略特,5
+3851,Uncle Tom's cabin,斯托夫人,5
+3852,beside the lake,[日]东野圭吾,5
+3853,Youth Cafe,[法]帕特里克·莫迪亚诺,5
+3854,source,[美]丹·布朗,5
+3855,A letter from a strange woman,斯蒂芬·茨威格,5
+3856,Grave Robbery 5,南派三叔,5
+3857,Xia Ma valley,庆山,5
+3858,The bee and the thunder,[日]恩田陆,5
+3859,He came from the firelight,耳东兔子,5
+3860,Gravity clown.,[日]伊坂幸太郎,5
+3861,Meet Rama,[英]阿瑟·克拉克,5
+3862,I am a novelist by profession,[日]村上春树,5
+3863,The dust settles,阿来,5
+3864,The empire anecdote,[墨西哥]费尔南多·德尔帕索,5
+3865,A person decorated with lanterns,田耳,5
+3866,Body language is,秦明,5
+3867,The red,[法]司汤达,5
+3868,Tianguan bless three,墨香銅臭,5
+3869,The Mountain Village in the Snow,[日]东野圭吾,5
+3870,Operation Red Storm,[美]汤姆·克兰西,5
+3871,When Nietzsche wept,（美）欧文D.亚隆（IrvinD.Yalom）,5
+3872,The Left hand of Darkness,[美]厄休拉·勒古恩,5
+3873,A dream of red mansions,曹雪芹,5
+3874,Nirvana in Fire (All three Books),海宴,5
+3875,Galactic Empire: Base,[美]艾萨克·阿西莫夫,5
+3876,outsiders,[法]阿尔贝·加缪,5
+3877,The Tales of Pernik,[保]兹德拉夫科·伊蒂莫娃,5
+3878,To support human,刘慈欣,5
+3879,The light of the hour that bears your name,东奔西顾,5
+3880,High old man,[法]巴尔扎克,5
+3881,Atlas shrugs (up and down),安·兰德,5
+3882,Scum villain self-help system,墨香铜臭,5
+3883,What kind of life do you want to live,[日]吉野源三郎著,5
+3884,A dream of a happy funeral and twelve tales of a foreign land,[哥伦比亚]加西亚·马尔克斯,5
+3885,Quiet Don,[苏]肖洛霍夫,5
+3886,Unrequited love,[日]东野圭吾,5
+3887,Dream flower,[日]东野圭吾,5
+3888,Hitch Hiker's Guide to the Galaxy,[英]道格拉斯·亚当斯,5
+3889,Hamlet,[英]威廉·莎士比亚,5
+3890,Huainan orange · Secret love,八月长安,5
+3891,The head is nothing,[日]三津田信三,5
+3892,Pride and Prejudice,[英]简·奥斯汀,5
+3893,Spend a lot of time with Anthony,安东尼,5
+3894,The English patient,[加拿大]迈克尔·翁达杰,5
+3895,Mr. Spy: The day of the Jackal,FrederickForsyth弗·福赛斯,5
+3896,Maybe you should move to Mars,[日]伊坂幸太郎,5
+3897,Setting sun,太宰治,5
+3898,What happened in the Ming Dynasty (Lu),当年明月,5
+3899,The deer and the cauldron,金庸,5
+3900,Wu dark Ming,黄锦树,5
+3901,Brother (2),余华,5
+3902,After dark,[日]村上春树,5
+3903,A Song of Ice and Fire,[美]乔治·R.R.马丁,5
+3904,Hatred of female,张爱玲,5
+3905,Life of Pi,[加拿大]扬·马特尔,5
+3906,The cloud remember,阿来,5
+3907,Those things in the Ming Dynasty (IV),当年明月,5
+3908,Luminous novel,[乌拉圭]马里奥·莱夫雷罗,5
+3909,My name is Red,[土耳其]奥尔罕·帕慕克,5
+3910,frog,莫言,5
+3911,sink,郁达夫,5
+3912,Count of Monte Cristo,[法]大仲马,5
+3913,A girl reading a book on the subway,[法]克里斯蒂娜·费雷-弗勒里,5
+3914,Wild Wolf,[德]赫尔曼·黑塞,5
+3915,Beijing art museum,王小波,5
+3916,Out of thin air,刘天昭,5
+3917,shengsichang,萧红,5
+3918,Kam O Kok Kok (Full Volume 4),徐兴业,5
+3919,bat,[挪威]尤·奈斯博,5
+3920,hula,[美]严歌苓,5
+3921,A serenade,[日]伊坂幸太郎,5
+3922,The Complete Works of The Devil (Six volumes),萧鼎,5
+3923,Young Werther's troubles,歌德,5
+3924,The mushroom logs,迷迭兰,5
+3925,Power of darkness,艾石,5
+3926,Around the world in 80 days,[法]儒勒·凡尔纳,5
+3927,One game at a time,[美]詹姆斯·索特,5
+3928,Honey is heavy and embers like frost,电线,5
+3929,Hit the bell,尾鱼,5
+3930,The book of sand,[阿根廷]豪·路·博尔赫斯,5
+3931,The lost charm,[美]丹·布朗,5
+3932,"""Six floating",[清]沈复,5
+3933,There are robbers 4,Priest,5
+3934,Anne of Green Gables: Graphic fiction,[加]露西?莫德?蒙哥马利原著,5
+3935,Prior to the initial,张皓宸,5
+3936,Basement notebook,[俄]陀思妥耶夫斯基,5
+3937,Dr. Zhivago,[苏联]鲍里斯·帕斯捷尔纳克,5
+3938,The dust of the world,木浮生,5
+3939,Lady Chatterley's lover,[英]D·H·劳伦斯,5
+3940,Float world painter,[英]石黑一雄,5
+3941,Distant stars,[智利]罗贝托·波拉尼奥,5
+3942,Two places at once,[日]东野圭吾,5
+3943,Cold night,巴金,5
+3944,Once upon a time my dead home,〔日〕东野圭吾,5
+3945,lover,[法]玛格丽特·杜拉斯,5
+3946,I've seen it for 20 years,吴趼人,5
+3947,goldfinch,[美]唐娜·塔特,5
+3948,Barbershop by the Sea,[日]荻原浩,5
+3949,My music is silent,顾漫,5
+3950,And hear the wind sing,[日]村上春树,5
+3951,Vanity fair,[英]萨克雷,5
+3952,Rainbow toothbrush,早坂吝,5
+3953,The white whale,[美]赫尔曼·麦尔维尔,5
+3954,Call me by your name,安德列．艾席蒙,5
+3955,Ode to Gallantry,金庸,5
+3956,The Adventures of Tom Sawyer,[美]马克·吐温,5
+3957,The gadfly,伏尼契(爱尔兰),5
+3958,The scarlet letter,[美]纳撒尼尔·霍桑,5
+3959,Once upon a time my dead home,[日]东野圭吾,5
+3960,"""Qin",贾平凹,5
+3961,Kunlun Temple of ghosts and lanterns,天下霸唱,5
+3962,Meet Huo Cheng 'an again,阿娴酱,5
+3963,Crime and punishment,[俄]费奥多尔·陀思妥耶夫斯基,5
+3964,Find Me,AndréAciman,5
+3965,Austerlitz,[德]温弗里德?塞巴尔德,5
+3966,NvFu Emma,[阿根廷]塞萨尔·艾拉,5
+3967,Story prescription,[美]丹提·W.摩尔(DintyW.Moore),5
+3968,"The world lost,",太宰治,5
+3969,Midnight's children,[英]萨尔曼·鲁西迪,5
+3970,The last letter,[日]岩井俊二,5
+3971,"Bernadette, where are you going",[美]玛利亚·森普尔,5
+3972,The moon and sixpence,威廉·萨默塞特·毛姆,5
+3973,Notre Dame de Paris,[法]维克多·雨果,5
+3974,Little reunion,张爱玲,5
+3975,The whole of love,张爱玲,5
+3976,Yellowbird remember,苏童,5
+3977,2001 A Space Odyssey,[英]阿瑟·克拉克,5
+3978,The English patient,[加拿大]迈克尔·翁达杰,5
+3979,Keep watch on,阿兰·摩尔,5
+3980,Ordinary world,路遥,5
+3981,My Regiment (top),兰晓龙,5
+3982,Gentleman on top 2,囧囧有妖,5
+3983,Young Werther's troubles,[德]歌德,5
+3984,Green snake,李碧华,5
+3985,8. The Final Episode (Part 2),南派三叔,5
+3986,Gone Girl,[美]吉莉安·弗琳,5
+3987,Xu Chenguang 2,月下魂销,5
+3988,The Catcher in the rye,J·D·塞林格,5
+3989,The moonlight forest,葵田谷,5
+3990,The Catcher in the rye,J·D·塞林格,5
+3991,High castle,[美]菲利普·迪克,5
+3992,Snow in Kilimanjaro,[美]欧内斯特·海明威,5
+3993,Minority Report,[美]菲利普·迪克,5
+3994,decryption,麦家,5
+3995,Shaded sky,[美]保罗·鲍尔斯,5
+3996,Three coffin,[美]约翰·迪克森·卡尔,5
+3997,The Flowers of War,[美]严歌苓,5
+3998,The book of the dead,[美]H.P.洛夫克拉夫特著,5
+3999,The narrow gate,[法]安德烈·纪德,5
+4000,robin,[挪威]尤·奈斯博,5

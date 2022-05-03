@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    register
+{% endblock %}
+
+{% block header %}
+     <script>
+document.addEventListener('DOMContentLoaded', function() {
+
+                  // Change font color to red
+                  document.querySelector('#red').onclick = function() {
+                      document.querySelector('#changeColor8').style.color = 'red';
+                      document.querySelector('#changeColor1').style.color = 'red';
+                      document.querySelector('#bookR').style.color = 'red';
+                      document.querySelector('#logout_color').style.color = 'red';
+                      document.querySelector('#login_color').style.color = 'red';
+                      document.querySelector('#register_color').style.color = 'red';
+                      document.querySelector('#search_color').style.color = 'red';
+                      document.querySelector('#more_color').style.color = 'red';
+
+                  };
+
+
+                  // Change font color to blue
+                  document.querySelector('#blue').onclick = function() {
+                      document.querySelector('#changeColor1').style.color = 'blue';
+                      document.querySelector('#bookR').style.color = 'blue';
+                      document.querySelector('#logout_color').style.color = 'blue';;
+                      document.querySelector('#login_color').style.color = 'blue';
+                      document.querySelector('#register_color').style.color = 'blue';
+                      document.querySelector('#search_color').style.color = 'blue';
+                      document.querySelector('#more_color').style.color = 'blue';
+                  };
+
+                  // Change font color to green
+                  document.querySelector('#green').onclick = function() {
+                      document.querySelector('#changeColor1').style.color = 'green';
+                      document.querySelector('#bookR').style.color = 'green';
+                      document.querySelector('#logout_color').style.color = 'green';
+                      document.querySelector('#login_color').style.color = 'green';
+                      document.querySelector('#register_color').style.color = 'green';
+                      document.querySelector('#search_color').style.color = 'green';
+                      document.querySelector('#more_color').style.color = 'green';
+                  };
+              });
+
+</script>
+{% endblock %}
+
+{% block body %}
+    <h1 id="more">More</h1>
+    <div class="container">
+        <div class="row">
+        <div class="col">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  信息技术和网络技术的飞速发展，让全世界的人们提前很多年享受到虚拟网络世界给人们带来的幸福与快乐，信息的快速传递和思想情感的充分交流是IT和Internet给人们带来最为美好的一面。但是IT和Internet经济的泡沫，却让过早的享受这一切的人们也付出了代价，尤其是使投资者们损失了巨额的资金。
+当带有许多泡沫的网络大潮退却的时候，人们发现海滩上还留下了电子邮件，资讯的快速浏览和寻找，聊天和免费的互动娱乐，除了这样几件东西以外，还有另外一件东西，那就是电子书
+        </div>
+        <div class="col">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   网络的存在，无疑会使传统的精神文化产品受到冲击。人们欢迎电子书，但是电子书却不能违背产业发展的规律，也不能无视资本的力量。不然我们绝对不会看到：现在所有新出的“书籍、杂志和报纸”原本都已经数字化了，可就在面向读者的最后一关——出版，没有将“数字化”进行到底，仍旧使用的是纸张。如果说，这是由于技术的原因而不能实现以电子显示的方式进行大众阅读，那么这显然不是正确的回答。
+        </div>
+    </div>
+
+    <h4><a href="https://www.taobao.com/">Other E-book sellers</a></h4>
+
+
+{% endblock %}

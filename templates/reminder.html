@@ -1,0 +1,62 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Reminder
+{% endblock %}
+
+{% block header %}
+     <script>
+document.addEventListener('DOMContentLoaded', function() {
+
+                  // Change font color to red
+                  document.querySelector('#red').onclick = function() {
+                      document.querySelector('#changeColor10').style.color = 'red';
+                      document.querySelector('#changeColor1').style.color = 'red';
+                      document.querySelector('#bookR').style.color = 'red';
+                      document.querySelector('#logout_color').style.color = 'red';
+                      document.querySelector('#login_color').style.color = 'red';
+                      document.querySelector('#register_color').style.color = 'red';
+                      document.querySelector('#search_color').style.color = 'red';
+
+                      document.querySelector('#more_color').style.color = 'red';
+                  };
+
+
+                  // Change font color to blue
+                  document.querySelector('#blue').onclick = function() {
+                      document.querySelector('#changeColor10').style.color = 'blue';
+                      document.querySelector('#changeColor1').style.color = 'blue';
+                      document.querySelector('#bookR').style.color = 'blue';
+                      document.querySelector('#logout_color').style.color = 'blue';;
+                      document.querySelector('#login_color').style.color = 'blue';
+                      document.querySelector('#register_color').style.color = 'blue';
+                      document.querySelector('#search_color').style.color = 'blue';
+
+                      document.querySelector('#more_color').style.color = 'blue';
+                  };
+
+                  // Change font color to green
+                  document.querySelector('#green').onclick = function() {
+                      document.querySelector('#changeColor10').style.color = 'green';
+                      document.querySelector('#changeColor1').style.color = 'green';
+                      document.querySelector('#bookR').style.color = 'green';
+                      document.querySelector('#logout_color').style.color = 'green';
+                      document.querySelector('#login_color').style.color = 'green';
+                      document.querySelector('#register_color').style.color = 'green';
+                      document.querySelector('#search_color').style.color = 'green';
+
+                      document.querySelector('#more_color').style.color = 'green';
+                  };
+              });
+
+</script>
+{% endblock %}
+
+{% block body %}
+<h2 id="changeColor10" style="text-align: center"> {{ message }}</h2>
+ {% if m==1 %}
+<div class="text-center"><a href="login" class="btn btn-primary btn-lg active" role="button">点击进入登录页面</a>></div>
+ {% elif m==2 %}
+<div class="text-center"><a href="search" class="btn btn-primary btn-lg active" role="button">点击进入图书搜索页面</button></a>></div>
+{% endif %}
+{% endblock %}

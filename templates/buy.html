@@ -1,0 +1,82 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Buy
+{% endblock %}
+
+{% block header %}
+     <script>
+document.addEventListener('DOMContentLoaded', function() {
+
+                  // Change font color to red
+                  document.querySelector('#red').onclick = function() {
+                      document.querySelector('#changeColor6').style.color = 'red';
+                      document.querySelector('#changeColor7').style.color = 'red';
+                      document.querySelector('#changeColor1').style.color = 'red';
+                      document.querySelector('#bookR').style.color = 'red';
+                      document.querySelector('#logout_color').style.color = 'red';
+                      document.querySelector('#login_color').style.color = 'red';
+                      document.querySelector('#register_color').style.color = 'red';
+                      document.querySelector('#search_color').style.color = 'red';
+                      document.querySelector('#more_color').style.color = 'red';
+
+                  };
+
+
+                  // Change font color to blue
+                  document.querySelector('#blue').onclick = function() {
+                      document.querySelector('#changeColor6').style.color = 'blue';
+                      document.querySelector('#changeColor7').style.color = 'blue';
+                      document.querySelector('#changeColor1').style.color = 'blue';
+                      document.querySelector('#bookR').style.color = 'blue';
+                      document.querySelector('#logout_color').style.color = 'blue';;
+                      document.querySelector('#login_color').style.color = 'blue';
+                      document.querySelector('#register_color').style.color = 'blue';
+                      document.querySelector('#search_color').style.color = 'blue';
+                      document.querySelector('#more_color').style.color = 'blue';
+                  };
+
+                  // Change font color to green
+                  document.querySelector('#green').onclick = function() {
+                      document.querySelector('#changeColor6').style.color = 'green';
+                      document.querySelector('#changeColor7').style.color = 'green';
+                      document.querySelector('#changeColor1').style.color = 'green';
+                      document.querySelector('#bookR').style.color = 'green';
+                      document.querySelector('#logout_color').style.color = 'green';
+                      document.querySelector('#login_color').style.color = 'green';
+                      document.querySelector('#register_color').style.color = 'green';
+                      document.querySelector('#search_color').style.color = 'green';
+                      document.querySelector('#more_color').style.color = 'green';
+                  };
+              });
+
+</script>
+{% endblock %}
+
+
+{% block body %}
+    <h1 id="changecColor6">{{ book.title }}  </h1>
+  <br>
+  <h4 id="changecColor7" style="text-align: center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ isbn: {{ book.isbn }}, author: {{book.author}}, ￥:{{ book.money }}
+  <br>
+  <br>
+
+  <br>
+  <br>
+  </h4>
+    <form action="{{ url_for('buy', isbn=isbn) }}" method="POST">
+        <div class = "form-group">
+            <label>location:</label>
+            <input type="location" class="form-control" placeholder="location" required="required" name="location" id="location">
+        </div>
+
+        <div class = "form-group">
+            <button type="submit" class="btn btn-secondary"> buy </button>
+        </div>
+    </form>
+
+    <br>
+
+{% endblock %}
